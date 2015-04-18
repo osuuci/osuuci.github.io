@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Contact - osu! UCI</title>
+    <link rel="icon" href="../resources/favicon.ico">
+    <link rel="shortcut icon" href="../resources/favicon.ico">
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" media="screen and (min-device-width: 800px)" type="text/css" href="../resources/theme.css">
+    <link rel="stylesheet" media="screen and (max-device-width: 799px)" type="text/css" href="../resources/mobile.css">
+  </head>
+
+  <body>
+    <div class="buttons">
+      <table>
+	<tr>
+	  <td><a href="../home" class="button"><img alt="Home" title="Home" src="../resources/iconHome.png"/></a></td>
+	  <td><a href="../officers" class="button"><img alt="Officers" title="Officers" src="../resources/iconOfficers.png"/></a></td>
+	  <td><a href="../about" class="button"><img alt="About" title="About" src="../resources/iconAbout.png"/></a></td>
+	  <td><a href="../contact" class="button selected"><img alt="Contact" title="Contact" src="../resources/iconContact.png"/></a></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <h2>Contact</h2>
+      <p>Questions, comments, concerns? We're open to any feedback. Connect with us through social media and tell us your thoughts!</p>
+    </div>
+
+    <div class="archive">
+      <table>
+	<tr>
+	  <td>
+	    <a href="https://www.facebook.com/groups/osuuci/" class="button"><img src="../resources/iconFacebook.png" alt="Facebook" title="Facebook"/></a>
+	  </td>
+	  <td>
+	    <p>Facebook</p>
+	    <p>Join our <a href="https://www.facebook.com/groups/osuuci/">Facebook group</a></p>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    <a href="https://twitter.com/osuUCI"><img src="../resources/iconTwitter.png" alt="Twitter" title="Twitter"/></a>
+	  </td>
+	  <td>
+	    <p>Twitter</p>
+	    <p>Follow us on <a href="https://twitter.com/osuUCI">Twitter</a></p>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    <a href="http://www.twitch.tv/osuuci"><img src="../resources/iconTwitch.png" alt="Twitch" title="Twitch"/></a>
+	  </td>
+	  <td>
+	    <p>Twitch</p>
+	    <p>Watch us on our <a href="http://www.twitch.tv/osuuci">Twitch stream</a></p>
+	  </td>
+	</tr>
+	<tr>
+	    <td>
+	      <a href="../mumble" class="button"><img alt="Mumble" title="Mumble" src="../resources/iconMumble.png"/></a>
+	    </td>
+	  <td>
+	    <p>Mumble</p>
+	    <p>Chat with us on <a href="../mumble" class="button">Mumble</a></p>
+	  </td>
+	</tr>
+	<tr>
+	    <td>
+	      <a href="../paypal" class="button"><img alt="PayPal" title="PayPal" src="../resources/iconPaypal.png"/></a>
+	    </td>
+	  <td>
+	    <p>PayPal</p>
+	    <p>Support our club with <a href="../mumble" class="button">donations</a></p>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	     <a href="mailto:osuuci@gmail.com"><img src="../resources/iconGMail.png" alt="Email" title="Email"/></a>
+	  </td>
+	  <td>
+	    <p>Email</p>
+	    <p>Email us at <a href="mailto:osuuci@gmail.com">osuuci@gmail.com</a></p>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    <a href="https://drive.google.com/drive/u/0/#folders/0B9f8l7Lh8KmtUlB0S2RQZXowYlU" class="button"><img src="../resources/iconGoogleDrive.png" alt="Drive" title="Drive"/></a>
+	  </td>
+	  <td>
+	    <p>Drive</p>
+	    <p>Access our public <a href="https://drive.google.com/drive/u/0/#folders/0B9f8l7Lh8KmtUlB0S2RQZXowYlU">Google Drive</a></p>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    <a href="https://osu.ppy.sh/u/osuuci"><img src="../resources/iconOsu.png" alt="osu!" title="osu!"/></a>
+	  </td>
+	  <td>
+	    <p>osu!</p>
+	    <p>Friend us on <a href="https://osu.ppy.sh/u/osuuci">osu!</a></p>
+	  </td>
+	</tr>
+      </table>
+    </div>
+  </body>
+</html>

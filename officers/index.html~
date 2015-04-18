@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Officers - osu! UCI</title>
+    <link rel="icon" href="../resources/favicon.ico">
+    <link rel="shortcut icon" href="../resources/favicon.ico">
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" media="screen and (orientation:landscape)" type="text/css" href="../resources/theme.css">
+    <link rel="stylesheet" media="screen and (orientation:portrait)" type="text/css" href="../resources/mobile.css">
+  </head>
+
+  <body>
+    <div class="buttons">
+      <table>
+	<tr>
+	  <td><a href="../home" class="button"><img alt="Home" title="Home" src="../resources/iconHome.png"/></a></td>
+	  <td><a href="../officers" class="button selected"><img alt="Officers" title="Officers" src="../resources/iconOfficers.png"/></a></td>
+	  <td><a href="../about" class="button"><img alt="About" title="About" src="../resources/iconAbout.png"/></a></td>
+	  <td><a href="../contact" class="button"><img alt="Contact" title="Contact" src="../resources/iconContact.png"/></a></td>
+	  <td><a href="../pressstart" class="button"><img alt="Tournaments" title="Tournaments" src="../resources/iconTournaments.png"/></a></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <h2>Officers</h2>
+      <p>Meet your fellow officers in charge of the club!</p>
+    </div>
+
+    <div class="showcase">
+      <table>
+	<tr>
+	  <td>
+	    <img src="max.png"/>
+	  </td>
+	  <td>
+	    <p>Max "Shrackner" Chung</p>
+	    <p>3rd year, Computer Game Science</p>
+	    <p>(Nov. 2014 - Present)</p>
+	    <a href="https://www.facebook.com/maxrchung" class="button"><img alt="Facebook" title="Facebook" src="../resources/iconFacebook.png"/></a>
+	    <a href="mailto:maxrchung@gmail.com" class="button"><img alt="Email" title="Email" src="../resources/iconGMail.png"/></a>
+	    <a href="https://osu.ppy.sh/u/1472763" class="button"><img alt="osu!" title="osu!" src="../resources/iconOsu.png"/></a>
+	    <a href="http://maxrchung.com" class="button"><img alt="Website" title="Website" src="../resources/iconMax.png"/></a>
+	  </td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>What's up everyone. I'm Wax Chug da Gwad. Some of you guys may know me as Max Chung, and some fewer of you know me by Shrackner. I started playing osu! 3 years ago, but have only been playing it on-and-off as a side game, with months of break in between. It wasn't until last fall quarter that Justin, Brad, and I randomly met up and found out we all played osu!.</p>
+
+      <p>Thinking it was a good chance for me to get more serious about the game, meet new people, and try something new, I took the lead in starting up this club and bringing it to where it is now. It's been an absolute blast playing the game with everyone so far, and I hope we grow in numbers and do greater things in the future!</p>
+
+      <p>Outside of osu!, I'm an active officer and developer of the <a href="http://vgdc-uci.com/">Video Game Development Club at UCI</a>. I love making games, and it's thanks to VGDC that I've met a ton of awesome people and have the passion I have now. Big shoutouts to them! If you're at all interested in game development, definitely check them out and get involved.</p>
+
+      <p>I watch a fair bit of anime in my free time, not religiously anymore, but still a good chunk here and there, and as a result of anime, osu!, and NicoNico, I listen to a lot of Japanese/anime/vocaloid/utaite music. My favorite animes of all time are <a href="http://myanimelist.net/anime/7785/Yojouhan_Shinwa_Taikei">The Tatami Galaxy</a>, the first 15 minutes of <a href="http://myanimelist.net/anime/6675/Redline">Redline</a>, and the last 15 minutes of <a href="http://myanimelist.net/anime/875/Mind_Game">Mind Game</a>. My favorite vocaloid producer is <a href="http://vocaloid.wikia.com/wiki/Mikito-P">MikitoP</a>, and my favorite song by him is "<a href="https://www.youtube.com/watch?v=HaQl3f4fFWI">Sayoko</a>" by <a href="http://utaite.wikia.com/wiki/Kano">Kano</a>.</p>
+      <p class="signature">-Wax "Max 'Shrackner' Chung" Chug da Gwad</p>
+    </div>
+
+    <div class="showcase">
+      <table>
+	<tr>
+	  <td>
+	    <img src="justin.png"/>
+	  </td>
+	  <td>
+	    <p>Justin "Shintomo" Veyna</p>
+	    <p>1st year, Computer Science</p>
+	    <p>(Nov. 2014 - Present)</p>
+	    <a href="https://www.facebook.com/justin.veyna.3?fref=ts" class="button"><img alt="Facebook" title="Facebook" src="../resources/iconFacebook.png"/></a>
+	    <a href="mailto:zala64@gmail.com" class="button"><img alt="Email" title="Email" src="../resources/iconGMail.png"/></a>
+	    <a href="https://osu.ppy.sh/u/shintomo"><img alt="osu!" title="osu!" src="../resources/iconOsu.png"/></a>
+	  </td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>Hey all! I entered UCI in the fall of 2014 as first year computer science major. In my free time I like to watch lots of <a href="http://myanimelist.net/animelist/LazerGuard">anime</a> and play a whole bunch of different games. I started playing osu! about 2 years ago starting out as a mouse only player and gradually switching over to tablet + keyboard. Recently I've been getting into making beatmaps, but I still have a lot to learn.</p>
+      <p class="signature">-Justin Veyna</p>
+    </div>
+
+    <div class="showcase">
+      <table>
+	<tr>
+	  <td>
+	    <img src="bradley.png"/>
+	  </td>
+	  <td>
+	    <p>Bradley "mauler68" Shood</p>
+	    <p>1st year, Computer Science</p>
+	    <p>(Nov. 2014 - Present)</p>
+	    <a href="https://www.facebook.com/profile.php?id=100008585881777&fref=ts" class="button"><img alt="Facebook" title="Facebook" src="../resources/iconFacebook.png"/></a>
+	    <a href="mailto:mauler68@gmail.com" class="button"><img alt="Email" title="Email" src="../resources/iconGMail.png"/></a>
+	    <a href="https://osu.ppy.sh/u/mauler68"><img alt="osu!" title="osu!" src="../resources/iconOsu.png"/></a>
+	  </td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>こんにちは fellow osu! players! My name is Bradley (Brad) 
+I graduated from Leigh High School in San Jose and came to UCI to study Computer Science.</p>
+      <p>I used to have a lot of interest in games, 
+but after discovering the glorious nippon I didn't have time for them anymore.
+I knew about osu! since May 2014 and I thought the concept of the game was pretty cool; though I didn't really take the game seriously until the start of Fall 2014.</p>
+      <p>My friend/roomate/other club officer (Justin) was actually pretty good at the game, and watching him play motivated me to try and git gud. 
+Besides osu!, other things I do for fun involve technology and Japanese media.</p>
+      <p class="signature">-Bradley Shood</p>
+    </div>
+
+   
+    <div class="showcase">
+      <table>
+	<tr>
+	  <td>
+	    <img src="jimmy.png"/>
+	  </td>
+	  <td>
+	    <p>Jimmy "Jim" Zhang</p>
+	    <p>3rd year, Psychology</p>
+	    <p>(Mar. 2015 - Present)</p>
+	    <a href="https://www.facebook.com/jimmy.zhang.376?fref=ts" class="button"><img alt="Facebook" title="Facebook" src="../resources/iconFacebook.png"/></a>
+	    <a href="mailto:zhangjr@uci.edu" class="button"><img alt="Email" title="Email" src="../resources/iconGMail.png"/></a>
+	    <a href="https://osu.ppy.sh/u/Jim"><img alt="osu!" title="osu!" src="../resources/iconOsu.png"/></a>
+	  </td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>I’m Jimmy and I’m a 3rd year psychology student. I’m a transfer from Santa Monica College and a Los Angeles native. I’m big on mechanical keyboards and am currently on a quest to collect every switch type available. I’m able to consume enough sugar in one sitting to kill a small horse and I’m pretty sure I’ve spent more time on my computer in the past year than most people do in five. On the weekends I enjoy swimming and trying to cook up new recipes in hopes that I can become someone’s ultimate waifu.</p>
+
+      <p>I started Osu! about two years ago and have been playing really on and off since then. I’ve been playing more seriously for about 6 months now. I used to grind super hard for accuracy in DT maps (PP farm ayyyy lmao (<span style="font-family: 'Arial', sans-serif">◕‿◕✿</span>)) but nowadays I usually just go on to enjoy the music and have some fun with friends. I couldn’t stream more than 5 notes accurately if my life depended on it. I primarily enjoy jump and speed maps. My favorite three mappers are HelloSCV, Frostmourne and Fycho.  I’ve got a major love/hate relationship with this game, so if you ever hop into a skype call with us and hear someone yelling, it’s probably me.</p>
+
+      <p>Aside from Osu! I play a lot of different MMO’s and League of Legends (Jims). You can find me on Tera (Yunosagi, Tempest Reach, don’t really play too much nowadays though) and Dungeon Fighter Online (Iroha, Delieze). Throw me a buddy invite and let’s play sometime!</p>
+      <p class="signature">-Jimmy Zhang</p>
+    </div>
+
+ <div class="showcase">
+      <table>
+	<tr>
+	  <td>
+	    <img src="aaron.png"/>
+	  </td>
+	  <td>
+	    <p>Aaron "Xenocidel" Liao</p>
+	    <p>1st year, Computer Engineering</p>
+	    <p>(Apr. 2015 - Present)</p>
+	    <a href="https://www.facebook.com/Xenocidel" class="button"><img alt="Facebook" title="Facebook" src="../resources/iconFacebook.png"/></a>
+	    <a href="mailto:aaronliao714@gmail.com" class="button"><img alt="Email" title="Email" src="../resources/iconGMail.png"/></a>
+	    <a href="https://osu.ppy.sh/u/Xenocidel"><img alt="osu!" title="osu!" src="../resources/iconOsu.png"/></a>
+	    <a href="http://www.twitch.tv/xenocidel"><img alt="Twitch" title="Twitch" src="../resources/iconTwitch.png"/></a>
+	  </td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>Hi all! I'm Aaron, a computer hardware enthusiast, DIY hobbyist, and eSports fan. I started playing osu! about two years ago, and though I have never been musically (rhymically?) inclined, I rather enjoy the game a lot. I suppose this contributes to my not being able to hold a combo for my life. Oh well, at least I don't have shit acc like Max.{WEBMASTER MAX's note: Hey man...}Oh, and did I mention I'm one of the rare mouse players? Mouse players unite!</p>
+
+      <p>Other things I'm involved with is being the lead manager of the StarCraft II <a href="http://sc2.hsstarleague.com">division</a> of the High School Starleague. We run eSports tournaments involving hundreds (soon to be thousands!) high schools around the nation+Canada.</p>
+
+      <p>In the rare occasions when I'm not at my computer, I like to play racquetball or build computers for people. Hit me up if you're interested in either of those things :D</p>
+      <p class="signature">-Aaron Liao</p>
+    </div>
+
+
+  </body>
+</html>

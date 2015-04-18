@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Home - osu! UCI</title>
+    <link rel="icon" href="../resources/favicon.ico">
+    <link rel="shortcut icon" href="../resources/favicon.ico">
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" media="screen and (orientation:landscape)" type="text/css" href="../resources/theme.css">
+    <link rel="stylesheet" media="screen and (orientation:portrait)" type="text/css" href="../resources/mobile.css">
+  </head>
+
+  <body>
+    <div class="buttons">
+      <table>
+	<tr>
+	  <td><a href="../home" class="button selected"><img alt="Home" title="Home" src="../resources/iconHome.png"/></a></td>
+	  <td><a href="../officers" class="button"><img alt="Officers" title="Officers" src="../resources/iconOfficers.png"/></a></td>
+	  <td><a href="../about" class="button"><img alt="About" title="About" src="../resources/iconAbout.png"/></a></td>
+	  <td><a href="../contact" class="button"><img alt="Contact" title="Contact" src="../resources/iconContact.png"/></a></td>
+	  <td><a href="pressstart" class="button"><img alt="Tournaments" title="Tournaments" src="../resources/iconTournaments.png"/></a></td>
+	</tr>
+      </table>
+    </div>
+
+    <img class="banner" src="banner.png" />
+
+    <div class="links">
+      <div class="buttons">
+	<table>
+	  <tr>
+	    <td><a href="https://www.facebook.com/groups/osuuci/" class="button"><img alt="Facebook" title="Facebook" src="../resources/iconFacebook.png"/></a></td>
+	    <td><a href="https://twitter.com/osuUCI" class="button"><img alt="Twitter" title="Twitter" src="../resources/iconTwitter.png"/></a></td>
+	    <td><a href="http://www.twitch.tv/osuuci" class="button"><img alt="Twitch" title="Twitch" src="../resources/iconTwitch.png"/></a></td>
+	    <td><a href="../mumble" class="button"><img alt="Mumble" title="Mumble" src="../resources/iconMumble.png"/></a></td>
+	  </tr>
+	  <tr>
+	    <td><a href="../donations" class="button"><img src="../resources/iconPaypal.png" title="PayPal" alt="PayPal"/></a></td>
+	    <td><a href="mailto:osuuci@gmail.com" class="button"><img alt="Email" title="Email" src="../resources/iconGMail.png"/></a></td>
+	    <td><a href="https://drive.google.com/drive/u/0/#folders/0B9f8l7Lh8KmtUlB0S2RQZXowYlU" class="button"><img alt="Drive" title="Drive" src="../resources/iconGoogleDrive.png"/></a></td>
+	    <td><a href="https://osu.ppy.sh/u/osuUCI" class="button"><img alt="osu!" title="osu!" src="../resources/iconOsu.png"/></a></td>
+	  </tr>
+	</table>
+      </div>
+    </div>
+  </body>
+</html>
