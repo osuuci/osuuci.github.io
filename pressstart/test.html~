@@ -95,19 +95,628 @@
 	<li>09:00-11:30AM: Player check-in, warmup</li>
 	<li>11:30-12:00PM: Swiss groups finalization</li>
 	<li>12:00-12:30PM: Group 1 Round 1</li>
+      </ul>
+    </div>
+    
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL3</p></td>
+	  <td><p>match3</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL4</p></td>
+	  <td><p>match4</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL5</p></td>
+	  <td><p>match5</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL6</p></td>
+	  <td><p>match6</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL7</p></td>
+	  <td><p>match7</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL8</p></td>
+	  <td><p>match8</p></td>
+	</tr>
+      </table>
+    </div>
+      
+    <div class="mid">
+      <p>
+      <ul>
 	<li>12:30-01:00PM: Group 2 Round 1</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL3</p></td>
+	  <td><p>match3</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL4</p></td>
+	  <td><p>match4</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL5</p></td>
+	  <td><p>match5</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL6</p></td>
+	  <td><p>match6</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL7</p></td>
+	  <td><p>match7</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL8</p></td>
+	  <td><p>match8</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
 	<li>01:00-01:30PM: Group 1 Round 2</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL3</p></td>
+	  <td><p>match3</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL4</p></td>
+	  <td><p>match4</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL5</p></td>
+	  <td><p>match5</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL6</p></td>
+	  <td><p>match6</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL7</p></td>
+	  <td><p>match7</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL8</p></td>
+	  <td><p>match8</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
 	<li>01:30-02:00PM: Group 2 Round 2</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL3</p></td>
+	  <td><p>match3</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL4</p></td>
+	  <td><p>match4</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL5</p></td>
+	  <td><p>match5</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL6</p></td>
+	  <td><p>match6</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL7</p></td>
+	  <td><p>match7</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL8</p></td>
+	  <td><p>match8</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
 	<li>02:00-02:30PM: Group 1 Round 3</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL3</p></td>
+	  <td><p>match3</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL4</p></td>
+	  <td><p>match4</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL5</p></td>
+	  <td><p>match5</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL6</p></td>
+	  <td><p>match6</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL7</p></td>
+	  <td><p>match7</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL8</p></td>
+	  <td><p>match8</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
 	<li>02:30-03:00PM: Group 2 Round 3</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL3</p></td>
+	  <td><p>match3</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL4</p></td>
+	  <td><p>match4</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL5</p></td>
+	  <td><p>match5</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL6</p></td>
+	  <td><p>match6</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL7</p></td>
+	  <td><p>match7</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL8</p></td>
+	  <td><p>match8</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
 	<li>03:00-03:30PM: Group 1 Round 4</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL3</p></td>
+	  <td><p>match3</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL4</p></td>
+	  <td><p>match4</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL5</p></td>
+	  <td><p>match5</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL6</p></td>
+	  <td><p>match6</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL7</p></td>
+	  <td><p>match7</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL8</p></td>
+	  <td><p>match8</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
 	<li>03:30-04:00PM: Group 2 Round 4</li>
+      </ul>
+    </div>
+     
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL3</p></td>
+	  <td><p>match3</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL4</p></td>
+	  <td><p>match4</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL5</p></td>
+	  <td><p>match5</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL6</p></td>
+	  <td><p>match6</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL7</p></td>
+	  <td><p>match7</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL8</p></td>
+	  <td><p>match8</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
 	<li>04:00-05:00PM: Break, bracket setup</li>
 	<li>05:00-06:00PM: Quarter finals</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL3</p></td>
+	  <td><p>match3</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL4</p></td>
+	  <td><p>match4</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
 	<li>06:00-07:00PM: Semi finals</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
 	<li>07:00-08:00PM: Grand finals</li>
       </ul>
+    </div>
 
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>?</p></td>
+	  <td><p>?</p></td>
+	  <td><p>PSL1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
       <h2 id="mappool">Map Pool</h2>
       <p>Download the map pool or download the map pool with a fresh osu! client below. The second option has beatmap collections already set up within the game for each round and mod. To reduce the size of the downloads, all beatmap videos, storyboard, and skins have been removed. Also note that all the collection making and compiling was done by hand, so there may be errors here and there. Please contact any of the <a href="../officers">officers</a> of the club if there are any issues.</p>
       <ul>

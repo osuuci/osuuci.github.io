@@ -276,3 +276,24 @@ iframe {
     margin-right: auto;
     text-align: center;
 }
+
+.schedule > table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+.schedule td {
+    border: 1px solid black;
+    padding: 0;
+    margin: 0;
+}
+
+.schedule p {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    margin: 0;
+}
