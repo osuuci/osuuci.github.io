@@ -17,6 +17,7 @@
 	  <td><a href="officers" class="button"><img alt="Officers" title="Officers" src="resources/iconOfficers.png"/></a></td>
 	  <td><a href="about" class="button"><img alt="About" title="About" src="resources/iconAbout.png"/></a></td>
 	  <td><a href="contact" class="button"><img alt="Contact" title="Contact" src="resources/iconContact.png"/></a></td>
+	  <td><a href="pressstart" class="button"><img alt="Tournaments" title="Tournaments" src="resources/iconTournaments.png"/></a></td>
 	</tr>
       </table>
     </div>

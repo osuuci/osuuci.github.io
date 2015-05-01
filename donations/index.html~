@@ -18,7 +18,7 @@
 	  <td><a href="../officers" class="button"><img alt="Officers" title="Officers" src="../resources/iconOfficers.png"/></a></td>
 	  <td><a href="../about" class="button"><img alt="About" title="About" src="../resources/iconAbout.png"/></a></td>
 	  <td><a href="../contact" class="button"><img alt="Contact" title="Contact" src="../resources/iconContact.png"/></a></td>
-	  <td><a href="pressstart" class="button"><img alt="Tournaments" title="Tournaments" src="../resources/iconTournaments.png"/></a></td>
+	  <td><a href="../pressstart" class="button"><img alt="Tournaments" title="Tournaments" src="../resources/iconTournaments.png"/></a></td>
 	</tr>
       </table>
     </div>
@@ -27,8 +27,7 @@
       <h2>Donations</h2>
       <p>If you'd like to help support the club, please consider donating to us through <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WMPU8ARNP8MZW&lc=US&item_name=osu%21%20UCI&currency_code=USD&bn=PP%2dDonationsBF%3aiconPaypal%2epng%3aNonHosted">PayPal</a>. We'll be using the money to help pay for upkeep costs and plan exciting events in the future! Here's a priority list of what we'll be spending on:</p>
       <ul>
-	<li>Brad's ganglion cyst removal surgery<br>
-	  (but not really)</li>
+	<li>Brad's ganglion cyst removal surgery (but not really)</li>
 	<li>($50/year) Club re-registration</li>
 	<li>($5/month) Server rent</li>
 	<li>($1/month) Domain reservation</li>
