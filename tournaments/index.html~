@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mumble - osu! UCI</title>
+    <title>Press Start - osu! UCI</title>
+    <meta charset="UTF-8">
     <link rel="icon" href="../resources/favicon.ico">
     <link rel="shortcut icon" href="../resources/favicon.ico">
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet" type="text/css">
@@ -17,20 +18,21 @@
 	  <td><a href="../officers" class="button"><img alt="Officers" title="Officers" src="../resources/iconOfficers.png"/></a></td>
 	  <td><a href="../about" class="button"><img alt="About" title="About" src="../resources/iconAbout.png"/></a></td>
 	  <td><a href="../contact" class="button"><img alt="Contact" title="Contact" src="../resources/iconContact.png"/></a></td>
-	  <td><a href="../pressstart" class="button"><img alt="Tournaments" title="Tournaments" src="../resources/iconTournaments.png"/></a></td>
+	  <td><a href="../pressstart" class="button selected"><img alt="Tournaments" title="Tournaments" src="../resources/iconTournaments.png"/></a></td>
 	</tr>
       </table>
     </div>
 
     <div class="mid">
-      <h2>Mumble</h2>
-      <p>We've set up a Mumble server for the club to replace our Skype group. With a dedicated VoIP server, it's a little easier to access and manage participants, though as downsides, Mumble isn't as popular and we can't keep chat logs. We'll try out Mumble for a bit, and if it turns out we like Skype more, we'll switch back. Anyone (genuinely) interested in osu! or the club is welcome to check us out, AFK, or hangout with us. Login info:</p>
+      <h2>Links</h2>
+      <p>
       <ul>
-	<li>Server IP Address: osuuci.com</li>
-	<li>Port: 64738</li>
+	<li><a href="registration">Registration and Housing</a></li>
+	<li><a href="tournament">Tournament Rules and Info</a></li>
+	<li><a href="brackets">Brackets and Schedule</a></li>
+	<li><a href="mappool">Map Pool</a></li>
       </ul>
-      <h2>Connect Instructions</h2>
-      <p>To access our Mumble server (more properly known as Murmur), download and install the Mumble client and use that to connect with us. Up-to-date download links can be found on the <a href="http://wiki.mumble.info/wiki/Installing_Mumble#Getting_and_Installing_Mumble_and_Murmur">official Mumble site</a> for various operating systems.</p>
+      <img src="pressstart.png"/>
     </div>
   </body>
 </html>

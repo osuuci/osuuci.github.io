@@ -166,6 +166,31 @@ Besides osu!, other things I do for fun involve technology and Japanese media.</
       <p class="signature">-Aaron Liao</p>
     </div>
 
+<div class="showcase">
+      <table>
+	<tr>
+	  <td>
+	    <img src="victor.jpg"/>
+	  </td>
+	  <td>
+	    <p>Victor "lalipo" Stolle</p>
+	    <p>3rd year, Software Engineering</p>
+	    <p>(Apr. 2015 - Present)</p>
+	    <a href="https://www.facebook.com/victor.stolle?fref=ufi" class="button"><img alt="Facebook" title="Facebook" src="../resources/iconFacebook.png"/></a>
+	    <a href="mailto:vstolle@uci.edu" class="button"><img alt="Email" title="Email" src="../resources/iconGMail.png"/></a>
+	    <a href="https://osu.ppy.sh/u/lalipo"><img alt="osu!" title="osu!" src="../resources/iconOsu.png"/></a>
+	  </td>
+	</tr>
+      </table>
+    </div>
 
+    <div class="mid">
+      <p>Hello there! My name is Victor Stolle, and I am a 3rd year Software Engineering student. I started playing osu! 3 years ago when Max introduced this difficult rhythm game in between queues of League of Legends.</p>
+
+      <p>In osu! my average song difficulty is between 3-4 stars, and I play with the traditional mouse + keyboard setup. My favorite genres of music in the game are fast-paced, high BPM songs belonging to either electronic or rock.</p>
+
+      <p>Other than osu! I am a somewhat-active member of the Video Game Design Club, a member of the intramural water polo team, and a video game enthusiast. I play a lot of League of Legends and Diablo 3, and my favourite strategy game is Age of Empires 3. I also watch "a little bit" of anime every now and then, and listen to all genres of music.</p>
+      <p class="signature">-Victor Stolle</p>
+    </div>
   </body>
 </html>

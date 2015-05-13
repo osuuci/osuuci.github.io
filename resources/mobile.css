@@ -299,3 +299,7 @@ iframe {
     padding-bottom: 0.5em;
     margin: 0;
 }
+
+.schedule tr:first-child td p {
+    font-weight: bold;
+}

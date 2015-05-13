@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Press Start - osu! UCI</title>
+    <meta charset="UTF-8">
+    <link rel="icon" href="../../resources/favicon.ico">
+    <link rel="shortcut icon" href="../../resources/favicon.ico">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" media="screen and (orientation:landscape)" type="text/css" href="../../resources/theme.css">
+    <link rel="stylesheet" media="screen and (orientation:portrait)" type="text/css" href="../../resources/mobile.css">
+  </head>
+
+  <body>
+    <div class="buttons">
+      <table>
+	<tr>
+	  <td><a href="../../home" class="button"><img alt="Home" title="Home" src="../../resources/iconHome.png"/></a></td>
+	  <td><a href="../officers" class="button"><img alt="Officers" title="Officers" src="../../resources/iconOfficers.png"/></a></td>
+	  <td><a href="../../about" class="button"><img alt="About" title="About" src="../../resources/iconAbout.png"/></a></td>
+	  <td><a href="../../contact" class="button"><img alt="Contact" title="Contact" src="../../resources/iconContact.png"/></a></td>
+	  <td><a href="../../pressstart" class="button selected"><img alt="Tournaments" title="Tournaments" src="../../resources/iconTournaments.png"/></a></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <h2>Links</h2>
+      <p>
+      <ul>
+	<li><a href="../registration">Registration and Housing</a></li>
+	<li><a href="../tournament">Tournament Rules and Info</a></li>
+	<li><a href="../brackets">Brackets and Schedule</a></li>
+	<li><a href="../mappool">Map Pool</a></li>
+      </ul>
+
+      <h2 id="brackets">Brackets</h2>
+      <p>
+      <ul>
+	<li><a href="http://challonge.com/pressstartosuswiss">Swiss Group 1</a></li>
+      </ul>
+      <iframe src="http://challonge.com/pressstartosuswiss/module" width="100%" height="525" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+      <p>
+      <ul>
+	<li><a href="http://challonge.com/pressstartosuswiss2">Swiss Group 2</a></li>
+      </ul>
+      <iframe src="http://challonge.com/pressstartosuswiss2/module" width="100%" height="525" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+      <p>
+      <ul>
+	<li><a href="http://challonge.com/pressstartosubracket">Top 8 Bracket</a></li>
+      </ul>
+
+      <iframe src="http://challonge.com/pressstartosubracket/module" width="100%" height="525" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+
+      </ul>
+
+      <h2 id="schedule">Schedule</h2>
+      <p>May 10th</p>
+      <ul>
+	<li>09:00-10:00AM: Volunteer setup, staff check, stream check</li>
+	<li>09:00-11:30AM: Player check-in, warmup</li>
+	<li>11:30-12:00PM: Swiss groups finalization</li>
+	<li>12:00-12:30PM: Group 1 Round 1 (Bo3)</li>
+      </ul>
+    </div>
+    
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>Andrew</p></td>
+	  <td><p>Shintomo</p></td>
+	  <td><p>PSL:1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>jawnmewn</p></td>
+	  <td><p>Rework</p></td>
+	  <td><p>PSL:2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+	<tr>
+	  <td><p>35000vr</p></td>
+	  <td><p>inHarmonyx</p></td>
+	  <td><p>PSL:3</p></td>
+	  <td><p>match3</p></td>
+	</tr>
+	<tr>
+	  <td><p>leluffy</p></td>
+	  <td><p>TheWeirdo9</p></td>
+	  <td><p>PSL:4</p></td>
+	  <td><p>match4</p></td>
+	</tr>
+      </table>
+    </div>
+      
+    <div class="mid">
+      <p>
+      <ul>
+	<li>12:30-01:00PM: Group 2 Round 1 (Bo3)</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>HappyStick</p></td>
+	  <td><p>xxdeathx</p></td>
+	  <td><p>PSL:5</p></td>
+	  <td><p>match5</p></td>
+	</tr>
+	<tr>
+	  <td><p>bananamilk</p></td>
+	  <td><p>mauler68</p></td>
+	  <td><p>PSL:6</p></td>
+	  <td><p>match6</p></td>
+	</tr>
+	<tr>
+	  <td><p>Cyllinus</p></td>
+	  <td><p>Petrai</p></td>
+	  <td><p>PSL:7</p></td>
+	  <td><p>match7</p></td>
+	</tr>
+	<tr>
+	  <td><p>Aoyama Mio</p></td>
+	  <td><p>chaos reality</p></td>
+	  <td><p>PSL:8</p></td>
+	  <td><p>match8</p></td>
+	</tr>
+	<tr>
+	  <td><p>Harrharrqi</p></td>
+	  <td><p>BYE MATCH</p></td>
+	  <td><p>BYE MATCH</p></td>
+	  <td><p>BYE MATCH</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
+	<li>01:00-01:30PM: Group 1 Round 2 (Bo3)</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>Rework</p></td>
+	  <td><p>TheWeirdo9</p></td>
+	  <td><p>PSL:1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>Shintomo</p></td>
+	  <td><p>inHarmonyx</p></td>
+	  <td><p>PSL:2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+	<tr>
+	  <td><p>jawnmewn</p></td>
+	  <td><p>leluffy</p></td>
+	  <td><p>PSL:3</p></td>
+	  <td><p>match3</p></td>
+	</tr>
+	<tr>
+	  <td><p>Andrew</p></td>
+	  <td><p>35000vr</p></td>
+	  <td><p>PSL:4</p></td>
+	  <td><p>match4</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
+	<li>01:30-02:00PM: Group 2 Round 2 (Bo3)</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>Petrai</p></td>
+	  <td><p>chaos reality</p></td>
+	  <td><p>PSL:5</p></td>
+	  <td><p>match5</p></td>
+	</tr>
+	<tr>
+	  <td><p>mauler68</p></td>
+	  <td><p>BYE MATCH</p></td>
+	  <td><p>BYE MATCH</p></td>
+	  <td><p>BYE MATCH</p></td>
+	</tr>
+	<tr>
+	  <td><p>Harrharrqi</p></td>
+	  <td><p>xxdeathx</p></td>
+	  <td><p>PSL:7</p></td>
+	  <td><p>match7</p></td>
+	</tr>
+	<tr>
+	  <td><p>bananamilk</p></td>
+	  <td><p>Aoyama Mio</p></td>
+	  <td><p>PSL:8</p></td>
+	  <td><p>match8</p></td>
+	</tr>
+	<tr>
+	  <td><p>HappyStick</p></td>
+	  <td><p>Cyllinus</p></td>
+	  <td><p>PSL:9</p></td>
+	  <td><p>match9</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
+	<li>02:00-02:30PM: Group 1 Round 3 (Bo3)</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>leluffy</p></td>
+	  <td><p>Shintomo</p></td>
+	  <td><p>PSL:1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>Andrew</p></td>
+	  <td><p>Rework</p></td>
+	  <td><p>PSL:2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+	<tr>
+	  <td><p>TheWeirdo9</p></td>
+	  <td><p>inHarmonyx</p></td>
+	  <td><p>PSL:3</p></td>
+	  <td><p>match3</p></td>
+	</tr>
+	<tr>
+	  <td><p>jawnmewn</p></td>
+	  <td><p>35000vr</p></td>
+	  <td><p>PSL:4</p></td>
+	  <td><p>match4</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
+	<li>02:30-03:00PM: Group 2 Round 3 (Bo3)</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>Harrharrqi</p></td>
+	  <td><p>Petrai</p></td>
+	  <td><p>PSL:5</p></td>
+	  <td><p>match5</p></td>
+	</tr>
+	<tr>
+	  <td><p>Cyllinus</p></td>
+	  <td><p>mauler68</p></td>
+	  <td><p>PSL:6</p></td>
+	  <td><p>match6</p></td>
+	</tr>
+	<tr>
+	  <td><p>bananamilk</p></td>
+	  <td><p>xxdeathx</p></td>
+	  <td><p>PSL:7</p></td>
+	  <td><p>match7</p></td>
+	</tr>
+	<tr>
+	  <td><p>BYE MATCH</p></td>
+	  <td><p>chaos reality</p></td>
+	  <td><p>PSL:8</p></td>
+	  <td><p>match8</p></td>
+	</tr>
+	<tr>
+	  <td><p>HappyStick</p></td>
+	  <td><p>Aoyama Mio</p></td>
+	  <td><p>PSL:9</p></td>
+	  <td><p>match9</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
+	<li>03:00-03:30PM: Group 1 Round 4 (Bo3)</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>leluffy</p></td>
+	  <td><p>inHarmonyx</p></td>
+	  <td><p>PSL:1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>TheWeirdo9</p></td>
+	  <td><p>Andrew</p></td>
+	  <td><p>PSL:2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+	<tr>
+	  <td><p>35000vr</p></td>
+	  <td><p>Rework</p></td>
+	  <td><p>PSL:3</p></td>
+	  <td><p>match3</p></td>
+	</tr>
+	<tr>
+	  <td><p>jawnmewn</p></td>
+	  <td><p>Shintomo</p></td>
+	  <td><p>PSL:4</p></td>
+	  <td><p>match4</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
+	<li>03:30-04:00PM: Group 2 Round 4 (Bo3)</li>
+      </ul>
+    </div>
+     
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>xxdeathx</p></td>
+	  <td><p>chaos reality</p></td>
+	  <td><p>PSL:5</p></td>
+	  <td><p>match5</p></td>
+	</tr>
+	<tr>
+	  <td><p>BYE MATCH</p></td>
+	  <td><p>Petrai</p></td>
+	  <td><p>BYE MATCH</p></td>
+	  <td><p>BYE MATCH</p></td>
+	</tr>
+	<tr>
+	  <td><p>Harrharrqi</p></td>
+	  <td><p>mauler68</p></td>
+	  <td><p>PSL:7</p></td>
+	  <td><p>match7</p></td>
+	</tr>
+	<tr>
+	  <td><p>Aoyama Mio</p></td>
+	  <td><p>Cyllinus</p></td>
+	  <td><p>PSL:8</p></td>
+	  <td><p>match8</p></td>
+	</tr>
+	<tr>
+	  <td><p>HappyStick</p></td>
+	  <td><p>bananamilk</p></td>
+	  <td><p>PSL:9</p></td>
+	  <td><p>match9</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
+	<li>04:00-05:00PM: UCI vs UCSD Showmatch</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>PSL: (UCI) vs (UCSD)</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
+	<li>05:00-05:30PM: Break, bracket setup</li>
+	<li>05:30-06:30PM: Quarter finals (Bo5)</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>HappyStick</p></td>
+	  <td><p>Shintomo</p></td>
+	  <td><p>PSL:1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>jawnmewn</p></td>
+	  <td><p>Harrharrqi</p></td>
+	  <td><p>PSL:2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+	<tr>
+	  <td><p>35000vr</p></td>
+	  <td><p>bananamilk</p></td>
+	  <td><p>PSL:3</p></td>
+	  <td><p>match3</p></td>
+	</tr>
+	<tr>
+	  <td><p>Aoyama Mio</p></td>
+	  <td><p>Andrew</p></td>
+	  <td><p>PSL:4</p></td>
+	  <td><p>match4</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
+	<li>06:30-07:30PM: Semi finals (Bo7)</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>Shintomo</p></td>
+	  <td><p>jawnmewn</p></td>
+	  <td><p>PSL:1</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+	<tr>
+	  <td><p>35000vr</p></td>
+	  <td><p>Andrew</p></td>
+	  <td><p>PSL:2</p></td>
+	  <td><p>match2</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+      <ul>
+	<li>07:30: Grand finals (Bo9)</li>
+      </ul>
+    </div>
+
+    <div class="schedule">
+      <table>
+	<tr>
+	  <td><p>Player1 Username</p></td>
+	  <td><p>Player2 Username</p></td>
+	  <td><p>Lobby Name</p></td>
+	  <td><p>Password</p></td>
+	</tr>
+	<tr>
+	  <td><p>jawnmewn</p></td>
+	  <td><p>35000vr</p></td>
+	  <td><p>PSL: (jawnmewn) vs (35000vr)</p></td>
+	  <td><p>match1</p></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <p>
+    </div>
+  </body>
+</html>
