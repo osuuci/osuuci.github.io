@@ -31,12 +31,13 @@
 	    <td><a href="https://www.facebook.com/groups/osuuci/" class="button"><img alt="Facebook" title="Facebook" src="http://osuuci.com/resources/iconFacebook.png"/></a></td>
 	    <td><a href="https://twitter.com/osuUCI" class="button"><img alt="Twitter" title="Twitter" src="http://osuuci.com/resources/iconTwitter.png"/></a></td>
 	    <td><a href="http://www.twitch.tv/osuuci" class="button"><img alt="Twitch" title="Twitch" src="http://osuuci.com/resources/iconTwitch.png"/></a></td>
+	    <td><a href="http://osuuci.com/mumble" class="button"><img alt="Mumble" title="Mumble" src="http://osuuci.com/resources/iconMumble.png"/></a></td>
 	  </tr>
 	  <tr>
-	    <td><a href="http://osuuci.com/mumble" class="button"><img alt="Mumble" title="Mumble" src="http://osuuci.com/resources/iconMumble.png"/></a></td>
 	    <td><a href="http://osuuci.com/donations" class="button"><img src="http://osuuci.com/resources/iconPaypal.png" title="PayPal" alt="PayPal"/></a></td>
 	    <td><a href="mailto:osuuci@gmail.com" class="button"><img alt="Email" title="Email" src="http://osuuci.com/resources/iconGMail.png"/></a></td>
-	    <td><a href="https://drive.google.com/drive/u/0/#folders/0B9f8l7Lh8KmtUlB0S2RQZXowYlU" class="button"><img alt="Drive" title="Drive" src="http://osuuci.com/resources/iconGoogleDrive.png"/></a></td>
+	    <td><a href="https://drive.google.com/folderview?id=0B9f8l7Lh8KmtUlB0S2RQZXowYlU&usp=sharing" class="button"><img alt="Drive" title="Drive" src="http://osuuci.com/resources/iconGoogleDrive.png"/></a></td>
+	    <td><a href="https://osu.ppy.sh/u/osuuci%20dot%20com" class="button"><img alt="osu!" title="osu!" src="http://osuuci.com/resources/iconOsu.png"/></a></td>
 	  </tr>
 	</table>
       </div>

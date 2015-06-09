@@ -3,39 +3,40 @@
   <head>
     <title>Press Start - osu! UCI</title>
     <meta charset="UTF-8">
-    <link rel="icon" href="../../resources/favicon.ico">
-    <link rel="shortcut icon" href="../../resources/favicon.ico">
+    <link rel="icon" href="http://osuuci.com/resources/favicon.ico">
+    <link rel="shortcut icon" href="http://osuuci.com/resources/favicon.ico">
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" media="screen and (orientation:landscape)" type="text/css" href="../../resources/theme.css">
-    <link rel="stylesheet" media="screen and (orientation:portrait)" type="text/css" href="../../resources/mobile.css">
+    <link rel="stylesheet" media="screen and (orientation:landscape)" type="text/css" href="http://osuuci.com/resources/theme.css">
+    <link rel="stylesheet" media="screen and (orientation:portrait)" type="text/css" href="http://osuuci.com/resources/mobile.css">
   </head>
 
   <body>
     <div class="buttons">
       <table>
 	<tr>
-	  <td><a href="../../home" class="button"><img alt="Home" title="Home" src="../../resources/iconHome.png"/></a></td>
-	  <td><a href="../../officers" class="button"><img alt="Officers" title="Officers" src="../../resources/iconOfficers.png"/></a></td>
-	  <td><a href="../../about" class="button"><img alt="About" title="About" src="../../resources/iconAbout.png"/></a></td>
-	  <td><a href="../../contact" class="button"><img alt="Contact" title="Contact" src="../../resources/iconContact.png"/></a></td>
-	  <td><a href="../../pressstart" class="button selected"><img alt="Tournaments" title="Tournaments" src="../../resources/iconTournaments.png"/></a></td>
+	  <td><a href="http://osuuci.com/home" class="button"><img alt="Home" title="Home" src="http://osuuci.com/resources/iconHome.png"/></a></td>
+	  <td><a href="http://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="http://osuuci.com/resources/iconOfficers.png"/></a></td>
+	  <td><a href="http://osuuci.com/about" class="button"><img alt="About" title="About" src="http://osuuci.com/resources/iconAbout.png"/></a></td>
+	  <td><a href="http://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="http://osuuci.com/resources/iconContact.png"/></a></td>
+	  <td><a href="http://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="http://osuuci.com/resources/iconTournaments.png"/></a></td>
 	</tr>
       </table>
     </div>
 
     <div class="mid">
-      <h2>Links</h2>
+      <h2>Old Links</h2>
       <p>
       <ul>
-	<li><a href="../registration">Registration and Housing</a></li>
-	<li><a href="../tournament">Tournament Rules and Info</a></li>
-	<li><a href="../brackets">Brackets and Schedule</a></li>
-	<li><a href="../mappool">Map Pool</a></li>
+	<li><a href="http://osuuci.com/tournaments/pressstart">Summary</a></li>
+	<li><a href="http://osuuci.com/tournaments/pressstart/registration">Registration and Housing</a></li>
+	<li><a href="http://osuuci.com/tournaments/pressstart/tournament">Tournament Rules and Info</a></li>
+	<li><a href="http://osuuci.com/tournaments/pressstart/brackets">Brackets and Schedule</a></li>
+	<li><a href="http://osuuci.com/tournaments/pressstart/mappool">Map Pool</a></li>
       </ul>
 
     <div class="mid">
       <h2 id="mappool">Map Pool</h2>
-      <p>Download the map pool or download the map pool with a fresh osu! client below. The second option has beatmap collections already set up within the game for each round and mod. To reduce the size of the downloads, all beatmap videos, storyboard, and skins have been removed. Also note that all the collection making and compiling was done by hand, so there may be errors here and there. Please contact any of the <a href="../officers">officers</a> of the club if there are any issues.</p>
+      <p>Download the map pool or download the map pool with a fresh osu! client below. The second option has beatmap collections already set up within the game for each round and mod. To reduce the size of the downloads, all beatmap videos, storyboard, and skins have been removed. Also note that all the collection making and compiling was done by hand, so there may be errors here and there. Please contact any of the <a href="http://osuuci.com/officers">officers</a> of the club if there are any issues.</p>
       <ul>
 	<li>Download just the map pool: <a href="MapPool.rar" download>MapPool.rar</a> (358 MB)</li>
 	<li>Download map pool with client: <a href="MapPoolWithClient.rar" download>MapPoolWithClient.rar</a> (402 MB)</li>
