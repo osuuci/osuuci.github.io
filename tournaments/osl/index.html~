@@ -24,169 +24,168 @@
             </tr>
         </table>
     </div>
-        
-    
 
+    <div class="mid">
+      <div class="sideButtons">
+	<a href="http://osuuci.com/tournaments/osl#introduction" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/1.png"/>
+	    <p>Intro</p>
+	  </div>
+	</a>
+	
+	<a href="http://osuuci.com/tournaments/osl#registration" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/2.png"/>
+	    <p>Registration</p>
+	  </div>
+	</a>
 
-<div class="mid">
-  <div id="introduction">
-    <img src="http://osuuci.com/tournaments/osl/logo.png"/>
+	<a href="http://osuuci.com/tournaments/osl#format" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/3.png"/>
+	    <p>Format</p>
+	  </div>
+	</a>
 
-    <h2>osu! UCI Summer League 2015</h2>
-    <p>osu! UCI is proud to present and host osu! UCI Summer League 2015 (OSL). We've spent the last couple weeks discussing and planning the OSL, and we're now open for registrations. Check back regularly as we add more information to the site.</p>
-  </div>
+	<a href="http://osuuci.com/tournaments/osl#rules" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/4.png"/>
+	    <p>Rules</p>
+	  </div>
+	</a>
 
-  <div id="registration">
-    <h2>Registration</h2>
-    <p>Registrations are open until the end of the June. All players are welcome to apply provided they have the time to play every weekend of the league. We will edit map pools and structure accordingly for the eventual entrants.</p>
-    <iframe src="https://docs.google.com/forms/d/12nfIBv95BqXQFRotIVNXWpmto7E7XMaGec8QbKDYUw8/viewform?embedded=true" width="650" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>	
-  </div>
+	<a href="http://osuuci.com/tournaments/osl#sponsors" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/5.png"/>
+	    <p>Sponsors</p>
+	  </div>
+	</a>
 
-  <div id="format">
-    <h2>Format</h2>
-    <p>
-      <ul>
-        <li>Targetted for 32 players</li>
-        <li>All matches are played online</li>
-        <li>Spans 12 weeks from July 11th to September 27th</li>
-        <li>10 weeks of Swiss rounds each weekend from July 11th to September 13th</li>
-        <li>Matches will be played in 30 minute time slots on Saturday and Sunday from 8-10PM PDT (GMT-7)</li>
-        <li>Swiss rounds are best of 3</li>
-        <li>After a week's break, playoffs start September 26th and September 27th</li>
-        <li>Top 16 of the Swiss is seeded into the playoffs bracket</li>
-        <li>Playoffs will be played in hour time slots on Saturday and Sunday from 6-10PM PDT (GMT-7)</li>
-        <li>Playoffs are single elimination</li>
-        <li>Round of 16 is best of 5</li>
-        <li>Quarter-finals are best of 5</li>
-        <li>Semi-finals are best of 7</li>
-        <li>Grand-finals are best of 9</li>
-        <li>Matches will be streamed and casted on our <a href="http://www.twitch.tv/osuuci">Twitch channel</a></li>
-        <li>Due to time constraints matches will overlap and not all games will be broadcasted</li>
-      </ul>
-  </div>
+	<a href="http://osuuci.com/tournaments/osl#prizing" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/6.png"/>
+	    <p>Prizing</p>
+	  </div>
+	</a>
 
-  <div id="rules">
-    <h2>Rules</h2>
-    <p>
-      <ul>
-        <li>Players must be 15 years of age or older</li>
-        <li>Player accounts must be in good standing</li>
-        <li>Matches are in osu! standard with score as the win condition</li>
-        <li>!roll begins every match, higher roll wins</li>
-        <li>Roll loser decides warm up map (any song &lt;5 minutes, not in map pool)</li>
-        <li>Roll winner decides first map</li>
-        <li>Thereafter, loser decides next map</li>
-        <li>Each mod can only be selected once by a respective player</li>
-        <li>League rules and structure are subject to alterations by the administrators</li>
-	<li>administrators have the final say in any disputes</li>
-        <li>Missing a time slot (registration, matches, etc.) counts as a loss; please show up a few minutes before your alotted time slot so you and the administrators can set up in time</li>
-      </ul>
-  </div>
+	<a href="http://osuuci.com/tournaments/osl#mappools" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/7.png"/>
+	    <p>Map Pools</p>
+	  </div>
+	</a>
 
+	<a href="http://osuuci.com/tournaments/osl#faq" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/8.png"/>
+	    <p>FAQs</p>
+	  </div>
+	</a>
 
-  <div id="sponsors">
-    <h2>Sponsors</h2>
-    <p><a href="http://www.huiontablet.com/">Huion</a> has agreed to help sponsor the tournament with prizing and exposure. The details are still being worked out and will be posted at a later time. We're very grateful for the opportunity to work with them. Please help support them by buying their products!</p>
-  </div>
-
-  <div id="prizing">
-    <h2>Prizing</h2>
-    <p>The top 8 will be memorialized on the website. osu! supporter will also be awarded to the top 8. The exact months of supporter and additional prizing from sponsors are currently being discussed. Stay tuned!</p>
-  </div>
-
-  <div id="mappools">
-    <h2>Map Pools</h2>
-    <p>The Swiss map pool will be released later in June. Each week will either be a themed week with a specific set of maps or a random selection of maps in the map pool. Playoff maps will be released later in summer. Playoff maps will be more difficult.</p>
-  </div>
-
-  <div id="faq">
-    <h2>FAQs</h2>
-    <p>
-      <ul>
-	<li>What are these Swiss rounds you speak of, and how do they work?</li>
-      </ul>
-    <p>Swiss is a tournament format in which players compete against other players relative to their skill level and tournament performance. The tournament begins by pitting players against others with the same seeding (in this case, determined by osu! ranking). If you win a match, you gain a score point, and if you lose or don't show, you gain no points. In the next Swiss round, two players with similar score points will then match up against each other.</p>
-    <p>In this tournament, we will play 10 rounds of Swiss, corresponding to each week. Top players and top player seedings are determined by the highest score points earned from winning matches. Ties are handled by giving preference for victories over higher seeded opponents and total game victories (i.e. losing by 1-2 is better than losing by 0-2).</p>
-    <p>While we like the fairness and competitiveness of Swiss, it is not a very spectator friendly format. Many games go on at once, and a champion isn't crowned by beating people through a bracket but rather through longterm performance. That is why we have a single elimination playoffs separate to the Swiss rounds for a more satisfying finale.</p>
-    <p>
-      <ul>
-	<li>Something came up, and I can't play on one weekend. What can I do?</li>
-      </ul>
-    <p>By registering for this tournament, you agree to free up a few hours over the weekend for the league. However, unforseen events can happen, and we'll do our best to accommodate for unexpected situations. Contact us as soon as possible if you have a problem. Message us at least a week in advance so we, you, and your opponent have time to talk and reschedule your match.</p>
-
-    <p>If you contact us too late and your opponent declines a match, you will have to forfeit your round for the week. We stress again to also stick to the weekend schedule and only enter the league if you are sure that your weekends are free. Repeat rematches and no shows can lead to your removal from the league.</p>
-  </div>
-
-  <div id="contact">
-    <h2>Contact</h2>
-    <p>If you have any questions, comments, or concerns, feel free to message any one of the <a href="http://osuuci.com/officers">osu! UCI officers</a>. If you have any conflicts with your matches, it is important you get in touch with us as soon as possible so we can reschedule your match.</p>
-  </div>
-
-  <div class="sideButtons">
-    <a href="http://osuuci.com/tournaments/osl#introduction" class="noDecoration">
-      <div class="sideButton">
-	<img src="http://osuuci.com/tournaments/osl/1.png"/>
-	<p>Intro</p>
+	<a href="http://osuuci.com/tournaments/osl#contact" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/9.png"/>
+	    <p>Contact</p>
+	  </div>
+	</a>
       </div>
-    </a>
-    
-    <a href="http://osuuci.com/tournaments/osl#registration" class="noDecoration">
-      <div class="sideButton">
-	<img src="http://osuuci.com/tournaments/osl/2.png"/>
-	<p>Registration</p>
-      </div>
-    </a>
+      
+      <div id="introduction">
+	<img src="http://osuuci.com/tournaments/osl/logo.png"/>
 
-    <a href="http://osuuci.com/tournaments/osl#format" class="noDecoration">
-      <div class="sideButton">
-	<img src="http://osuuci.com/tournaments/osl/3.png"/>
-	<p>Format</p>
+	<h2>osu! UCI Summer League 2015</h2>
+	<p>osu! UCI is proud to present and host the first osu! UCI Summer League (OSL). We've spent the last couple weeks discussing and planning the OSL, and we're now open for registrations. Check back regularly as we add more information to the site.</p>
       </div>
-    </a>
 
-    <a href="http://osuuci.com/tournaments/osl#rules" class="noDecoration">
-      <div class="sideButton">
-	<img src="http://osuuci.com/tournaments/osl/4.png"/>
-	<p>Rules</p>
+      <div id="registration">
+	<h2>Registration</h2>
+	<p>Registrations are open until the end of the June. All players are welcome to apply provided they have the time to play every weekend of the league. We will edit map pools and structure accordingly for the eventual entrants. Note that while you may apply, you are not guaranteed a spot. There is a limit of 64 players, and we cannot provide room for any more than that. We will notify you by email after registration closes as to whether you've made it in.</p>
+	<iframe src="https://docs.google.com/forms/d/12nfIBv95BqXQFRotIVNXWpmto7E7XMaGec8QbKDYUw8/viewform?embedded=true" width="650" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>	
       </div>
-    </a>
 
-    <a href="http://osuuci.com/tournaments/osl#sponsors" class="noDecoration">
-      <div class="sideButton">
-	<img src="http://osuuci.com/tournaments/osl/5.png"/>
-	<p>Sponsors</p>
+      <div id="format">
+	<h2>Format</h2>
+	<p>
+	  <ul>
+            <li>Targetted for 64 players</li>
+            <li>All matches are played online</li>
+            <li>Spans 12 weeks from July 11th to September 27th</li>
+            <li>10 weeks of Swiss rounds each weekend from July 11th to September 13th</li>
+            <li>Matches will be played in 30 minute time slots on Saturday and Sunday from 8-10PM PDT (GMT-7)</li>
+            <li>Swiss rounds are best of 3</li>
+            <li>After a week's break, playoffs start September 26th and September 27th</li>
+            <li>Top 16 of the Swiss is seeded into the playoffs bracket</li>
+            <li>Playoffs will be played in hour time slots on Saturday and Sunday from 6-10PM PDT (GMT-7)</li>
+            <li>Playoffs are single elimination</li>
+            <li>Round of 16 is best of 5</li>
+            <li>Quarter-finals are best of 5</li>
+            <li>Semi-finals are best of 7</li>
+            <li>Grand-finals are best of 9</li>
+            <li>Matches will be streamed and casted on our <a href="http://www.twitch.tv/osuuci">Twitch channel</a></li>
+            <li>Due to time constraints matches will overlap and not all games will be broadcasted</li>
+	  </ul>
       </div>
-    </a>
 
-    <a href="http://osuuci.com/tournaments/osl#prizing" class="noDecoration">
-      <div class="sideButton">
-	<img src="http://osuuci.com/tournaments/osl/6.png"/>
-	<p>Prizing</p>
+      <div id="rules">
+	<h2>Rules</h2>
+	<p>
+	  <ul>
+            <li>Players must be 15 years of age or older</li>
+            <li>Player accounts must be in good standing</li>
+            <li>Matches are in osu! standard with score as the win condition</li>
+            <li>!roll begins every match, higher roll wins</li>
+            <li>Roll loser decides warm up map (any song &lt;5 minutes, not in map pool)</li>
+            <li>Roll winner decides first map</li>
+            <li>Thereafter, loser decides next map</li>
+            <li>Each mod can only be selected once by a respective player</li>
+            <li>Missing your match counts as a loss; please show up a few minutes before your alotted time slot so you and the administrators can set up in time</li>
+	    <li>Two consecutive weekend misses without contact leads to your removal from the tournament</li>
+	    <li>Trolling, unsportsmanlike behavior, and other harassment will not be tolerated and can factor into your removal</li>
+	    <li>League rules and structure are subject to alterations by the administrators</li>
+	    <li>Administrators have the final say in any disputes</li>
+	  </ul>
       </div>
-    </a>
 
-    <a href="http://osuuci.com/tournaments/osl#mappools" class="noDecoration">
-      <div class="sideButton">
-	<img src="http://osuuci.com/tournaments/osl/7.png"/>
-	<p>Map Pools</p>
-      </div>
-    </a>
 
-    <a href="http://osuuci.com/tournaments/osl#faq" class="noDecoration">
-      <div class="sideButton">
-	<img src="http://osuuci.com/tournaments/osl/8.png"/>
-	<p>FAQs</p>
+      <div id="sponsors">
+	<h2>Sponsors</h2>
+	<p><a href="http://www.huiontablet.com/">Huion</a> has agreed to help sponsor the tournament with prizing and exposure. The details are still being worked out and will be posted at a later time. We're very grateful for the opportunity to work with them. Please help support them by buying their products!</p>
       </div>
-    </a>
 
-    <a href="http://osuuci.com/tournaments/osl#contact" class="noDecoration">
-      <div class="sideButton">
-	<img src="http://osuuci.com/tournaments/osl/9.png"/>
-	<p>Contact</p>
+      <div id="prizing">
+	<h2>Prizing</h2>
+	<p>The top 8 will be memorialized on the website. osu! supporter will also be awarded to the top 8. The exact months of supporter and additional prizing from sponsors are currently being discussed. Stay tuned!</p>
       </div>
-    </a>
-  </div>
-</div>
+
+      <div id="mappools">
+	<h2>Map Pools</h2>
+	<p>The Swiss map pool will be released later in June. Each week will either be a themed week with a specific set of maps or a random selection of maps in the map pool. Playoff maps will be released later in summer. Playoff maps will be more difficult.</p>
+      </div>
+
+      <div id="faq">
+	<h2>FAQs</h2>
+	<p>
+	  <ul>
+	    <li><u>What are Swiss rounds and how do they work?</u></li>
+	  </ul>
+	<p>Swiss is a tournament format in which players compete against other players relative to their skill level and tournament performance. The tournament begins by pitting players against others with similar seeding (in this case, determined by osu! ranking). If you win a match, you gain a score point, and if you lose or don't show, you gain no points. In the next Swiss round, two players with similar score points will then match up against each other.</p>
+	<p>In this tournament, we will play 10 rounds of Swiss, corresponding to each week. Top players and top player seedings are determined by the highest score points earned from winning matches. Ties are handled by giving preference for victories over higher seeded opponents and total game victories (i.e. losing by 1-2 is better than losing by 0-2).</p>
+	<p>While we like the fairness and competitiveness of Swiss, it is not a very spectator friendly format. Many games go on at once, and a champion isn't crowned by beating people through a bracket but rather through longterm performance. As such, we will have separate a single elimination playoffs after the Swiss rounds for a more satisfying finale.</p>
+	<p>
+	  <ul>
+	    <li><u>Something came up, and I can't play on one weekend. What can I do?</u></li>
+	  </ul>
+	<p>By registering for this tournament, you agree to free up a few hours over the weekend for the league. However, unforseen events can happen, and we'll do our best to accommodate for unexpected situations. Contact us as soon as possible if you have a problem. Message us at least a week in advance so we, you, and your opponent have time to talk and reschedule your match.</p>
+
+	<p>If you contact us too late and your opponent declines a match, you will have to forfeit your round for the week. We stress again to also stick to the weekend schedule and only enter the league if you are sure that your weekends are free. Repeat rematches and no shows can lead to your removal from the league.</p>
+      </div>
+
+      <div id="contact">
+	<h2>Contact</h2>
+	<p>If you have any questions, comments, or concerns, feel free to message any one of the <a href="http://osuuci.com/officers">osu! UCI officers</a> or send an email to <a href="mailto:osuuci@gmail.com">osuuci@gmail.com</a>. If you have any conflicts with your matches, it is important you get in touch with us as soon as possible so we can reschedule your match.</p>
+      </div>
+    </div>
 
 </body>
 </html>
