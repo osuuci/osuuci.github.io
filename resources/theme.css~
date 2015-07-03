@@ -162,6 +162,7 @@ img {
   margin-right: auto;
   width: 40em;
 }
+
 .archive > table {
   margin-left: auto;
   margin-right: auto;
@@ -170,6 +171,7 @@ img {
   width: 40em;
   border-collapse: collapse;
 }
+
 .archive tr > td:first-child {
   width: 20em;
   height: 5em;
@@ -276,37 +278,6 @@ iframe {
 }
 .schedule tr:first-child td p {
   font-weight: bold;
-}
-
-@media all and (orientation: landscape) {
-    .sideButtons {
-	position: fixed;
-	display: table;
-	margin-left: 700px;
-	top: 50%;
-	transform: translate(0%, -50%);
-	padding: 0;
-    }
-
-    .sideButton {
-	display: table-cell;
-	padding: 0;
-	margin: 0;
-    }
-
-    .sideButton img {
-	display: inline;
-	vertical-align: middle;
-	padding: 0;
-	margin: 0;
-    }
-
-    .sideButton p {
-	display: inline;
-	vertical-align: middle;
-	padding: 0;
-	margin: 0;
-    }
 }
 
 @media all and (orientation: portrait) {
