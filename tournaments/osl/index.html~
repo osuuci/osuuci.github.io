@@ -26,6 +26,22 @@
     </div>
 
     <div class="mid">
+      <div class="weekButtons">
+	<a href="http://osuuci.com/tournaments/osl" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Home</p>
+	    <img src="http://osuuci.com/tournaments/osl/weekHome.png"/>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/1" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 1</p>
+	    <img src="http://osuuci.com/tournaments/osl/week1.png"/>
+	  </div>
+	</a>	
+      </div>
+      
       <div class="sideButtons">
 	<a href="http://osuuci.com/tournaments/osl#introduction" class="noDecoration">
 	  <div class="sideButton">
@@ -96,7 +112,7 @@
 	<a href="http://www.huiontablet.com/"><img src="http://osuuci.com/tournaments/osl/huion.png"/></a>
 
 	<h2>osu! UCI Summer League 2015</h2>
-	<p>osu! UCI is proud to present and host the first osu! UCI Summer League (OSL), sponsored by <a href="http://www.huiontablet.com/">Huion</a>. Registrations are now closed and our first matches will begin July 11th at 8PM PDT (GMT-7). Check your email to see if you've made it in. We'll be putting up the first week's of info soon onto our website once we've finished picking our entrants and organizing them into our swiss group. Meanwhile, familiarize yourself with the format, rules, and map pools below. Feel free to <a href="http://osuuci.com/tournaments/osl/#contact">ask</a> us anything if you have questions.</p>
+	<p>osu! UCI is proud to present and host the first osu! UCI Summer League (OSL), sponsored by <a href="http://www.huiontablet.com/">Huion</a>. Registrations are now closed and our first matches will begin July 11th at 8PM PDT (GMT-7). Check your email to see if you've made it in. The <a href="http://osuuci.com/tournaments/osl/1">first week</a> page is now up with the schedule and map pool. Feel free to <a href="http://osuuci.com/tournaments/osl/#contact">ask</a> us anything if you have questions.</p>
       </div>
 
       <div id="participants">
@@ -1270,7 +1286,7 @@ AKINO</td>
 <td>
 None</td>
 <td>
-<a href="http://osu.ppy.sh/b/16240">Noushou Sakuretsu Girl</a>
+<a href="https://osu.ppy.sh/b/187410&m=0">Noushou Sakuretsu Girl</a>
 </td>
 <td>
 rerulili</td>
@@ -2570,7 +2586,7 @@ DJ YOSHITAKA</td>
 <td>
 Hidden</td>
 <td>
-<a href="https://osu.ppy.sh/b/164183">Wahreit</a>
+<a href="https://osu.ppy.sh/b/164183">Wahrheit</a>
 </td>
 <td>
 Yousei Teikoku</td>
