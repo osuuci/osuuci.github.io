@@ -39,40 +39,61 @@
 	    <p>Week 1</p>
 	    <img src="http://osuuci.com/tournaments/osl/week1.png"/>
 	  </div>
+	</a>
+
+		<a href="http://osuuci.com/tournaments/osl/2" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 2</p>
+	    <img src="http://osuuci.com/tournaments/osl/week2.png"/>
+	  </div>
 	</a>	
       </div>
       
       <div class="sideButtons">
-	<a href="http://osuuci.com/tournaments/osl/1#standings" class="noDecoration">
+	<a href="http://osuuci.com/tournaments/osl/1#intro" class="noDecoration">
 	  <div class="sideButton">
 	    <img src="http://osuuci.com/tournaments/osl/1.png"/>
-	    <p>Standings</p>
+	    <p>Intro</p>
+	  </div>
+	</a>
+	
+	<a href="http://osuuci.com/tournaments/osl/1#summary" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/2.png"/>
+	    <p>Summary</p>
 	  </div>
 	</a>
 
 	<a href="http://osuuci.com/tournaments/osl/1#schedule" class="noDecoration">
 	  <div class="sideButton">
-	    <img src="http://osuuci.com/tournaments/osl/2.png"/>
+	    <img src="http://osuuci.com/tournaments/osl/3.png"/>
 	    <p>Schedule</p>
 	  </div>
 	</a>
 
 	<a href="http://osuuci.com/tournaments/osl/1#mappool" class="noDecoration">
 	  <div class="sideButton">
-	    <img src="http://osuuci.com/tournaments/osl/3.png"/>
+	    <img src="http://osuuci.com/tournaments/osl/4.png"/>
 	    <p>Map Pool</p>
 	  </div>
 	</a>
       </div>
+
+      <div id="intro">
+	<h2>Week 1 (July 11-12th)</h2>
+	<p>Welcome everyone to week 1! Below is a lengthy stream vod we've made for our live drawing of this week's maps and also an orientation section where we talk about what you'll need to do to prep for week 1.</p>
+
+	<iframe width="650" height="366" src="https://www.youtube.com/embed/A5A7lsWaj-w" frameborder="0" allowfullscreen></iframe>
+      </div>
       
-      <div id="standings">
-	<h2>Week 1 Standings</h2>
-	<p>We will update each week's standings here after matches end. Track player standings and progress week by week.</p>
+      <div id="Summary">
+	<h2>Summary</h2>
+	<p>We will update each week's standings here after matches end. You'll be able to track player standings and progress week by week.</p>
       </div>
 
       <div id="schedule">
 	<h2>Schedule</h2>
-	<p>Below is the schedule of matches. If you cannot make your time slot, please notify us as soon as possible. After the stream is over, we will also put up matchhistory info. Be ready to go play a few minutes before your match begins so we can start on time. An osu! UCI officer (Jim, Xenocidel, lalipo, osuuci dot com, mauler68, Shintomo) will contact you and set up the lobby room for your game.</p>
+	<p>Below is the schedule of matches. If you cannot make your time slot, please notify us as soon as possible. After the stream is over, we will also put up matchhistory info. Be ready to go play a few minutes before your match begins so we can start on time. An osu! UCI officer will contact you and set up the lobby room for your game.</p>
       </div>
 
     </div>
@@ -97,7 +118,29 @@
 
 
 
-	
+<tr>
+<td>
+OSL2
+</td>
+<td>
+Fri 8:00 PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/DeucesWiId">DeucesWiId</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/leluffy">leluffy</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+</td>
+</tr>	
 <tr>
 <td>
 OSL1
@@ -106,10 +149,10 @@ OSL1
 Sat 8:00 PM
 </td>
 <td>
-WynnWolf
+<a href="https://osu.ppy.sh/u/WynnWolf">WynnWolf</a>
 </td>
 <td>
-tyronetoblerone
+<a href="https://osu.ppy.sh/u/tyronetoblerone">tyronetoblerone</a>
 </td>
 <td>
 N/A
@@ -123,39 +166,16 @@ N/A
 </tr>
 <tr>
 <td>
-OSL2
-</td>
-<td>
-Sat 8:00 PM
-</td>
-<td>
-Deuceswiid
-</td>
-<td>
-leluffy
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
-</td>
-</tr>
-<tr>
-<td>
 OSL3
 </td>
 <td>
 Sat 8:00 PM
 </td>
 <td>
-eeezzzeee
+<a href="https://osu.ppy.sh/u/Shinyblade">Shinyblade</a>
 </td>
 <td>
-mintypeach
+<a href="https://osu.ppy.sh/u/Rhylent">Rhylent</a>
 </td>
 <td>
 N/A
@@ -175,10 +195,10 @@ OSL4
 Sat 8:00 PM
 </td>
 <td>
-Vapor
+<a href="https://osu.ppy.sh/u/Vapor">Vapor</a>
 </td>
 <td>
-YunoWhoItIs
+<a href="https://osu.ppy.sh/u/YunoWhoItIs">YunoWhoItIs</a>
 </td>
 <td>
 N/A
@@ -198,10 +218,10 @@ OSL5
 Sat 8:30 PM
 </td>
 <td>
-payau
+<a href="https://osu.ppy.sh/u/payau">payau</a>
 </td>
 <td>
-auux
+<a href="https://osu.ppy.sh/u/-%20Nakano%20Azusa-">- Nakano Azusa-</a>
 </td>
 <td>
 N/A
@@ -221,10 +241,10 @@ OSL6
 Sat 8:30 PM
 </td>
 <td>
-jackisgone
+<a href="https://osu.ppy.sh/u/jackisgone">jackisgone</a>
 </td>
 <td>
-Plaatinum
+<a href="https://osu.ppy.sh/u/plaatinum">plaatinum</a>
 </td>
 <td>
 N/A
@@ -244,10 +264,10 @@ OSL7
 Sat 8:30 PM
 </td>
 <td>
-Animefreak49
+<a href="https://osu.ppy.sh/u/Fridolin">Fridolin</a>
 </td>
 <td>
-Merlalias
+<a href="https://osu.ppy.sh/u/shivo">shivo</a>
 </td>
 <td>
 N/A
@@ -267,10 +287,10 @@ OSL8
 Sat 8:30 PM
 </td>
 <td>
-Cl8n
+<a href="https://osu.ppy.sh/u/KogureKun">KogureKun</a>
 </td>
 <td>
-Raddy
+  <a href="https://osu.ppy.sh/u/BBastia">BBastia</a>
 </td>
 <td>
 N/A
@@ -290,10 +310,10 @@ OSL9
 Sat 9:00 PM
 </td>
 <td>
-Kitteh
+<a href="https://osu.ppy.sh/u/Natalia">Natalia</a>
 </td>
 <td>
-Star9X
+<a href="https://osu.ppy.sh/u/Kyoko">Kyoko</a>
 </td>
 <td>
 N/A
@@ -313,10 +333,10 @@ OSL10
 Sat 9:00 PM
 </td>
 <td>
-Bass
+<a href="https://osu.ppy.sh/u/Bass">Bass</a>
 </td>
 <td>
-bananamilk
+<a href="https://osu.ppy.sh/u/bananamilk">bananamilk</a>
 </td>
 <td>
 N/A
@@ -330,39 +350,16 @@ N/A
 </tr>
 <tr>
 <td>
-OSL11
-</td>
-<td>
-Sat 9:00 PM
-</td>
-<td>
-kazuki
-</td>
-<td>
-Alexefer
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/mauler68">mauler68</a>
-</td>
-</tr>
-<tr>
-<td>
 OSL12
 </td>
 <td>
 Sat 9:00 PM
 </td>
 <td>
-Ryan Gooseling
+<a href="https://osu.ppy.sh/u/Ryan%20Gooseling">Ryan Gooseling</a>
 </td>
 <td>
-Keanulaszlo
+<a href="https://osu.ppy.sh/u/Keanu">Keanu</a>
 </td>
 <td>
 N/A
@@ -382,10 +379,10 @@ OSL13
 Sat 9:30 PM
 </td>
 <td>
-IOException
+<a href="https://osu.ppy.sh/u/IOException">IOException</a>
 </td>
 <td>
-Comett
+<a href="https://osu.ppy.sh/u/Amagi">Amagi</a>
 </td>
 <td>
 N/A
@@ -399,39 +396,16 @@ N/A
 </tr>
 <tr>
 <td>
-OSL14
-</td>
-<td>
-Sat 9:30 PM
-</td>
-<td>
-Kocari
-</td>
-<td>
-kennyyam
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
-</td>
-</tr>
-<tr>
-<td>
 OSL15
 </td>
 <td>
 Sat 9:30 PM
 </td>
 <td>
-PainSinger
+<a href="https://osu.ppy.sh/u/PainSinger">PainSinger</a>
 </td>
 <td>
-Andrew
+<a href="https://osu.ppy.sh/u/Andrew">Andrew</a>
 </td>
 <td>
 N/A
@@ -451,10 +425,10 @@ OSL16
 Sat 9:30 PM
 </td>
 <td>
-Ecliptus
+<a href="https://osu.ppy.sh/u/Ecliptus">Ecliptus</a>
 </td>
 <td>
-Demitoo
+<a href="https://osu.ppy.sh/u/Demitoo">Demitoo</a>
 </td>
 <td>
 N/A
@@ -474,10 +448,10 @@ OSL17
 Sun 8:00 PM
 </td>
 <td>
-Poofie
+<a href="https://osu.ppy.sh/u/Poofie">Poofie</a>
 </td>
 <td>
-Slvin
+<a href="https://osu.ppy.sh/u/Slvin">Slvin</a>
 </td>
 <td>
 N/A
@@ -497,10 +471,10 @@ OSL18
 Sun 8:00 PM
 </td>
 <td>
-islapwhale
+<a href="https://osu.ppy.sh/u/iSlapWhale">iSlapWhale</a>
 </td>
 <td>
-HijiCG
+<a href="https://osu.ppy.sh/u/jaskier2">jaskier2</a>
 </td>
 <td>
 N/A
@@ -520,10 +494,10 @@ OSL19
 Sun 8:00 PM
 </td>
 <td>
-Aaerok
+<a href="https://osu.ppy.sh/u/Aaerok">Aaerok</a>
 </td>
 <td>
-BradXYZ
+<a href="https://osu.ppy.sh/u/BradXYZ">BradXYZ</a>
 </td>
 <td>
 N/A
@@ -543,10 +517,10 @@ OSL20
 Sun 8:00 PM
 </td>
 <td>
-saltstick
+<a href="https://osu.ppy.sh/u/saltstick">saltstick</a>
 </td>
 <td>
-Endyron
+<a href="https://osu.ppy.sh/u/Endyron">Endyron</a>
 </td>
 <td>
 N/A
@@ -566,10 +540,10 @@ OSL21
 Sun 8:30 PM
 </td>
 <td>
-Xexxar
+<a href="https://osu.ppy.sh/u/Xexxar">Xexxar</a>
 </td>
 <td>
-Karuta-
+<a href="https://osu.ppy.sh/u/Karuta-">Karuta-</a>
 </td>
 <td>
 N/A
@@ -589,10 +563,10 @@ OSL22
 Sun 8:30 PM
 </td>
 <td>
-YoshiIsAwsum
+<a href="https://osu.ppy.sh/u/YoshiIsAwsum">YoshiIsAwsum</a>
 </td>
 <td>
-ScrYpt
+<a href="https://osu.ppy.sh/u/ScrYpt">ScrYpt</a>
 </td>
 <td>
 N/A
@@ -612,10 +586,10 @@ OSL23
 Sun 8:30 PM
 </td>
 <td>
-Aoiyuuki-
+<a href="https://osu.ppy.sh/u/Aoiyuuki-">Aoiyuuki-</a>
 </td>
 <td>
-kymotsujason
+<a href="https://osu.ppy.sh/u/kymotsujason">kymotsujason</a>
 </td>
 <td>
 N/A
@@ -635,10 +609,10 @@ OSL24
 Sun 8:30 PM
 </td>
 <td>
-[ Escu ]
+  <a href="https://osu.ppy.sh/u/Cl8n">Cl8n</a>
 </td>
 <td>
-BBastia
+  <a href="https://osu.ppy.sh/u/Raddy">Raddy</a>
 </td>
 <td>
 N/A
@@ -658,10 +632,10 @@ OSL25
 Sun 9:00 PM
 </td>
 <td>
-Kuki
+<a href="https://osu.ppy.sh/u/Kuki">Kuki</a>
 </td>
 <td>
-Zafkiel
+<a href="https://osu.ppy.sh/u/Zafkiel">Zafkiel</a>
 </td>
 <td>
 N/A
@@ -681,10 +655,10 @@ OSL26
 Sun 9:00 PM
 </td>
 <td>
-Ignite
+<a href="https://osu.ppy.sh/u/Ignite">Ignite</a>
 </td>
 <td>
-captin1
+<a href="https://osu.ppy.sh/u/captin1">captin1</a>
 </td>
 <td>
 N/A
@@ -704,10 +678,10 @@ OSL27
 Sun 9:00 PM
 </td>
 <td>
-KevEz
+<a href="https://osu.ppy.sh/u/KevEz">KevEz</a>
 </td>
 <td>
-Dunois
+<a href="https://osu.ppy.sh/u/Dunois">Dunois</a>
 </td>
 <td>
 N/A
@@ -727,10 +701,10 @@ OSL28
 Sun 9:00 PM
 </td>
 <td>
-[Neetwork]
+<a href="https://osu.ppy.sh/u/[Neetwork]">[Neetwork]</a>
 </td>
 <td>
-Keepu
+<a href="https://osu.ppy.sh/u/Keepu">Keepu</a>
 </td>
 <td>
 N/A
@@ -750,10 +724,10 @@ OSL29
 Sun 9:30 PM
 </td>
 <td>
-Zukarido
+<a href="https://osu.ppy.sh/u/Zukarido">Zukarido</a>
 </td>
 <td>
-Shiba-
+<a href="https://osu.ppy.sh/u/Xbox">Xbox</a>
 </td>
 <td>
 N/A
@@ -773,10 +747,10 @@ OSL30
 Sun 9:30 PM
 </td>
 <td>
-TheOnlyLeon
+<a href="https://osu.ppy.sh/u/TheOnlyLeon">TheOnlyLeon</a>
 </td>
 <td>
-Ultraplex1337
+<a href="https://osu.ppy.sh/u/Ultraplex1337">Ultraplex1337</a>
 </td>
 <td>
 N/A
@@ -796,10 +770,10 @@ OSL31
 Sun 9:30 PM
 </td>
 <td>
-Ex6TenZ
+<a href="https://osu.ppy.sh/u/Ex6TenZ">Ex6TenZ</a>
 </td>
 <td>
-Kaifin
+<a href="https://osu.ppy.sh/u/Kaifin">Kaifin</a>
 </td>
 <td>
 N/A
@@ -819,10 +793,10 @@ OSL32
 Sun 9:30 PM
 </td>
 <td>
-Renkee
+<a href="https://osu.ppy.sh/u/funnytrees">funnytrees</a>
 </td>
 <td>
-kutora
+<a href="https://osu.ppy.sh/u/kutora">kutora</a>
 </td>
 <td>
 N/A
@@ -832,6 +806,52 @@ N/A
 </td>
 <td>
 <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+</td>
+</tr>
+<tr>
+<td>
+OSL14
+</td>
+<td>
+Sun 9:30 PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Kocari">Kocari</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/kennyyam">kennyyam</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/shintomo">Xenocidel</a>
+</td>
+</tr>
+<tr>
+<td>
+OSL11
+</td>
+<td>
+Mon 11PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Kazuki">Kazuki</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Alexefer">Alexefer</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/mauler68">mauler68</a>
 </td>
 </tr>
 </table>
@@ -857,8 +877,195 @@ N/A
     <div class="mid">
       <div id="mappool">
 	<h2>Map Pool</h2>
-	<p>To be decided in short time! We're working on a lot of behind the scenes functions, so some things such as this are lagging a bit behind. We will be picking 13 (3 no mod, 3 hard rock, 3 hidden, 3 double time, 1 tiebreaker) maps for each week and compile them into a client and collection for you guys.</p>
+	<p>We have compiled a <a href="http://osuuci.com/tournaments/osl/1/week1.rar">collection</a> of the week's maps together for download. Inside the .rar is a copy of the <a href="https://osu.ppy.sh/forum/t/131103">osu!Collections Editor</a> to interact with our .osdb collection. More indepth instructions are available in the Editor link, but for basic functionality:</p>
+	<ul>
+	  <li>Load your current beatmaps by pointing to your root osu! folder</li>
+	  <li>Open our collection file</li>
+	  <li>Search for and download  beatmaps that you are missing</li>
+	  <li>Join our collection file with your collection file</li>
+	  <li>Save the joined collection file as your new osu! collections</li>
+	</ul>
       </div>
     </div>
+
+
+    <div class="mappool" style="padding-bottom: 2em">
+      
+
+
+
+<table>
+<tr>
+<td>Mod</td>
+<td>Title</td>
+<td>Artist</td>
+<td>Difficulty</td>
+<td>Length</td>
+<td>Stars</td>
+</tr>
+<tr>
+<td>
+None</td>
+<td>
+<a href="https://osu.ppy.sh/b/391228">Hoshizora No Ima</a>
+</td>
+<td>
+Sagara Kokoro</td>
+<td>Extra</td>
+<td>3:49</td>
+<td>5.41</td>
+</tr>
+<tr>
+<td>
+None</td>
+<td>
+<a href="https://osu.ppy.sh/b/391182&m=0">Streaming Heart</a>
+</td>
+<td>
+DECO*27</td>
+<td>Extra</td>
+<td>2:57</td>
+<td>5.38</td>
+</tr>
+<tr>
+<td>
+None</td>
+<td>
+<a href="https://osu.ppy.sh/b/538930">Fallen</a>
+</td>
+<td>
+EGOIST</td>
+<td>Extra</td>
+<td>4:26</td>
+<td>5.42</td>
+</tr>
+<tr>
+<td>
+Double Time</td>
+<td>
+<a href="https://osu.ppy.sh/b/126134">Spec Dake Tsukaikitta Gamesoft no You Desuu</a>
+</td>
+<td>
+Horinaka Yuki</td>
+<td>Insane</td>
+<td>2:13 (1:28)</td>
+<td>3.59 (4.98)</td>
+</tr>
+<tr>
+<td>
+Double Time</td>
+<td>
+<a href="https://osu.ppy.sh/b/236486">Expectation</a>
+</td>
+<td>
+Girl's Day</td>
+<td>Hard</td>
+<td>3:15 (2:10)</td>
+<td>3.56 (4.97)</td>
+</tr>
+<tr>
+<td>
+Double Time</td>
+<td>
+<a href="https://osu.ppy.sh/b/174604">Sayonara Trip</a>
+</td>
+<td>
+Dormir</td>
+<td>Insane</td>
+<td>1:41 (1:07)</td>
+<td>3.69 (5.08)</td>
+</tr>
+<tr>
+<td>
+Hidden</td>
+<td>
+<a href="https://osu.ppy.sh/b/290799">Kunoichi Demo Koi ga Shitai</a>
+</td>
+<td>
+yuikonnu & ayaponzu*</td>
+<td>Insane</td>
+<td>3:51</td>
+<td>5.1</td>
+</tr>
+<tr>
+<td>
+Hidden</td>
+<td>
+<a href="https://osu.ppy.sh/s/111760">Diamond</a>
+</td>
+<td>
+Toyosaki Aki</td>
+<td>Insane</td>
+<td>2:58</td>
+<td>4.95</td>
+</tr>
+<tr>
+<td>
+Hidden</td>
+<td>
+<a href="https://osu.ppy.sh/b/139634">Killer Song (Short Ver.)</a>
+</td>
+<td>
+yanaginagi</td>
+<td>Insane</td>
+<td>2:12</td>
+<td>4.92</td>
+</tr>
+<tr>
+<td>
+Hard Rock</td>
+<td>
+<a href="https://osu.ppy.sh/b/337873">Outer Science</a>
+</td>
+<td>
+Amatsuki</td>
+<td>Insane</td>
+<td>3:12</td>
+<td>4.68 (4.98)</td>
+</tr>
+<tr>
+<td>
+Hard Rock</td>
+<td>
+<a href="https://osu.ppy.sh/b/623277">AOI-IRO STEP</a>
+</td>
+<td>
+yuikonnu</td>
+<td>Insane</td>
+<td>3:01</td>
+<td>4.71 (5.02)</td>
+</tr>
+<tr>
+<td>
+Hard Rock</td>
+<td>
+<a href="https://osu.ppy.sh/b/355510">Blueberry Train</a>
+</td>
+<td>
+Uchida Aya</td>
+<td>Insane</td>
+<td>3:41</td>
+<td>4.57 (4.84)</td>
+</tr>
+<tr>
+<td>
+Tiebreaker</td>
+<td>
+<a href="https://osu.ppy.sh/s/301703">World's End Girl's Rondo (Asterisk DnB Remix)</a>
+</td>
+<td>
+Wakeshima Kanon</td>
+<td>World's End</td>
+<td>5:40</td>
+<td>5.27</td>
+</tr>
+</table>
+
+      
+
+</table>
+</div>
+
+    
 </body>
 </html>

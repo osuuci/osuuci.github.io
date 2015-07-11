@@ -39,6 +39,13 @@
 	    <p>Week 1</p>
 	    <img src="http://osuuci.com/tournaments/osl/week1.png"/>
 	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/2" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 2</p>
+	    <img src="http://osuuci.com/tournaments/osl/week2.png"/>
+	  </div>
 	</a>	
       </div>
       
@@ -113,6 +120,10 @@
 
 	<h2>osu! UCI Summer League 2015</h2>
 	<p>osu! UCI is proud to present and host the first osu! UCI Summer League (OSL), sponsored by <a href="http://www.huiontablet.com/">Huion</a>. Registrations are now closed and our first matches will begin July 11th at 8PM PDT (GMT-7). Check your email to see if you've made it in. The <a href="http://osuuci.com/tournaments/osl/1">first week</a> page is now up with the schedule and map pool. Feel free to <a href="http://osuuci.com/tournaments/osl/#contact">ask</a> us anything if you have questions.</p>
+
+	<iframe src="http://www.twitch.tv/osuuci/embed" frameborder="0" scrolling="no" height="396" width="650"></iframe>
+	<iframe style="padding-top: 1.5em" src="http://www.twitch.tv/osuuci/chat?popout=" frameborder="0" scrolling="no" height="396" width="650"></iframe>
+	
       </div>
 
       <div id="participants">
@@ -174,7 +185,7 @@ Pts Diff
 <tr>
 <td>1</td>
 <td class='participant left'>
-Kitteh
+<a href="https://osu.ppy.sh/u/Natalia">Natalia</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -186,7 +197,7 @@ Kitteh
 <tr>
 <td>2</td>
 <td class='participant left'>
-Star9X
+<a href="https://osu.ppy.sh/u/Kyoko">Kyoko</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -198,7 +209,7 @@ Star9X
 <tr>
 <td>3</td>
 <td class='participant left'>
-PainSinger
+<a href="https://osu.ppy.sh/u/PainSinger">PainSinger</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -210,7 +221,7 @@ PainSinger
 <tr>
 <td>4</td>
 <td class='participant left'>
-Andrew
+<a href="https://osu.ppy.sh/u/Andrew">Andrew</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -222,7 +233,7 @@ Andrew
 <tr>
 <td>5</td>
 <td class='participant left'>
-Ryan Gooseling
+<a href="https://osu.ppy.sh/u/Ryan%20Gooseling">Ryan Gooseling</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -234,7 +245,7 @@ Ryan Gooseling
 <tr>
 <td>6</td>
 <td class='participant left'>
-Keanulaszlo
+<a href="https://osu.ppy.sh/u/Keanu">Keanu</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -246,7 +257,7 @@ Keanulaszlo
 <tr>
 <td>7</td>
 <td class='participant left'>
-Poofie
+<a href="https://osu.ppy.sh/u/Poofie">Poofie</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -258,7 +269,7 @@ Poofie
 <tr>
 <td>8</td>
 <td class='participant left'>
-Slvin
+<a href="https://osu.ppy.sh/u/Slvin">Slvin</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -270,7 +281,7 @@ Slvin
 <tr>
 <td>9</td>
 <td class='participant left'>
-Bass
+<a href="https://osu.ppy.sh/u/Bass">Bass</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -282,7 +293,7 @@ Bass
 <tr>
 <td>10</td>
 <td class='participant left'>
-bananamilk
+<a href="https://osu.ppy.sh/u/bananamilk">bananamilk</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -294,7 +305,7 @@ bananamilk
 <tr>
 <td>11</td>
 <td class='participant left'>
-Ignite
+<a href="https://osu.ppy.sh/u/Ignite">Ignite</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -306,7 +317,7 @@ Ignite
 <tr>
 <td>12</td>
 <td class='participant left'>
-captin1
+<a href="https://osu.ppy.sh/u/captin1">captin1</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -318,7 +329,7 @@ captin1
 <tr>
 <td>13</td>
 <td class='participant left'>
-KevEz
+<a href="https://osu.ppy.sh/u/KevEz">KevEz</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -330,7 +341,7 @@ KevEz
 <tr>
 <td>14</td>
 <td class='participant left'>
-Dunois
+<a href="https://osu.ppy.sh/u/Dunois">Dunois</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -342,7 +353,7 @@ Dunois
 <tr>
 <td>15</td>
 <td class='participant left'>
-jackisgone
+<a href="https://osu.ppy.sh/u/jackisgone">jackisgone</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -354,7 +365,7 @@ jackisgone
 <tr>
 <td>16</td>
 <td class='participant left'>
-Plaatinum
+<a href="https://osu.ppy.sh/u/plaatinum">plaatinum</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -366,7 +377,7 @@ Plaatinum
 <tr>
 <td>17</td>
 <td class='participant left'>
-Ex6TenZ
+<a href="https://osu.ppy.sh/u/Ex6TenZ">Ex6TenZ</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -378,7 +389,7 @@ Ex6TenZ
 <tr>
 <td>18</td>
 <td class='participant left'>
-Kaifin
+<a href="https://osu.ppy.sh/u/Kaifin">Kaifin</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -390,7 +401,7 @@ Kaifin
 <tr>
 <td>19</td>
 <td class='participant left'>
-Kocari
+<a href="https://osu.ppy.sh/u/Kocari">Kocari</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -402,7 +413,7 @@ Kocari
 <tr>
 <td>20</td>
 <td class='participant left'>
-kennyyam
+<a href="https://osu.ppy.sh/u/kennyyam">kennyyam</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -414,7 +425,7 @@ kennyyam
 <tr>
 <td>21</td>
 <td class='participant left'>
-Aaerok
+<a href="https://osu.ppy.sh/u/Aaerok">Aaerok</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -426,7 +437,7 @@ Aaerok
 <tr>
 <td>22</td>
 <td class='participant left'>
-BradXYZ
+<a href="https://osu.ppy.sh/u/BradXYZ">BradXYZ</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -438,7 +449,7 @@ BradXYZ
 <tr>
 <td>23</td>
 <td class='participant left'>
-[Neetwork]
+<a href="https://osu.ppy.sh/u/[Neetwork]">[Neetwork]</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -450,7 +461,7 @@ BradXYZ
 <tr>
 <td>24</td>
 <td class='participant left'>
-Keepu
+<a href="https://osu.ppy.sh/u/Keepu">Keepu</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -462,7 +473,7 @@ Keepu
 <tr>
 <td>25</td>
 <td class='participant left'>
-kazuki
+<a href="https://osu.ppy.sh/u/Kazuki">Kazuki</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -474,7 +485,7 @@ kazuki
 <tr>
 <td>26</td>
 <td class='participant left'>
-Alexefer
+<a href="https://osu.ppy.sh/u/Alexefer">Alexefer</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -486,7 +497,7 @@ Alexefer
 <tr>
 <td>27</td>
 <td class='participant left'>
-Cl8n
+<a href="https://osu.ppy.sh/u/Cl8n">Cl8n</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -498,7 +509,7 @@ Cl8n
 <tr>
 <td>28</td>
 <td class='participant left'>
-Raddy
+<a href="https://osu.ppy.sh/u/Raddy">Raddy</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -510,7 +521,7 @@ Raddy
 <tr>
 <td>29</td>
 <td class='participant left'>
-Zukarido
+<a href="https://osu.ppy.sh/u/Zukarido">Zukarido</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -522,7 +533,7 @@ Zukarido
 <tr>
 <td>30</td>
 <td class='participant left'>
-Shiba-
+<a href="https://osu.ppy.sh/u/Xbox">Xbox</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -534,7 +545,7 @@ Shiba-
 <tr>
 <td>31</td>
 <td class='participant left'>
-IOException
+<a href="https://osu.ppy.sh/u/IOException">IOException</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -546,7 +557,7 @@ IOException
 <tr>
 <td>32</td>
 <td class='participant left'>
-Comett
+<a href="https://osu.ppy.sh/u/Amagi">Amagi</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -558,7 +569,7 @@ Comett
 <tr>
 <td>33</td>
 <td class='participant left'>
-Aoiyuuki-
+<a href="https://osu.ppy.sh/u/Aoiyuuki-">Aoiyuuki-</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -570,7 +581,7 @@ Aoiyuuki-
 <tr>
 <td>34</td>
 <td class='participant left'>
-kymotsujason
+<a href="https://osu.ppy.sh/u/kymotsujason">kymotsujason</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -582,7 +593,7 @@ kymotsujason
 <tr>
 <td>35</td>
 <td class='participant left'>
-Vapor
+<a href="https://osu.ppy.sh/u/Vapor">Vapor</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -594,7 +605,7 @@ Vapor
 <tr>
 <td>36</td>
 <td class='participant left'>
-YunoWhoItIs
+<a href="https://osu.ppy.sh/u/YunoWhoItIs">YunoWhoItIs</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -606,7 +617,7 @@ YunoWhoItIs
 <tr>
 <td>37</td>
 <td class='participant left'>
-Ecliptus
+<a href="https://osu.ppy.sh/u/Ecliptus">Ecliptus</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -618,7 +629,7 @@ Ecliptus
 <tr>
 <td>38</td>
 <td class='participant left'>
-Demitoo
+<a href="https://osu.ppy.sh/u/Demitoo">Demitoo</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -630,7 +641,7 @@ Demitoo
 <tr>
 <td>39</td>
 <td class='participant left'>
-Deuceswiid
+<a href="https://osu.ppy.sh/u/DeucesWiId">DeucesWiId</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -642,7 +653,7 @@ Deuceswiid
 <tr>
 <td>40</td>
 <td class='participant left'>
-leluffy
+<a href="https://osu.ppy.sh/u/leluffy">leluffy</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -654,7 +665,7 @@ leluffy
 <tr>
 <td>41</td>
 <td class='participant left'>
-Renkee
+<a href="https://osu.ppy.sh/u/Blyte">Blyte</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -666,7 +677,7 @@ Renkee
 <tr>
 <td>42</td>
 <td class='participant left'>
-kutora
+<a href="https://osu.ppy.sh/u/kutora">kutora</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -678,7 +689,7 @@ kutora
 <tr>
 <td>43</td>
 <td class='participant left'>
-Xexxar
+<a href="https://osu.ppy.sh/u/Xexxar">Xexxar</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -690,7 +701,7 @@ Xexxar
 <tr>
 <td>44</td>
 <td class='participant left'>
-[MY] yummy90 XP
+<a href="https://osu.ppy.sh/u/Karuta-">Karuta-</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -702,7 +713,7 @@ Xexxar
 <tr>
 <td>45</td>
 <td class='participant left'>
-Kuki
+<a href="https://osu.ppy.sh/u/Kuki">Kuki</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -714,7 +725,7 @@ Kuki
 <tr>
 <td>46</td>
 <td class='participant left'>
-Zafkiel
+<a href="https://osu.ppy.sh/u/Zafkiel">Zafkiel</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -726,7 +737,7 @@ Zafkiel
 <tr>
 <td>47</td>
 <td class='participant left'>
-YoshiIsAwsum
+<a href="https://osu.ppy.sh/u/YoshiIsAwsum">YoshiIsAwsum</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -738,7 +749,7 @@ YoshiIsAwsum
 <tr>
 <td>48</td>
 <td class='participant left'>
-ScrYpt
+<a href="https://osu.ppy.sh/u/ScrYpt">ScrYpt</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -750,7 +761,7 @@ ScrYpt
 <tr>
 <td>49</td>
 <td class='participant left'>
-payau
+<a href="https://osu.ppy.sh/u/payau">payau</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -762,7 +773,7 @@ payau
 <tr>
 <td>50</td>
 <td class='participant left'>
-auux
+<a href="https://osu.ppy.sh/u/-%20Nakano%20Azusa-">- Nakano Azusa-</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -774,7 +785,7 @@ auux
 <tr>
 <td>51</td>
 <td class='participant left'>
-eeezzzeee
+<a href="https://osu.ppy.sh/u/Shinyblade">Shinyblade</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -786,7 +797,7 @@ eeezzzeee
 <tr>
 <td>52</td>
 <td class='participant left'>
-mintypeach
+<a href="https://osu.ppy.sh/u/Rhylent">Rhylent</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -798,7 +809,7 @@ mintypeach
 <tr>
 <td>53</td>
 <td class='participant left'>
-WynnWolf
+<a href="https://osu.ppy.sh/u/WynnWolf">WynnWolf</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -810,7 +821,7 @@ WynnWolf
 <tr>
 <td>54</td>
 <td class='participant left'>
-tyronetoblerone
+<a href="https://osu.ppy.sh/u/tyronetoblerone">tyronetoblerone</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -822,7 +833,7 @@ tyronetoblerone
 <tr>
 <td>55</td>
 <td class='participant left'>
-Animefreak49
+<a href="https://osu.ppy.sh/u/Fridolin">Fridolin</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -834,7 +845,7 @@ Animefreak49
 <tr>
 <td>56</td>
 <td class='participant left'>
-Merlalias
+<a href="https://osu.ppy.sh/u/shivo">shivo</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -846,7 +857,7 @@ Merlalias
 <tr>
 <td>57</td>
 <td class='participant left'>
-TheOnlyLeon
+<a href="https://osu.ppy.sh/u/TheOnlyLeon">TheOnlyLeon</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -858,7 +869,7 @@ TheOnlyLeon
 <tr>
 <td>58</td>
 <td class='participant left'>
-Ultraplex1337
+<a href="https://osu.ppy.sh/u/Ultraplex1337">Ultraplex1337</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -870,7 +881,7 @@ Ultraplex1337
 <tr>
 <td>59</td>
 <td class='participant left'>
-islapwhale
+<a href="https://osu.ppy.sh/u/iSlapWhale">iSlapWhale</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -882,7 +893,7 @@ islapwhale
 <tr>
 <td>60</td>
 <td class='participant left'>
-HijiCG
+<a href="https://osu.ppy.sh/u/jaskier2">jaskier2</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -894,7 +905,7 @@ HijiCG
 <tr>
 <td>61</td>
 <td class='participant left'>
-saltstick
+<a href="https://osu.ppy.sh/u/saltstick">saltstick</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -906,7 +917,7 @@ saltstick
 <tr>
 <td>62</td>
 <td class='participant left'>
-Endyron
+<a href="https://osu.ppy.sh/u/Endyron">Endyron</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -918,7 +929,7 @@ Endyron
 <tr>
 <td>63</td>
 <td class='participant left'>
-[ Escu ]
+<a href="https://osu.ppy.sh/u/KogureKun">KogureKun</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -930,7 +941,7 @@ Endyron
 <tr>
 <td>64</td>
 <td class='participant left'>
-BBastia
+<a href="https://osu.ppy.sh/u/BBastia">BBastia</a>
 </td>
 <td>0 - 0 - 0</td>
 <td>0</td>
@@ -997,6 +1008,7 @@ BBastia
             <li>Roll winner decides first map</li>
             <li>Thereafter, loser decides next map</li>
             <li>Each mod can only be selected once by a respective player</li>
+	    <li>Tiebreaker match decides last round</li>
             <li>Missing your match counts as a loss; please show up a few minutes before your alotted time slot so you and the administrators can set up in time</li>
 	    <li>Two consecutive weekend misses without contact leads to your removal from the tournament</li>
 	    <li>Trolling, unsportsmanlike behavior, and other harassment will not be tolerated and can factor into your removal</li>
@@ -1429,7 +1441,7 @@ Himeringo</td>
 <td>
 Double Time</td>
 <td>
-<a href="https://osu.ppy.sh/b/438061">~lull~Soshite Bokura  Wa~</a>
+<a href="https://osu.ppy.sh/b/438061">lull ~Soshite Bokura  Wa~</a>
 </td>
 <td>
 Ray</td>
@@ -2209,7 +2221,7 @@ Choucho</td>
 <td>
 Hidden</td>
 <td>
-<a href="https://osu.ppy.sh/b/386759">-snow storm- euphoria-</a>
+<a href="https://osu.ppy.sh/b/386759">snow storm -euphoria-</a>
 </td>
 <td>
 Yooh</td>
@@ -2391,7 +2403,7 @@ Rise Against</td>
 <td>
 Hidden</td>
 <td>
-<a href="https://osu.ppy.sh/b/255700">Kanjou Chemistry (Drum 'n' Bass Remix)</a>
+<a href="https://osu.ppy.sh/b/255700">Kanjou Chemistry (Drum 'n' <a href="https://osu.ppy.sh/u/Bass">Bass</a> Remix)</a>
 </td>
 <td>
 senya</td>
