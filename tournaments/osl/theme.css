@@ -421,3 +421,9 @@ iframe {
 .oslschedule td:nth-child(6) {
     width: 0%;
 }
+
+.oslschedule td img {
+    display: inline;
+    padding: 0;
+    margin: 0;
+}
