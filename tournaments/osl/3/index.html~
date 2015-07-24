@@ -54,6 +54,13 @@
 	    <img src="http://osuuci.com/tournaments/osl/week3.png"/>
 	  </div>
 	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/4" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 4</p>
+	    <img src="http://osuuci.com/tournaments/osl/week4.png"/>
+	  </div>
+	</a>
       </div>
       
       <div class="sideButtons">
@@ -87,20 +94,641 @@
 	</a>
       </div>
 
-      <div id="intro">
+      <div id="summary">
 	<h2>Week 3 (July 25-26th)</h2>
 	<p>It's now almost week 3, about a quarter through the league. Start racking up those early Swiss points so you don't regret it later on!</p>
       </div>
       
       <div id="schedule">
 	<h2>Schedule</h2>
-	<p>We'll put up the schedule a day or two after week 2 matches.</p>
+	<p>Please email us at <a href="mailto:osuuci@gmail.com">osuuci@gmail.com</a> if you have any conflicts with your match. You can message a tournament admin, but mail is preferred so that all the admins can see the same message, and there'll be less mistakes and overhead as we try and coordinate together. And if you want to help us out and save back-and-forth in planning a reschedule, reach out to your opponent first and agree to a time before finalizing the change with us.</p>
+
+
+
+
+
+    <div class="oslschedule">
+
+
+
+      <table>
+	<tr>
+	  <td>Lobby</td>
+	  <td>Time <small>(PDT/GMT-7)</small></td>
+	  <td>Player 1</td>
+	  <td>Player 2</td>
+	  <td>Score</td>
+	  <td>Match History</td>
+	  <td>Officer</td>
+	</tr>
+<tr>
+<td>
+OSL:CI
+</td>
+<td>
+Sat 8:00PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Ignite">Ignite</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/WynnWolf">WynnWolf</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:BW
+</td>
+<td>
+Sat 8:30PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Kaifin">Kaifin</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/KogureKun">KogureKun</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/xenocidel">Xenocidel</a>
+</td>
+</tr>
+<tr>
+<td>
+OSL:BT
+</td>
+<td>
+Sat 8:30PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/-%20Nakano%20Azusa-">- Nakano Azusa-</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/captin1">captin1</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+</td>
+</tr>
+<tr>
+<td>
+OSL:BR
+</td>
+<td>
+Sat 8:30PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Ex6TenZ">Ex6TenZ</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Keepu">Keepu</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:BU
+</td>
+<td>
+Sat 9:00PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Karuta-">Karuta-</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/bananamilk">bananamilk</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
+</td>
+</tr>
+<tr>
+<td>
+OSL:BY
+</td>
+<td>
+Sat 9:00PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Kuki">Kuki</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/TheOnlyLeon">TheOnlyLeon</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:CB
+</td>
+<td>
+Sat 8:00PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/leluffy">leluffy</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Kazuki">Kazuki</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:CD
+</td>
+<td>
+Sat 9:30PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/BBastia">BBastia</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Dunois">Dunois</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/xenocidel">Xenocidel</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:BZ
+</td>
+<td>
+Sat 9:30PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Rhylent">Rhylent</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Aoiyuuki-">Aoiyuuki-</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+</td>
+</tr>
+<tr>
+<td>
+OSL:BX
+</td>
+<td>
+Sat 9:30PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Andrew">Andrew</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/saltstick">saltstick</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
+</td>
+</tr>
+<tr>
+<td>
+OSL:CE
+</td>
+<td>
+Sat 9:30PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Ecliptus">Ecliptus</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/ScrYpt">ScrYpt</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+</td>
+</tr>
+<tr>
+<td>
+OSL:BM
+</td>
+<td>
+Sun 8:00PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/payau">payau</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Shinyblade">Shinyblade</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/xenocidel">Xenocidel</a>
+</td>
+</tr>
+<tr>
+<td>
+OSL:CH
+</td>
+<td>
+Sun 8:00PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Aaerok">Aaerok</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/iSlapWhale">iSlapWhale</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:CC
+</td>
+<td>
+Sun 8:00PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/tyronetoblerone">tyronetoblerone</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Zukarido">Zukarido</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+</td>
+</tr>
+<tr>
+<td>
+OSL:BO
+</td>
+<td>
+Sun 8:30PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Vapor">Vapor</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/kutora">kutora</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/xenocidel">Xenocidel</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:CJ
+</td>
+<td>
+Sun 8:30PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Ryan%20Gooseling">Ryan Gooseling</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/funnytrees">funnytrees</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:BV
+</td>
+<td>
+Sun 8:30PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Amagi">Amagi</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Keanu">Keanu</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:CG
+</td>
+<td>
+Sun 9:00PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/[Neetwork]">[Neetwork]</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/kennyyam">kennyyam</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/xenocidel">Xenocidel</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:BQ
+</td>
+<td>
+Sun 9:00PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Kocari">Kocari</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Xbox">Xbox</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/xenocidel">Shintomo</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:BS
+</td>
+<td>
+Sun 9:00PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/PainSinger">PainSinger</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/plaatinum">plaatinum</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:AA
+</td>
+<td>
+Sun 9:30PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Natalia">Natalia</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/DeucesWiId">DeucesWiId</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:BN
+</td>
+<td>
+Sun 9:30PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Xexxar">Xexxar</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Zafkiel">Zafkiel</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/shintomo">Xenocidel</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:CF
+</td>
+<td>
+Sun 9:30PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Cl8n">Cl8n</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Alexefer">Alexefer</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+</td>
+</tr>
+
+<tr>
+<td>
+OSL:CA
+</td>
+<td>
+Sun 9:30PM
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/BradXYZ">BradXYZ</a>
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/Bass">Bass</a>
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
+</td>
+</tr>
+
+<tr>
+<td>
+<i>Bye</i>
+</td>
+<td>
+-
+</td>
+<td>
+<a href="https://osu.ppy.sh/u/jaskier2">jaskier2</a>
+</td>
+<td>
+-
+</td>
+<td>
+-
+</td>
+<td>
+-
+</td>
+<td>
+-
+</td>
+</tr>
+
+</table>
+
+	
+
+
+
+
+	
+
+	
       </div>
 
     <div class="mid">
       <div id="mappool">
 	<h2>Map Pool</h2>
-	<p>We have compiled a <a href="http://osuuci.com/tournaments/osl/2/week3.rar">collection</a> of the week's maps together for download. Inside the .rar is a copy of the <a href="https://osu.ppy.sh/forum/t/131103">osu!Collections Editor</a> to interact with our .osdb collection. More indepth instructions are available in the Editor link, but for basic functionality:</p>
+	<p>We have compiled a <a href="http://osuuci.com/tournaments/osl/3/week3.rar">collection</a> of the week's maps together for download. Inside the .rar is a copy of the <a href="https://osu.ppy.sh/forum/t/131103">osu!Collections Editor</a> to interact with our .osdb collection. More indepth instructions are available in the Editor link, but for basic functionality:</p>
 	<ul>
 	  <li>Load your current beatmaps by pointing to your root osu! folder</li>
 	  <li>Open our collection file</li>
@@ -265,7 +893,7 @@ Hard Rock</td>
 Baru</td>
 <td>Hanabi's Insane</td>
 <td>3:58</td>
-<td>4.80 (5.00)
+<td>4.72 (4.84)
 </td>
 </tr>
 <tr>
@@ -295,6 +923,7 @@ xi</td>
 </td>
 </tr>
 </table>
+</div>
 
 
       

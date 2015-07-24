@@ -135,7 +135,7 @@
 
       <div id="participants">
 	<h2>Participants</h2>
-	<p>We take participant privacy seriously and will only be exposing player osu! accounts as tournament identities. To track the league progress, we will be using Challonge. We'll replicate most of the crucial information there on this website, but for the most up to date stats, check the <a href="http://challonge.com/osusummerleague">Challonge</a> page directly. </p>
+	<p>We take participant privacy seriously and will only be exposing player osu! accounts as tournament identities. To track the league progress, we will be using Challonge. We'll replicate most of the crucial information there on this website, but for the most up to date stats, check the <a href="http://challonge.com/osuucisummerleague2015">Challonge</a> page directly. </p>
       </div>
     </div>
 
@@ -177,16 +177,56 @@ Pts Diff
 
 
 
-
-
-
-
-
-
-
-
 <tr>
 <td>1</td>
+<td class='participant left'>
+Natalia
+</td>
+<td>1 - 0 - 0</td>
+<td>0</td>
+<td>1.0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>2</td>
+<td class='participant left'>
+Cl8n
+</td>
+<td>1 - 0 - 0</td>
+<td>0</td>
+<td>1.0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>3</td>
+<td class='participant left'>
+Ecliptus
+</td>
+<td>1 - 0 - 0</td>
+<td>0</td>
+<td>1.0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4</td>
+<td class='participant left'>
+saltstick
+</td>
+<td>1 - 0 - 0</td>
+<td>0</td>
+<td>1.0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>5</td>
 <td class='participant left'>
 KogureKun
 </td>
@@ -198,7 +238,19 @@ KogureKun
 <td>0</td>
 </tr>
 <tr>
-<td>2</td>
+<td>6</td>
+<td class='participant left'>
+ScrYpt
+</td>
+<td>1 - 0 - 0</td>
+<td>0</td>
+<td>1.0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>7</td>
 <td class='participant left'>
 Ignite
 </td>
@@ -210,7 +262,7 @@ Ignite
 <td>2</td>
 </tr>
 <tr>
-<td>3</td>
+<td>8</td>
 <td class='participant left'>
 Aoiyuuki-
 </td>
@@ -222,7 +274,7 @@ Aoiyuuki-
 <td>2</td>
 </tr>
 <tr>
-<td>4</td>
+<td>9</td>
 <td class='participant left'>
 DeucesWiId
 </td>
@@ -234,7 +286,7 @@ DeucesWiId
 <td>2</td>
 </tr>
 <tr>
-<td>5</td>
+<td>10</td>
 <td class='participant left'>
 Kuki
 </td>
@@ -246,7 +298,7 @@ Kuki
 <td>2</td>
 </tr>
 <tr>
-<td>6</td>
+<td>11</td>
 <td class='participant left'>
 Andrew
 </td>
@@ -258,7 +310,7 @@ Andrew
 <td>2</td>
 </tr>
 <tr>
-<td>7</td>
+<td>12</td>
 <td class='participant left'>
 Amagi
 </td>
@@ -270,7 +322,7 @@ Amagi
 <td>2</td>
 </tr>
 <tr>
-<td>8</td>
+<td>13</td>
 <td class='participant left'>
 - Nakano Azusa-
 </td>
@@ -282,7 +334,7 @@ Amagi
 <td>2</td>
 </tr>
 <tr>
-<td>9</td>
+<td>14</td>
 <td class='participant left'>
 Rhylent
 </td>
@@ -294,7 +346,7 @@ Rhylent
 <td>2</td>
 </tr>
 <tr>
-<td>10</td>
+<td>15</td>
 <td class='participant left'>
 Ryan Gooseling
 </td>
@@ -306,7 +358,7 @@ Ryan Gooseling
 <td>1</td>
 </tr>
 <tr>
-<td>11</td>
+<td>16</td>
 <td class='participant left'>
 Aaerok
 </td>
@@ -318,7 +370,7 @@ Aaerok
 <td>1</td>
 </tr>
 <tr>
-<td>12</td>
+<td>17</td>
 <td class='participant left'>
 [Neetwork]
 </td>
@@ -330,7 +382,7 @@ Aaerok
 <td>1</td>
 </tr>
 <tr>
-<td>13</td>
+<td>18</td>
 <td class='participant left'>
 funnytrees
 </td>
@@ -342,7 +394,7 @@ funnytrees
 <td>1</td>
 </tr>
 <tr>
-<td>14</td>
+<td>19</td>
 <td class='participant left'>
 WynnWolf
 </td>
@@ -354,7 +406,7 @@ WynnWolf
 <td>1</td>
 </tr>
 <tr>
-<td>15</td>
+<td>20</td>
 <td class='participant left'>
 iSlapWhale
 </td>
@@ -366,7 +418,7 @@ iSlapWhale
 <td>1</td>
 </tr>
 <tr>
-<td>16</td>
+<td>21</td>
 <td class='participant left'>
 Kaifin
 </td>
@@ -378,7 +430,7 @@ Kaifin
 <td>1</td>
 </tr>
 <tr>
-<td>17</td>
+<td>22</td>
 <td class='participant left'>
 kennyyam
 </td>
@@ -390,7 +442,7 @@ kennyyam
 <td>1</td>
 </tr>
 <tr>
-<td>18</td>
+<td>23</td>
 <td class='participant left'>
 Alexefer
 </td>
@@ -402,7 +454,7 @@ Alexefer
 <td>1</td>
 </tr>
 <tr>
-<td>19</td>
+<td>24</td>
 <td class='participant left'>
 Karuta-
 </td>
@@ -414,31 +466,7 @@ Karuta-
 <td>1</td>
 </tr>
 <tr>
-<td>20</td>
-<td class='participant left'>
-Natalia
-</td>
-<td>1 - 0 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>21</td>
-<td class='participant left'>
-Cl8n
-</td>
-<td>1 - 0 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>22</td>
+<td>25</td>
 <td class='participant left'>
 Vapor
 </td>
@@ -450,19 +478,7 @@ Vapor
 <td>0</td>
 </tr>
 <tr>
-<td>23</td>
-<td class='participant left'>
-Ecliptus
-</td>
-<td>1 - 0 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>24</td>
+<td>26</td>
 <td class='participant left'>
 TheOnlyLeon
 </td>
@@ -474,19 +490,7 @@ TheOnlyLeon
 <td>0</td>
 </tr>
 <tr>
-<td>25</td>
-<td class='participant left'>
-saltstick
-</td>
-<td>1 - 0 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>26</td>
+<td>27</td>
 <td class='participant left'>
 bananamilk
 </td>
@@ -498,7 +502,7 @@ bananamilk
 <td>0</td>
 </tr>
 <tr>
-<td>27</td>
+<td>28</td>
 <td class='participant left'>
 plaatinum
 </td>
@@ -510,21 +514,9 @@ plaatinum
 <td>0</td>
 </tr>
 <tr>
-<td>28</td>
-<td class='participant left'>
-Xbox
-</td>
-<td>1 - 0 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
 <td>29</td>
 <td class='participant left'>
-ScrYpt
+Xbox
 </td>
 <td>1 - 0 - 0</td>
 <td>0</td>
@@ -548,18 +540,6 @@ BBastia
 <tr>
 <td>31</td>
 <td class='participant left'>
-Poofie
-</td>
-<td>0 - 0 - 1</td>
-<td>0</td>
-<td>0.0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>32</td>
-<td class='participant left'>
 Bass
 </td>
 <td>0 - 1 - 0</td>
@@ -570,7 +550,7 @@ Bass
 <td>0</td>
 </tr>
 <tr>
-<td>33</td>
+<td>32</td>
 <td class='participant left'>
 KevEz
 </td>
@@ -582,7 +562,7 @@ KevEz
 <td>0</td>
 </tr>
 <tr>
-<td>34</td>
+<td>33</td>
 <td class='participant left'>
 jackisgone
 </td>
@@ -594,7 +574,7 @@ jackisgone
 <td>0</td>
 </tr>
 <tr>
-<td>35</td>
+<td>34</td>
 <td class='participant left'>
 Zukarido
 </td>
@@ -606,19 +586,7 @@ Zukarido
 <td>0</td>
 </tr>
 <tr>
-<td>36</td>
-<td class='participant left'>
-YoshiIsAwsum
-</td>
-<td>0 - 1 - 0</td>
-<td>0</td>
-<td>0.0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>37</td>
+<td>35</td>
 <td class='participant left'>
 Fridolin
 </td>
@@ -630,19 +598,7 @@ Fridolin
 <td>0</td>
 </tr>
 <tr>
-<td>38</td>
-<td class='participant left'>
-Kyoko
-</td>
-<td>0 - 1 - 0</td>
-<td>0</td>
-<td>0.0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>39</td>
+<td>36</td>
 <td class='participant left'>
 Dunois
 </td>
@@ -654,19 +610,7 @@ Dunois
 <td>0</td>
 </tr>
 <tr>
-<td>40</td>
-<td class='participant left'>
-Raddy
-</td>
-<td>0 - 1 - 0</td>
-<td>0</td>
-<td>0.0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>41</td>
+<td>37</td>
 <td class='participant left'>
 YunoWhoItIs
 </td>
@@ -678,19 +622,7 @@ YunoWhoItIs
 <td>0</td>
 </tr>
 <tr>
-<td>42</td>
-<td class='participant left'>
-Demitoo
-</td>
-<td>0 - 1 - 0</td>
-<td>0</td>
-<td>0.0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>43</td>
+<td>38</td>
 <td class='participant left'>
 shivo
 </td>
@@ -702,7 +634,7 @@ shivo
 <td>0</td>
 </tr>
 <tr>
-<td>44</td>
+<td>39</td>
 <td class='participant left'>
 Ultraplex1337
 </td>
@@ -714,19 +646,7 @@ Ultraplex1337
 <td>0</td>
 </tr>
 <tr>
-<td>45</td>
-<td class='participant left'>
-Endyron
-</td>
-<td>0 - 1 - 0</td>
-<td>0</td>
-<td>0.0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>46</td>
+<td>40</td>
 <td class='participant left'>
 Ex6TenZ
 </td>
@@ -738,7 +658,7 @@ Ex6TenZ
 <td>-1</td>
 </tr>
 <tr>
-<td>47</td>
+<td>41</td>
 <td class='participant left'>
 Kocari
 </td>
@@ -750,7 +670,7 @@ Kocari
 <td>-1</td>
 </tr>
 <tr>
-<td>48</td>
+<td>42</td>
 <td class='participant left'>
 Kazuki
 </td>
@@ -762,7 +682,7 @@ Kazuki
 <td>-1</td>
 </tr>
 <tr>
-<td>49</td>
+<td>43</td>
 <td class='participant left'>
 Xexxar
 </td>
@@ -774,7 +694,7 @@ Xexxar
 <td>-1</td>
 </tr>
 <tr>
-<td>50</td>
+<td>44</td>
 <td class='participant left'>
 Keanu
 </td>
@@ -786,7 +706,7 @@ Keanu
 <td>-1</td>
 </tr>
 <tr>
-<td>51</td>
+<td>45</td>
 <td class='participant left'>
 BradXYZ
 </td>
@@ -798,7 +718,7 @@ BradXYZ
 <td>-1</td>
 </tr>
 <tr>
-<td>52</td>
+<td>46</td>
 <td class='participant left'>
 Keepu
 </td>
@@ -810,7 +730,7 @@ Keepu
 <td>-1</td>
 </tr>
 <tr>
-<td>53</td>
+<td>47</td>
 <td class='participant left'>
 kutora
 </td>
@@ -822,7 +742,7 @@ kutora
 <td>-1</td>
 </tr>
 <tr>
-<td>54</td>
+<td>48</td>
 <td class='participant left'>
 tyronetoblerone
 </td>
@@ -834,7 +754,7 @@ tyronetoblerone
 <td>-1</td>
 </tr>
 <tr>
-<td>55</td>
+<td>49</td>
 <td class='participant left'>
 jaskier2
 </td>
@@ -846,7 +766,7 @@ jaskier2
 <td>-1</td>
 </tr>
 <tr>
-<td>56</td>
+<td>50</td>
 <td class='participant left'>
 PainSinger
 </td>
@@ -858,7 +778,7 @@ PainSinger
 <td>-2</td>
 </tr>
 <tr>
-<td>57</td>
+<td>51</td>
 <td class='participant left'>
 IOException
 </td>
@@ -870,7 +790,7 @@ IOException
 <td>-2</td>
 </tr>
 <tr>
-<td>58</td>
+<td>52</td>
 <td class='participant left'>
 payau
 </td>
@@ -882,7 +802,7 @@ payau
 <td>-2</td>
 </tr>
 <tr>
-<td>59</td>
+<td>53</td>
 <td class='participant left'>
 Shinyblade
 </td>
@@ -894,7 +814,7 @@ Shinyblade
 <td>-2</td>
 </tr>
 <tr>
-<td>60</td>
+<td>54</td>
 <td class='participant left'>
 captin1
 </td>
@@ -906,7 +826,7 @@ captin1
 <td>-2</td>
 </tr>
 <tr>
-<td>61</td>
+<td>55</td>
 <td class='participant left'>
 kymotsujason
 </td>
@@ -918,7 +838,7 @@ kymotsujason
 <td>-2</td>
 </tr>
 <tr>
-<td>62</td>
+<td>56</td>
 <td class='participant left'>
 leluffy
 </td>
@@ -930,7 +850,7 @@ leluffy
 <td>-2</td>
 </tr>
 <tr>
-<td>63</td>
+<td>57</td>
 <td class='participant left'>
 Zafkiel
 </td>
@@ -942,23 +862,89 @@ Zafkiel
 <td>-2</td>
 </tr>
 <tr>
-<td>64</td>
+<td>58</td>
 <td class='left participant removed'>
 Slvin
 </td>
-<td>0 - 0 - 1</td>
+<td>1 - 0 - 0</td>
+<td>1</td>
+<td>2.0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>59</td>
+<td class='left participant removed'>
+Poofie
+</td>
+<td>0 - 1 - 0</td>
 <td>1</td>
 <td>1.0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 </tr>
-
-
-
-
-
-
+<tr>
+<td>60</td>
+<td class='left participant removed'>
+YoshiIsAwsum
+</td>
+<td>0 - 1 - 0</td>
+<td>1</td>
+<td>1.0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>61</td>
+<td class='left participant removed'>
+Kyoko
+</td>
+<td>0 - 1 - 0</td>
+<td>1</td>
+<td>1.0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>62</td>
+<td class='left participant removed'>
+Raddy
+</td>
+<td>0 - 1 - 0</td>
+<td>1</td>
+<td>1.0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>63</td>
+<td class='left participant removed'>
+Demitoo
+</td>
+<td>0 - 1 - 0</td>
+<td>1</td>
+<td>1.0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>64</td>
+<td class='left participant removed'>
+Endyron
+</td>
+<td>0 - 1 - 0</td>
+<td>1</td>
+<td>1.0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
 
 
 

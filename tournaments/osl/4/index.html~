@@ -1,0 +1,326 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>OSL Week 4 - osu! UCI</title>
+
+    <link rel="icon" href="http://osuuci.com/resources/favicon.ico">
+    <link rel="shortcut icon" href="http://osuuci.com/resources/favicon.ico">
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
+    <link href="../theme.css" type="text/css" rel="stylesheet"/>
+
+</head>
+
+<body>
+    <div class="buttons">
+        <table>
+            <tr>
+                <td><a href="http://osuuci.com/home" class="button"><img alt="Home" title="Home" src="http://osuuci.com/resources/orangeIconHome.png" /></a></td>
+                <td><a href="http://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="http://osuuci.com/resources/orangeIconOfficers.png" /></a></td>
+                <td><a href="http://osuuci.com/about" class="button"><img alt="About" title="About" src="http://osuuci.com/resources/orangeIconAbout.png" /></a></td>
+                <td><a href="http://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="http://osuuci.com/resources/orangeIconContact.png" /></a></td>
+                <td><a href="http://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="http://osuuci.com/resources/orangeIconTournament.png" /></a></td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="mid">
+      <div class="weekButtons">
+	<a href="http://osuuci.com/tournaments/osl" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Home</p>
+	    <img src="http://osuuci.com/tournaments/osl/weekHome.png"/>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/1" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 1</p>
+	    <img src="http://osuuci.com/tournaments/osl/week1.png"/>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/2" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 2</p>
+	    <img src="http://osuuci.com/tournaments/osl/week2.png"/>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/3" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 3</p>
+	    <img src="http://osuuci.com/tournaments/osl/week3.png"/>
+	  </div>
+	</a>
+	
+	<a href="http://osuuci.com/tournaments/osl/4" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 4</p>
+	    <img src="http://osuuci.com/tournaments/osl/week4.png"/>
+	  </div>
+	</a>
+      </div>
+      
+      <div class="sideButtons">
+
+	<a href="http://osuuci.com/tournaments/osl/4#summary" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/1.png"/>
+	    <p>Summary</p>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/4#schedule" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/2.png"/>
+	    <p>Schedule</p>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/4#mappool" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/3.png"/>
+	    <p>Map Pool</p>
+	  </div>
+	</a>
+	
+	<a href="http://osuuci.com/tournaments/osl/4#vods" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/4.png"/>
+	    <p>VoDs</p>
+	  </div>
+	</a>
+      </div>
+
+      <div id="summary">
+	<h2>Week 4 (August 1-2nd)</h2>
+	<p>A third of the Swiss rounds are now over. Brace yourselves as the middle weeks start up.</p>
+      </div>
+      
+      <div id="schedule">
+	<h2>Schedule</h2>
+	<p>To be decided after week 3 games.</p>
+      </div>
+
+    <div class="mid">
+      <div id="mappool">
+	<h2>Map Pool</h2>
+	<p>We have compiled a <a href="http://osuuci.com/tournaments/osl/4/week4.rar">collection</a> of the week's maps together for download. Inside the .rar is a copy of the <a href="https://osu.ppy.sh/forum/t/131103">osu!Collections Editor</a> to interact with our .osdb collection. More indepth instructions are available in the Editor link, but for basic functionality:</p>
+	<ul>
+	  <li>Load your current beatmaps by pointing to your root osu! folder</li>
+	  <li>Open our collection file</li>
+	  <li>Search for and download  beatmaps that you are missing</li>
+	  <li>Join our collection file with your collection file</li>
+	  <li>Save the joined collection file as your new osu! collections</li>
+	</ul>
+      </div>
+    </div>
+
+
+    <div class="mappool" style="padding-bottom: 2em">
+      
+
+
+<table>
+<tr>
+<td>Mod</td>
+<td>Title</td>
+<td>Artist</td>
+<td>Difficulty</td>
+<td>Length</td>
+<td>Stars</td>
+</tr>
+<tr>
+<td>
+None</td>
+<td>
+<a href="https://osu.ppy.sh/b/432839">End Time</a>
+</td>
+<td>
+Cres</td>
+<td>Extra</td>
+<td>2:08</td>
+<td>5.42
+</td>
+</tr>
+<tr>
+<td>
+None</td>
+<td>
+<a href="https://osu.ppy.sh/b/679226&m=0">Kokuhaku Yokou Renshuu</a>
+</td>
+<td>
+sana</td>
+<td>Expert</td>
+<td>2:37</td>
+<td>5.13
+</td>
+</tr>
+<tr>
+<td>
+None</td>
+<td>
+<a href="https://osu.ppy.sh/b/492543">Swing it!!</a>
+</td>
+<td>
+Fear COMMA and Loathing in Las Vegas</td>
+<td>Extra</td>
+<td>3:37</td>
+<td>5.33
+</td>
+</tr>
+<tr>
+<td>
+Double Time</td>
+<td>
+<a href="https://osu.ppy.sh/b/369921">Satellites</a>
+</td>
+<td>
+September</td>
+<td>Insane</td>
+<td>3:08 (2:05)</td>
+<td>3.93 (5.18)
+</td>
+</tr>
+<tr>
+<td>
+Double Time</td>
+<td>
+<a href="https://osu.ppy.sh/b/167535">Electric Angel</a>
+</td>
+<td>
+Yasuo-P</td>
+<td>Collab</td>
+<td>1:34 (1:02)</td>
+<td>3.62 (5.02)
+</td>
+</tr>
+<tr>
+<td>
+Double Time</td>
+<td>
+<a href="https://osu.ppy.sh/b/327256&m=0">Sky Gate</a>
+</td>
+<td>
+FELT</td>
+<td>Lunatic</td>
+<td>4:40 (3:06)</td>
+<td>3.70 (5.04)
+</td>
+</tr>
+<tr>
+<td>
+Hidden</td>
+<td>
+<a href="https://osu.ppy.sh/b/165883">Kimi no Kiseki</a>
+</td>
+<td>
+Hanatan</td>
+<td>S.S</td>
+<td>2:22</td>
+<td>5.15
+</td>
+</tr>
+<tr>
+<td>
+Hidden</td>
+<td>
+<a href="https://osu.ppy.sh/b/162405">Mission ASCII</a>
+</td>
+<td>
+Traktion</td>
+<td>Another</td>
+<td>3:18</td>
+<td>5.02
+</td>
+</tr>
+<tr>
+<td>
+Hidden</td>
+<td>
+<a href="https://osu.ppy.sh/b/239037">Arc</a>
+</td>
+<td>
+Mind Vortex</td>
+<td>Nsane</td>
+<td>2:33</td>
+<td>5.18
+</td>
+</tr>
+<tr>
+<td>
+Hard Rock</td>
+<td>
+<a href="https://osu.ppy.sh/b/188819">Yasashisa no Riyuu</a>
+</td>
+<td>
+Choucho</td>
+<td>Insane</td>
+<td>4:09</td>
+<td>4.55 (4.84)
+</td>
+</tr>
+<tr>
+<td>
+Hard Rock</td>
+<td>
+<a href="https://osu.ppy.sh/b/301690">ResoAlive</a>
+</td>
+<td>
+Baru</td>
+<td>Hanabi's Insane</td>
+<td>3:58</td>
+<td>4.80 (5.00)
+</td>
+</tr>
+<tr>
+<td>
+Hard Rock</td>
+<td>
+<a href="https://osu.ppy.sh/b/183357">ODDS&ENDS</a>
+</td>
+<td>
+ryo (supercell)</td>
+<td>Insane</td>
+<td>5:27</td>
+<td>4.76 (5.02)
+</td>
+</tr>
+<tr>
+<td>
+Tiebreaker</td>
+<td>
+<a href="https://osu.ppy.sh/s/129676">Happy End of the World</a>
+</td>
+<td>
+xi</td>
+<td>Happy End</td>
+<td>6:17</td>
+<td>5.45
+</td>
+</tr>
+</table>
+</div>
+
+
+      
+
+
+</div>
+
+
+    <div id="vods">
+      <h2>VoDs</h2>
+
+      <p>Watch this week's recorded streams.</p>
+      <iframe width="650" height="366" src="https://www.youtube.com/embed/zGgiKLPMPI0" frameborder="0" allowfullscreen></iframe>
+
+
+      
+
+    </div>
+    
+</body>
+</html>
