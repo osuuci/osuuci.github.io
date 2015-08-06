@@ -337,6 +337,7 @@ iframe {
     border-radius: 0.25em;
     border-collapse: collapse;
     width: 41em;
+    broder: 2px solid red;
 }
 
 .mappool tr:first-child {

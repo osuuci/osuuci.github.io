@@ -60,7 +60,21 @@
 	    <p>Week 4</p>
 	    <img src="http://osuuci.com/tournaments/osl/week4.png"/>
 	  </div>
-	</a>	
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/5" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 5</p>
+	    <img src="http://osuuci.com/tournaments/osl/week5.png"/>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/6" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 6</p>
+	    <img src="http://osuuci.com/tournaments/osl/week6.png"/>
+	  </div>
+	</a>
       </div>
 
       <div class="sideButtons">
@@ -514,7 +528,7 @@
 	<tr>
 	  <td>30</td>
 	  <td class='participant left'>
-	    BBastia
+	    Bastia
 	  </td>
 	  <td>0 - 1 - 0</td>
 	  <td>1</td>
@@ -1120,7 +1134,7 @@
 	    <a href="https://osu.ppy.sh/u/KogureKun">KogureKun</a>
 	  </td>
 	  <td>
-	    <a href="https://osu.ppy.sh/u/BBastia">BBastia</a>
+	    <a href="https://osu.ppy.sh/u/Bastia">Bastia</a>
 	  </td>
 	  <td>0-0</td>
 	  <td><a href='https://osu.ppy.sh/mp/17420465'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
@@ -1592,11 +1606,7 @@
     </div>
 
 
-    <div class="mappool" style="padding-bottom: 2em">
-      
-
-
-
+    <div class="mappool">
       <table>
 	<tr>
 	  <td>Mod</td>
@@ -1763,27 +1773,28 @@
 	  <td>5.27</td>
 	</tr>
       </table>
+    </div>
 
-      
+    
 
 
-      <div id="vods">
-	<div class="mid">
-	  <h2>VoDs</h2>
-	  <p>Below is the collection of stream vods of our week 1 events. Due to quality controls switching on after a set number of viewers, our stream was cut into separate sections automatically.</p>
+    <div id="vods">
+      <div class="mid">
+	<h2>VoDs</h2>
+	<p>Below is the collection of stream vods of our week 1 events. Due to quality controls switching on after a set number of viewers, our stream was cut into separate sections automatically.</p>
 
-	  <iframe width="650" height="366" src="https://www.youtube.com/embed/A5A7lsWaj-w" frameborder="0" allowfullscreen></iframe>
+	<iframe width="650" height="366" src="https://www.youtube.com/embed/A5A7lsWaj-w" frameborder="0" allowfullscreen></iframe>
 
-	  <iframe width="650" height="366" src="https://www.youtube.com/embed/TaVthsE0_1o" frameborder="0" allowfullscreen></iframe>
-	  
-	  <iframe width="650" height="366" src="https://www.youtube.com/embed/gXek85CUX1A" frameborder="0" allowfullscreen></iframe>
+	<iframe width="650" height="366" src="https://www.youtube.com/embed/TaVthsE0_1o" frameborder="0" allowfullscreen></iframe>
+	
+	<iframe width="650" height="366" src="https://www.youtube.com/embed/gXek85CUX1A" frameborder="0" allowfullscreen></iframe>
 
-	  <iframe width="650" height="366" src="https://www.youtube.com/embed/Hb0fXJFufp0" frameborder="0" allowfullscreen></iframe>
+	<iframe width="650" height="366" src="https://www.youtube.com/embed/Hb0fXJFufp0" frameborder="0" allowfullscreen></iframe>
 
-	  <iframe width="650" height="366" src="https://www.youtube.com/embed/DHakA9FJ3fI" frameborder="0" allowfullscreen></iframe>
+	<iframe width="650" height="366" src="https://www.youtube.com/embed/DHakA9FJ3fI" frameborder="0" allowfullscreen></iframe>
 
-	</div>
       </div>
+    </div>
 
   </body>
 </html>

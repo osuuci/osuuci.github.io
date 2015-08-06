@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <html>
-<head>
+  <head>
     <meta charset="utf-8" />
     <title>OSL Week 3 - osu! UCI</title>
 
@@ -11,19 +11,19 @@
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
     <link href="../theme.css" type="text/css" rel="stylesheet"/>
 
-</head>
+  </head>
 
-<body>
+  <body>
     <div class="buttons">
-        <table>
-            <tr>
-                <td><a href="http://osuuci.com/home" class="button"><img alt="Home" title="Home" src="http://osuuci.com/resources/orangeIconHome.png" /></a></td>
-                <td><a href="http://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="http://osuuci.com/resources/orangeIconOfficers.png" /></a></td>
-                <td><a href="http://osuuci.com/about" class="button"><img alt="About" title="About" src="http://osuuci.com/resources/orangeIconAbout.png" /></a></td>
-                <td><a href="http://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="http://osuuci.com/resources/orangeIconContact.png" /></a></td>
-                <td><a href="http://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="http://osuuci.com/resources/orangeIconTournament.png" /></a></td>
-            </tr>
-        </table>
+      <table>
+        <tr>
+          <td><a href="http://osuuci.com/home" class="button"><img alt="Home" title="Home" src="http://osuuci.com/resources/orangeIconHome.png" /></a></td>
+          <td><a href="http://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="http://osuuci.com/resources/orangeIconOfficers.png" /></a></td>
+          <td><a href="http://osuuci.com/about" class="button"><img alt="About" title="About" src="http://osuuci.com/resources/orangeIconAbout.png" /></a></td>
+          <td><a href="http://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="http://osuuci.com/resources/orangeIconContact.png" /></a></td>
+          <td><a href="http://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="http://osuuci.com/resources/orangeIconTournament.png" /></a></td>
+        </tr>
+      </table>
     </div>
 
     <div class="mid">
@@ -69,6 +69,13 @@
 	    <img src="http://osuuci.com/tournaments/osl/week5.png"/>
 	  </div>
 	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/6" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 6</p>
+	    <img src="http://osuuci.com/tournaments/osl/week6.png"/>
+	  </div>
+	</a>
       </div>
       
       <div class="sideButtons">
@@ -110,1523 +117,1376 @@
 
 
 
-<div class="mappool participants">
-<table>
-<tr>
-<td>Rank</td>
-<td>Participant</td>
-<td>
-Match W-L-T
-<br>
-<small> (wins +1.0, ties +0.0)</small>
-</td>
-<td>
-Byes
-<br>
-<small> (+1.0)</small>
-</td>
-<td class='ranking-1'>
-Score
-</td>
-<td class='ranking-2'>
-<span class='tip stat-tip' data-title='Number of match wins against tied opponents' data-toggle='tooltip'>
-TB
-</span>
-</td>
-<td class='ranking-3'>
-<span class='tip stat-tip' data-title="The Median-Buchholz system is used to break ties in Swiss tournaments. The value displayed in the standings table is the sum of a player's opponents' scores, with the best and worst scores discarded." data-toggle='tooltip'>
-Buchholz
-</span>
-</td>
-<td class='ranking-4'>
-<span class='tip stat-tip' data-title='Total number of points scored minus points given up' data-toggle='tooltip'>
-Pts Diff
-</span>
-</td>
-</tr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<tr>
-<td>1</td>
-<td class='participant left'>
-Natalia
-</td>
-<td>3 - 0 - 0</td>
-<td>0</td>
-<td>3.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>3</td>
-</tr>
-<tr>
-<td>2</td>
-<td class='participant left'>
-Cl8n
-</td>
-<td>3 - 0 - 0</td>
-<td>0</td>
-<td>3.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>3</td>
-</tr>
-<tr>
-<td>3</td>
-<td class='participant left'>
-Ecliptus
-</td>
-<td>3 - 0 - 0</td>
-<td>0</td>
-<td>3.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>3</td>
-</tr>
-<tr>
-<td>4</td>
-<td class='participant left'>
-Ignite
-</td>
-<td>3 - 0 - 0</td>
-<td>0</td>
-<td>3.0</td>
-<td>0</td>
-<td>2.0</td>
-<td>4</td>
-</tr>
-<tr>
-<td>5</td>
-<td class='participant left'>
-kennyyam
-</td>
-<td>3 - 0 - 0</td>
-<td>0</td>
-<td>3.0</td>
-<td>0</td>
-<td>2.0</td>
-<td>4</td>
-</tr>
-<tr>
-<td>6</td>
-<td class='participant left'>
-Ryan Gooseling
-</td>
-<td>3 - 0 - 0</td>
-<td>0</td>
-<td>3.0</td>
-<td>0</td>
-<td>2.0</td>
-<td>2</td>
-</tr>
-<tr>
-<td>7</td>
-<td class='participant left'>
-Aaerok
-</td>
-<td>3 - 0 - 0</td>
-<td>0</td>
-<td>3.0</td>
-<td>0</td>
-<td>1.0</td>
-<td>4</td>
-</tr>
-<tr>
-<td>8</td>
-<td class='participant left'>
-funnytrees
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>2</td>
-<td>2.0</td>
-<td>2</td>
-</tr>
-<tr>
-<td>9</td>
-<td class='participant left'>
-Aoiyuuki-
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>2</td>
-<td>2.0</td>
-<td>1</td>
-</tr>
-<tr>
-<td>10</td>
-<td class='participant left'>
-Rhylent
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>2</td>
-<td>2.0</td>
-<td>1</td>
-</tr>
-<tr>
-<td>11</td>
-<td class='participant left'>
-[Neetwork]
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>2</td>
-<td>2.0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>12</td>
-<td class='participant left'>
-ScrYpt
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>1</td>
-<td>3.0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>13</td>
-<td class='participant left'>
-Andrew
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>3</td>
-</tr>
-<tr>
-<td>14</td>
-<td class='participant left'>
-Xexxar
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>1</td>
-</tr>
-<tr>
-<td>15</td>
-<td class='participant left'>
-WynnWolf
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>1</td>
-</tr>
-<tr>
-<td>16</td>
-<td class='participant left'>
-Keanu
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>1</td>
-</tr>
-<tr>
-<td>17</td>
-<td class='participant left'>
-kutora
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>1</td>
-</tr>
-<tr>
-<td>18</td>
-<td class='participant left'>
-PainSinger
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>19</td>
-<td class='participant left'>
-Alexefer
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>-1</td>
-</tr>
-<tr>
-<td>20</td>
-<td class='participant left'>
-kymotsujason
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>-1</td>
-</tr>
-<tr>
-<td>21</td>
-<td class='participant left'>
-Karuta-
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>-1</td>
-</tr>
-<tr>
-<td>22</td>
-<td class='participant left'>
-Kocari
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>0</td>
-<td>1.0</td>
-<td>2</td>
-</tr>
-<tr>
-<td>23</td>
-<td class='participant left'>
-Kaifin
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>0</td>
-<td>1.0</td>
-<td>2</td>
-</tr>
-<tr>
-<td>24</td>
-<td class='participant left'>
-DeucesWiId
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>0</td>
-<td>1.0</td>
-<td>1</td>
-</tr>
-<tr>
-<td>25</td>
-<td class='participant left'>
-Kuki
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>26</td>
-<td class='participant left'>
-iSlapWhale
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>27</td>
-<td class='participant left'>
-- Nakano Azusa-
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-</tr>
-<tr>
-<td>28</td>
-<td class='participant left'>
-Keepu
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>0</td>
-<td>1.0</td>
-<td>-1</td>
-</tr>
-<tr>
-<td>29</td>
-<td class='participant left'>
-Shinyblade
-</td>
-<td>2 - 1 - 0</td>
-<td>0</td>
-<td>2.0</td>
-<td>0</td>
-<td>1.0</td>
-<td>-2</td>
-</tr>
-<tr>
-<td>30</td>
-<td class='participant left'>
-bananamilk
-</td>
-<td>1 - 2 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>-1</td>
-</tr>
-<tr>
-<td>31</td>
-<td class='participant left'>
-Amagi
-</td>
-<td>1 - 2 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>-1</td>
-</tr>
-<tr>
-<td>32</td>
-<td class='participant left'>
-KogureKun
-</td>
-<td>1 - 2 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>-2</td>
-</tr>
-<tr>
-<td>33</td>
-<td class='participant left'>
-captin1
-</td>
-<td>1 - 2 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>-2</td>
-</tr>
-<tr>
-<td>34</td>
-<td class='participant left'>
-Xbox
-</td>
-<td>1 - 2 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>-2</td>
-</tr>
-<tr>
-<td>35</td>
-<td class='participant left'>
-BradXYZ
-</td>
-<td>1 - 2 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>-3</td>
-</tr>
-<tr>
-<td>36</td>
-<td class='participant left'>
-Zafkiel
-</td>
-<td>1 - 2 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>1</td>
-<td>2.0</td>
-<td>-3</td>
-</tr>
-<tr>
-<td>37</td>
-<td class='participant left'>
-Dunois
-</td>
-<td>1 - 1 - 1</td>
-<td>0</td>
-<td>1.0</td>
-<td>1</td>
-<td>1.0</td>
-<td>2</td>
-</tr>
-<tr>
-<td>38</td>
-<td class='participant left'>
-Ex6TenZ
-</td>
-<td>1 - 2 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-<td>2.0</td>
-<td>-1</td>
-</tr>
-<tr>
-<td>39</td>
-<td class='participant left'>
-TheOnlyLeon
-</td>
-<td>1 - 2 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-<td>2.0</td>
-<td>-1</td>
-</tr>
-<tr>
-<td>40</td>
-<td class='participant left'>
-Kazuki
-</td>
-<td>1 - 2 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-<td>2.0</td>
-<td>-2</td>
-</tr>
-<tr>
-<td>41</td>
-<td class='participant left'>
-payau
-</td>
-<td>1 - 2 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-<td>2.0</td>
-<td>-2</td>
-</tr>
-<tr>
-<td>42</td>
-<td class='participant left'>
-saltstick
-</td>
-<td>1 - 2 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-<td>2.0</td>
-<td>-2</td>
-</tr>
-<tr>
-<td>43</td>
-<td class='participant left'>
-Zukarido
-</td>
-<td>1 - 2 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-<td>1.0</td>
-<td>-1</td>
-</tr>
-<tr>
-<td>44</td>
-<td class='participant left'>
-IOException
-</td>
-<td>1 - 2 - 0</td>
-<td>0</td>
-<td>1.0</td>
-<td>0</td>
-<td>1.0</td>
-<td>-1</td>
-</tr>
-<tr>
-<td>45</td>
-<td class='participant left'>
-jaskier2
-</td>
-<td>0 - 2 - 0</td>
-<td>1</td>
-<td>1.0</td>
-<td>0</td>
-<td>0</td>
-<td>-1</td>
-</tr>
-<tr>
-<td>46</td>
-<td class='participant left'>
-Bastia
-</td>
-<td>0 - 2 - 0</td>
-<td>1</td>
-<td>1.0</td>
-<td>0</td>
-<td>0</td>
-<td>-2</td>
-</tr>
-<tr>
-<td>47</td>
-<td class='participant left'>
-leluffy
-</td>
-<td>0 - 3 - 0</td>
-<td>0</td>
-<td>0.0</td>
-<td>0</td>
-<td>2.0</td>
-<td>-5</td>
-</tr>
-<tr>
-<td>48</td>
-<td class='participant left'>
-tyronetoblerone
-</td>
-<td>0 - 3 - 0</td>
-<td>0</td>
-<td>0.0</td>
-<td>0</td>
-<td>1.0</td>
-<td>-3</td>
-</tr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</tbody>
-</table>
-
-
-
-	
-
-	
-      </div>
-      
-      <div id="schedule">
-	<h2>Schedule</h2>
-	<p>Please email us at <a href="mailto:osuuci@gmail.com">osuuci@gmail.com</a> if you have any conflicts with your match. You can message a tournament admin, but mail is preferred so that all the admins can see the same message, and there'll be less mistakes and overhead as we try and coordinate together. And if you want to help us out and save back-and-forth in planning a reschedule, reach out to your opponent first and agree to a time before finalizing the change with us.</p>
-
-
-
-
-
-    <div class="oslschedule">
-
-
-
-      <table>
-	<tr>
-	  <td>Lobby</td>
-	  <td>Time <small>(PDT/GMT-7)</small></td>
-	  <td>Player 1</td>
-	  <td>Player 2</td>
-	  <td>Score</td>
-	  <td>Match History</td>
-	  <td>Officer</td>
-	</tr>
-<tr>
-<td>
-OSL:CI
-</td>
-<td>
-Sat 8:00PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Ignite">Ignite</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/WynnWolf">WynnWolf</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
-</td>
-</tr>
-
-<tr>
-<td>
-OSL:CB
-</td>
-<td>
-Sat 8:00PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/leluffy">leluffy</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Kazuki">Kazuki</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
-</td>
-</tr>
-<tr>
-<td>
-OSL:BW
-</td>
-<td>
-Sat 8:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Kaifin">Kaifin</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/KogureKun">KogureKun</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/xenocidel">Xenocidel</a>
-</td>
-</tr>
-<tr>
-<td>
-OSL:BT
-</td>
-<td>
-Sat 8:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/-%20Nakano%20Azusa-">- Nakano Azusa-</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/captin1">captin1</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
-</td>
-</tr>
-<tr>
-<td>
-OSL:BR
-</td>
-<td>
-Sat 8:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Ex6TenZ">Ex6TenZ</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Keepu">Keepu</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
-</td>
-</tr>
-
-<tr>
-<td>
-OSL:BU
-</td>
-<td>
-Sat 9:00PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Karuta-">Karuta-</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/bananamilk">bananamilk</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
-</td>
-</tr>
-<tr>
-<td>
-OSL:BY
-</td>
-<td>
-Sat 9:00PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Kuki">Kuki</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/TheOnlyLeon">TheOnlyLeon</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
-</td>
-</tr>
-
-
-<tr>
-<td>
-OSL:BP
-</td>
-<td>
-Sat 9:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/IOException">IOException</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/kymotsujason">kymotsujason</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
-</td>
-</tr>
-
-<tr>
-<td>
-OSL:CD
-</td>
-<td>
-Sat 9:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Bastia">Bastia</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Dunois">Dunois</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/xenocidel">Xenocidel</a>
-</td>
-</tr>
-<tr>
-<td>
-OSL:BZ
-</td>
-<td>
-Sat 9:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Rhylent">Rhylent</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Aoiyuuki-">Aoiyuuki-</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
-</td>
-</tr>
-<tr>
-<td>
-OSL:BX
-</td>
-<td>
-Sat 9:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Andrew">Andrew</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/saltstick">saltstick</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
-</td>
-</tr>
-<tr>
-<td>
-OSL:CE
-</td>
-<td>
-Sat 9:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Ecliptus">Ecliptus</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/ScrYpt">ScrYpt</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
-</td>
-</tr>
-<tr>
-<td>
-OSL:BM
-</td>
-<td>
-Sun 8:00PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/payau">payau</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Shinyblade">Shinyblade</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/xenocidel">Xenocidel</a>
-</td>
-</tr>
-<tr>
-<td>
-OSL:CH
-</td>
-<td>
-Sun 8:00PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Aaerok">Aaerok</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/iSlapWhale">iSlapWhale</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
-</td>
-</tr>
-
-<tr>
-<td>
-OSL:CC
-</td>
-<td>
-Sun 8:00PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/tyronetoblerone">tyronetoblerone</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Zukarido">Zukarido</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
-</td>
-</tr>
-<tr>
-<td>
-OSL:BO
-</td>
-<td>
-Sun 8:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Vapor">Vapor</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/kutora">kutora</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
-</td>
-</tr>
-
-<tr>
-<td>
-OSL:CJ
-</td>
-<td>
-Sun 8:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Ryan%20Gooseling">Ryan Gooseling</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/funnytrees">funnytrees</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
-</td>
-</tr>
-
-<tr>
-<td>
-OSL:BV
-</td>
-<td>
-Sun 8:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Amagi">Amagi</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Keanu">Keanu</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
-</td>
-</tr>
-
-<tr>
-<td>
-OSL:CG
-</td>
-<td>
-Sun 9:00PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/[Neetwork]">[Neetwork]</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/kennyyam">kennyyam</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
-</td>
-</tr>
-
-<tr>
-<td>
-OSL:BQ
-</td>
-<td>
-Sun 9:00PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Kocari">Kocari</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Xbox">Xbox</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Shintomo">Shintomo</a>
-</td>
-</tr>
-
-<tr>
-<td>
-OSL:BS
-</td>
-<td>
-Sun 9:00PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/PainSinger">PainSinger</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/plaatinum">plaatinum</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
-</td>
-</tr>
-
-<tr>
-<td>
-OSL:AA
-</td>
-<td>
-Sun 9:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Natalia">Natalia</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/DeucesWiId">DeucesWiId</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Jim">Jim</a>
-</td>
-</tr>
-
-<tr>
-<td>
-OSL:BN
-</td>
-<td>
-Sun 9:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Xexxar">Xexxar</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Zafkiel">Zafkiel</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
-</td>
-</tr>
-
-<tr>
-<td>
-OSL:CF
-</td>
-<td>
-Sun 9:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Cl8n">Cl8n</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Alexefer">Alexefer</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
-</td>
-</tr>
-
-<tr>
-<td>
-OSL:CA
-</td>
-<td>
-Sun 9:30PM
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/BradXYZ">BradXYZ</a>
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/Bass">Bass</a>
-</td>
-<td>
-N/A
-</td>
-<td>
-N/A
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
-</td>
-</tr>
-
-<tr>
-<td>
-<i>Bye</i>
-</td>
-<td>
--
-</td>
-<td>
-<a href="https://osu.ppy.sh/u/jaskier2">jaskier2</a>
-</td>
-<td>
--
-</td>
-<td>
--
-</td>
-<td>
--
-</td>
-<td>
--
-</td>
-</tr>
-
-</table>
-
-	
-
-
-
-
-	
-
-	
-      </div>
-
-    <div class="mid">
-      <div id="mappool">
-	<h2>Map Pool</h2>
-	<p>We have compiled a <a href="http://osuuci.com/tournaments/osl/3/week3.rar">collection</a> of the week's maps together for download. Inside the .rar is a copy of the <a href="https://osu.ppy.sh/forum/t/131103">osu!Collections Editor</a> to interact with our .osdb collection. More indepth instructions are available in the Editor link, but for basic functionality:</p>
-	<ul>
-	  <li>Load your current beatmaps by pointing to your root osu! folder</li>
-	  <li>Open our collection file</li>
-	  <li>Search for and download  beatmaps that you are missing</li>
-	  <li>Join our collection file with your collection file</li>
-	  <li>Save the joined collection file as your new osu! collections</li>
-	</ul>
-      </div>
-    </div>
-
-
-    <div class="mappool" style="padding-bottom: 2em">
-      
-
-
-<table>
-<tr>
-<td>Mod</td>
-<td>Title</td>
-<td>Artist</td>
-<td>Difficulty</td>
-<td>Length</td>
-<td>Stars</td>
-</tr>
-<tr>
-<td>
-None</td>
-<td>
-<a href="https://osu.ppy.sh/b/432839">End Time</a>
-</td>
-<td>
-Cres</td>
-<td>Extra</td>
-<td>2:08</td>
-<td>5.42
-</td>
-</tr>
-<tr>
-<td>
-None</td>
-<td>
-<a href="https://osu.ppy.sh/b/679226&m=0">Kokuhaku Yokou Renshuu</a>
-</td>
-<td>
-sana</td>
-<td>Expert</td>
-<td>2:37</td>
-<td>5.13
-</td>
-</tr>
-<tr>
-<td>
-None</td>
-<td>
-<a href="https://osu.ppy.sh/b/492543">Swing it!!</a>
-</td>
-<td>
-Fear COMMA and Loathing in Las Vegas</td>
-<td>Extra</td>
-<td>3:37</td>
-<td>5.33
-</td>
-</tr>
-<tr>
-<td>
-Double Time</td>
-<td>
-<a href="https://osu.ppy.sh/b/369921">Satellites</a>
-</td>
-<td>
-September</td>
-<td>Insane</td>
-<td>3:08 (2:05)</td>
-<td>3.93 (5.18)
-</td>
-</tr>
-<tr>
-<td>
-Double Time</td>
-<td>
-<a href="https://osu.ppy.sh/b/167535">Electric Angel</a>
-</td>
-<td>
-Yasuo-P</td>
-<td>Collab</td>
-<td>1:34 (1:02)</td>
-<td>3.62 (5.02)
-</td>
-</tr>
-<tr>
-<td>
-Double Time</td>
-<td>
-<a href="https://osu.ppy.sh/b/327256&m=0">Sky Gate</a>
-</td>
-<td>
-FELT</td>
-<td>Lunatic</td>
-<td>4:40 (3:06)</td>
-<td>3.70 (5.04)
-</td>
-</tr>
-<tr>
-<td>
-Hidden</td>
-<td>
-<a href="https://osu.ppy.sh/b/165883">Kimi no Kiseki</a>
-</td>
-<td>
-Hanatan</td>
-<td>S.S</td>
-<td>2:22</td>
-<td>5.15
-</td>
-</tr>
-<tr>
-<td>
-Hidden</td>
-<td>
-<a href="https://osu.ppy.sh/b/162405">Mission ASCII</a>
-</td>
-<td>
-Traktion</td>
-<td>Another</td>
-<td>3:18</td>
-<td>5.02
-</td>
-</tr>
-<tr>
-<td>
-Hidden</td>
-<td>
-<a href="https://osu.ppy.sh/b/239037">Arc</a>
-</td>
-<td>
-Mind Vortex</td>
-<td>Nsane</td>
-<td>2:33</td>
-<td>5.18
-</td>
-</tr>
-<tr>
-<td>
-Hard Rock</td>
-<td>
-<a href="https://osu.ppy.sh/b/188819">Yasashisa no Riyuu</a>
-</td>
-<td>
-Choucho</td>
-<td>Insane</td>
-<td>4:09</td>
-<td>4.55 (4.84)
-</td>
-</tr>
-<tr>
-<td>
-Hard Rock</td>
-<td>
-<a href="https://osu.ppy.sh/b/301690">ResoAlive</a>
-</td>
-<td>
-Baru</td>
-<td>Hanabi's Insane</td>
-<td>3:58</td>
-<td>4.72 (4.84)
-</td>
-</tr>
-<tr>
-<td>
-Hard Rock</td>
-<td>
-<a href="https://osu.ppy.sh/b/183357">ODDS&ENDS</a>
-</td>
-<td>
-ryo (supercell)</td>
-<td>Insane</td>
-<td>5:27</td>
-<td>4.76 (5.02)
-</td>
-</tr>
-<tr>
-<td>
-Tiebreaker</td>
-<td>
-<a href="https://osu.ppy.sh/s/129676">Happy End of the World</a>
-</td>
-<td>
-xi</td>
-<td>Happy End</td>
-<td>6:17</td>
-<td>5.45
-</td>
-</tr>
-</table>
-</div>
-
-
-      
-
-
-</div>
-
-
-    <div id="vods">
-      <h2>VoDs</h2>
-
-      <p>Watch this week's stream VoDs.</p>
-      <iframe width="650" height="366" src="https://www.youtube.com/embed/zGgiKLPMPI0" frameborder="0" allowfullscreen></iframe>
-      <iframe width="650" height="366" src="https://www.youtube.com/embed/xqCF-YPiQeA" frameborder="0" allowfullscreen></iframe>
-      <iframe width="650" height="366" src="https://www.youtube.com/embed/SwFb-chpYX0" frameborder="0" allowfullscreen></iframe>
-      <iframe width="650" height="366" src="https://www.youtube.com/embed/MrsrVzK6ggM" frameborder="0" allowfullscreen></iframe>
-      <iframe width="650" height="366" src="https://www.youtube.com/embed/U6-HCPGrZmk" frameborder="0" allowfullscreen></iframe>
-    </div>
-    
-</body>
+	<div class="mappool participants">
+	  <table>
+	    <tr>
+	      <td>Rank</td>
+	      <td>Participant</td>
+	      <td>
+		Match W-L-T
+		<br>
+		<small> (wins +1.0, ties +0.0)</small>
+	      </td>
+	      <td>
+		Byes
+		<br>
+		<small> (+1.0)</small>
+	      </td>
+	      <td class='ranking-1'>
+		Score
+	      </td>
+	      <td class='ranking-2'>
+		<span class='tip stat-tip' data-title='Number of match wins against tied opponents' data-toggle='tooltip'>
+		  TB
+		</span>
+	      </td>
+	      <td class='ranking-3'>
+		<span class='tip stat-tip' data-title="The Median-Buchholz system is used to break ties in Swiss tournaments. The value displayed in the standings table is the sum of a player's opponents' scores, with the best and worst scores discarded." data-toggle='tooltip'>
+		  Buchholz
+		</span>
+	      </td>
+	      <td class='ranking-4'>
+		<span class='tip stat-tip' data-title='Total number of points scored minus points given up' data-toggle='tooltip'>
+		  Pts Diff
+		</span>
+	      </td>
+	    </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    <tr>
+	      <td>1</td>
+	      <td class='participant left'>
+		Natalia
+	      </td>
+	      <td>3 - 0 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>2</td>
+	      <td class='participant left'>
+		Cl8n
+	      </td>
+	      <td>3 - 0 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>3</td>
+	      <td class='participant left'>
+		Ecliptus
+	      </td>
+	      <td>3 - 0 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>4</td>
+	      <td class='participant left'>
+		Ignite
+	      </td>
+	      <td>3 - 0 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>4</td>
+	    </tr>
+	    <tr>
+	      <td>5</td>
+	      <td class='participant left'>
+		kennyyam
+	      </td>
+	      <td>3 - 0 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>4</td>
+	    </tr>
+	    <tr>
+	      <td>6</td>
+	      <td class='participant left'>
+		Ryan Gooseling
+	      </td>
+	      <td>3 - 0 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>2</td>
+	    </tr>
+	    <tr>
+	      <td>7</td>
+	      <td class='participant left'>
+		Aaerok
+	      </td>
+	      <td>3 - 0 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>4</td>
+	    </tr>
+	    <tr>
+	      <td>8</td>
+	      <td class='participant left'>
+		funnytrees
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>2</td>
+	      <td>2.0</td>
+	      <td>2</td>
+	    </tr>
+	    <tr>
+	      <td>9</td>
+	      <td class='participant left'>
+		Aoiyuuki-
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>2</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	    </tr>
+	    <tr>
+	      <td>10</td>
+	      <td class='participant left'>
+		Rhylent
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>2</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	    </tr>
+	    <tr>
+	      <td>11</td>
+	      <td class='participant left'>
+		[Neetwork]
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>2</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	    </tr>
+	    <tr>
+	      <td>12</td>
+	      <td class='participant left'>
+		ScrYpt
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>3.0</td>
+	      <td>0</td>
+	    </tr>
+	    <tr>
+	      <td>13</td>
+	      <td class='participant left'>
+		Andrew
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>14</td>
+	      <td class='participant left'>
+		Xexxar
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	    </tr>
+	    <tr>
+	      <td>15</td>
+	      <td class='participant left'>
+		WynnWolf
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	    </tr>
+	    <tr>
+	      <td>16</td>
+	      <td class='participant left'>
+		Keanu
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	    </tr>
+	    <tr>
+	      <td>17</td>
+	      <td class='participant left'>
+		kutora
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	    </tr>
+	    <tr>
+	      <td>18</td>
+	      <td class='participant left'>
+		PainSinger
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	    </tr>
+	    <tr>
+	      <td>19</td>
+	      <td class='participant left'>
+		Alexefer
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>20</td>
+	      <td class='participant left'>
+		kymotsujason
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>21</td>
+	      <td class='participant left'>
+		Karuta-
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>22</td>
+	      <td class='participant left'>
+		Kocari
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>2</td>
+	    </tr>
+	    <tr>
+	      <td>23</td>
+	      <td class='participant left'>
+		Kaifin
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>2</td>
+	    </tr>
+	    <tr>
+	      <td>24</td>
+	      <td class='participant left'>
+		DeucesWiId
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>1</td>
+	    </tr>
+	    <tr>
+	      <td>25</td>
+	      <td class='participant left'>
+		Kuki
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	    </tr>
+	    <tr>
+	      <td>26</td>
+	      <td class='participant left'>
+		iSlapWhale
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	    </tr>
+	    <tr>
+	      <td>27</td>
+	      <td class='participant left'>
+		- Nakano Azusa-
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	    </tr>
+	    <tr>
+	      <td>28</td>
+	      <td class='participant left'>
+		Keepu
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>29</td>
+	      <td class='participant left'>
+		Shinyblade
+	      </td>
+	      <td>2 - 1 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>30</td>
+	      <td class='participant left'>
+		bananamilk
+	      </td>
+	      <td>1 - 2 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>31</td>
+	      <td class='participant left'>
+		Amagi
+	      </td>
+	      <td>1 - 2 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>32</td>
+	      <td class='participant left'>
+		KogureKun
+	      </td>
+	      <td>1 - 2 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>33</td>
+	      <td class='participant left'>
+		captin1
+	      </td>
+	      <td>1 - 2 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>34</td>
+	      <td class='participant left'>
+		Xbox
+	      </td>
+	      <td>1 - 2 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>35</td>
+	      <td class='participant left'>
+		BradXYZ
+	      </td>
+	      <td>1 - 2 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>-3</td>
+	    </tr>
+	    <tr>
+	      <td>36</td>
+	      <td class='participant left'>
+		Zafkiel
+	      </td>
+	      <td>1 - 2 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>-3</td>
+	    </tr>
+	    <tr>
+	      <td>37</td>
+	      <td class='participant left'>
+		Dunois
+	      </td>
+	      <td>1 - 1 - 1</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>1</td>
+	      <td>1.0</td>
+	      <td>2</td>
+	    </tr>
+	    <tr>
+	      <td>38</td>
+	      <td class='participant left'>
+		Ex6TenZ
+	      </td>
+	      <td>1 - 2 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>39</td>
+	      <td class='participant left'>
+		TheOnlyLeon
+	      </td>
+	      <td>1 - 2 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>40</td>
+	      <td class='participant left'>
+		Kazuki
+	      </td>
+	      <td>1 - 2 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>41</td>
+	      <td class='participant left'>
+		payau
+	      </td>
+	      <td>1 - 2 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>42</td>
+	      <td class='participant left'>
+		saltstick
+	      </td>
+	      <td>1 - 2 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>43</td>
+	      <td class='participant left'>
+		Zukarido
+	      </td>
+	      <td>1 - 2 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>44</td>
+	      <td class='participant left'>
+		IOException
+	      </td>
+	      <td>1 - 2 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>45</td>
+	      <td class='participant left'>
+		jaskier2
+	      </td>
+	      <td>0 - 2 - 0</td>
+	      <td>1</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	      <td>0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>46</td>
+	      <td class='participant left'>
+		Bastia
+	      </td>
+	      <td>0 - 2 - 0</td>
+	      <td>1</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	      <td>0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>47</td>
+	      <td class='participant left'>
+		leluffy
+	      </td>
+	      <td>0 - 3 - 0</td>
+	      <td>0</td>
+	      <td>0.0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>-5</td>
+	    </tr>
+	    <tr>
+	      <td>48</td>
+	      <td class='participant left'>
+		tyronetoblerone
+	      </td>
+	      <td>0 - 3 - 0</td>
+	      <td>0</td>
+	      <td>0.0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>-3</td>
+	    </tr>
+	  </table>
+	</div>
+
+	<div id="schedule">
+	  <h2>Schedule</h2>
+	  <p>Please email us at <a href="mailto:osuuci@gmail.com">osuuci@gmail.com</a> if you have any conflicts with your match. You can message a tournament admin, but mail is preferred so that all the admins can see the same message, and there'll be less mistakes and overhead as we try and coordinate together. And if you want to help us out and save back-and-forth in planning a reschedule, reach out to your opponent first and agree to a time before finalizing the change with us.</p>
+
+
+
+
+
+	  <div class="oslschedule">
+
+
+
+	    
+
+
+
+	    <table>
+	      <tr>
+		<td>Lobby</td>
+		<td>Time <small>(PDT/GMT-7)</small></td>
+		<td>Player 1</td>
+		<td>Player 2</td>
+		<td>Score</td>
+		<td>Match History</td>
+		<td>Officer</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:CI
+		</td>
+		<td>
+		  Sat 8:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Ignite">Ignite</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/WynnWolf">WynnWolf</a>
+		</td>
+		<td>2-0</td>
+		<td><a href='https://osu.ppy.sh/mp/17755969'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:CB
+		</td>
+		<td>
+		  Sat 8:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/leluffy">leluffy</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Kazuki">Kazuki</a>
+		</td>
+		<td>1-2</td>
+		<td><a href='http://osu.ppy.sh/mp/17754543'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:BW
+		</td>
+		<td>
+		  Sat 8:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Kaifin">Kaifin</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/KogureKun">KogureKun</a>
+		</td>
+		<td>2-0</td>
+		<td><a href='http://osu.ppy.sh/mp/17754897'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/xenocidel">Xenocidel</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:BT
+		</td>
+		<td>
+		  Sat 8:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/-%20Nakano%20Azusa-">- Nakano Azusa-</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/captin1">captin1</a>
+		</td>
+		<td>0-0</td>
+		<td><a href='https://osu.ppy.sh/mp/17755338'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:BR
+		</td>
+		<td>
+		  Sat 8:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Ex6TenZ">Ex6TenZ</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Keepu">Keepu</a>
+		</td>
+		<td>0-0</td>
+		<td><a href='http://osu.ppy.sh/mp/17755231'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:BU
+		</td>
+		<td>
+		  Sat 9:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Karuta-">Karuta-</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/bananamilk">bananamilk</a>
+		</td>
+		<td>0-0</td>
+		<td><a href='http://osu.ppy.sh/mp/17755837'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:BY
+		</td>
+		<td>
+		  Sat 9:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Kuki">Kuki</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/TheOnlyLeon">TheOnlyLeon</a>
+		</td>
+		<td>0-0</td>
+		<td>N/A
+		<td>
+		  <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:BP
+		</td>
+		<td>
+		  Sat 9:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/IOException">IOException</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/kymotsujason">kymotsujason</a>
+		</td>
+		<td>1-2</td>
+		<td><a href='https://osu.ppy.sh/mp/17756070'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:CD
+		</td>
+		<td>
+		  Sat 9:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Bastia">Bastia</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Dunois">Dunois</a>
+		</td>
+		<td>0-2</td>
+		<td><a href='http://osu.ppy.sh/mp/17755835'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/xenocidel">Xenocidel</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:BZ
+		</td>
+		<td>
+		  Sat 9:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Rhylent">Rhylent</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Aoiyuuki-">Aoiyuuki-</a>
+		</td>
+		<td>1-2</td>
+		<td><a href='https://osu.ppy.sh/mp/17756309'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:BX
+		</td>
+		<td>
+		  Sat 9:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Andrew">Andrew</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/saltstick">saltstick</a>
+		</td>
+		<td>2-1</td>
+		<td><a href='http://osu.ppy.sh/mp/17756298'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:CE
+		</td>
+		<td>
+		  Sat 9:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Ecliptus">Ecliptus</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/ScrYpt">ScrYpt</a>
+		</td>
+		<td>2-0</td>
+		<td><a href='https://osu.ppy.sh/mp/17756175'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:BM
+		</td>
+		<td>
+		  Sun 8:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/payau">payau</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Shinyblade">Shinyblade</a>
+		</td>
+		<td>0-0</td>
+		<td><a href='https://osu.ppy.sh/mp/17779451'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/xenocidel">Xenocidel</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:CH
+		</td>
+		<td>
+		  Sun 8:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Aaerok">Aaerok</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/iSlapWhale">iSlapWhale</a>
+		</td>
+		<td>2-0</td>
+		<td><a href='https://osu.ppy.sh/mp/17779430'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:CC
+		</td>
+		<td>
+		  Sun 8:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/tyronetoblerone">tyronetoblerone</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Zukarido">Zukarido</a>
+		</td>
+		<td>0-0</td>
+		<td><a href='https://osu.ppy.sh/mp/17779458'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:BO
+		</td>
+		<td>
+		  Sun 8:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Vapor">Vapor</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/kutora">kutora</a>
+		</td>
+		<td>0-0</td>
+		<td><a href='https://osu.ppy.sh/mp/17779888'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:CJ
+		</td>
+		<td>
+		  Sun 8:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Ryan%20Gooseling">Ryan Gooseling</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/funnytrees">funnytrees</a>
+		</td>
+		<td>2-1</td>
+		<td><a href='https://osu.ppy.sh/mp/17779910'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:BV
+		</td>
+		<td>
+		  Sun 8:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Amagi">Amagi</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Keanu">Keanu</a>
+		</td>
+		<td>0-2</td>
+		<td><a href='https://osu.ppy.sh/mp/17779856'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:CG
+		</td>
+		<td>
+		  Sun 9:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/[Neetwork]">[Neetwork]</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/kennyyam">kennyyam</a>
+		</td>
+		<td>1-2</td>
+		<td><a href='https://osu.ppy.sh/mp/17780214'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:BQ
+		</td>
+		<td>
+		  Sun 9:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Kocari">Kocari</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Xbox">Xbox</a>
+		</td>
+		<td>2-1</td>
+		<td><a href='https://osu.ppy.sh/mp/17780363'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Shintomo">Shintomo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:BS
+		</td>
+		<td>
+		  Sun 9:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/PainSinger">PainSinger</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/plaatinum">plaatinum</a>
+		</td>
+		<td>0-0</td>
+		<td><a href='https://osu.ppy.sh/mp/17780326'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:AA
+		</td>
+		<td>
+		  Sun 9:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Natalia">Natalia</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/DeucesWiId">DeucesWiId</a>
+		</td>
+		<td>2-0</td>
+		<td><a href='https://osu.ppy.sh/mp/17780797'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Jim">Jim</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:BN
+		</td>
+		<td>
+		  Sun 9:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Xexxar">Xexxar</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Zafkiel">Zafkiel</a>
+		</td>
+		<td>2-0</td>
+		<td><a href='https://osu.ppy.sh/mp/17780728'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:CF
+		</td>
+		<td>
+		  Sun 9:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Cl8n">Cl8n</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Alexefer">Alexefer</a>
+		</td>
+		<td>2-0</td>
+		<td><a href='https://osu.ppy.sh/mp/17780802'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:CA
+		</td>
+		<td>
+		  Sun 9:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/BradXYZ">BradXYZ</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Bass">Bass</a>
+		</td>
+		<td>0-0</td>
+		<td><a href='https://osu.ppy.sh/mp/17780799'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/theweirdo9">TheWeirdo9</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  <i>Bye</i>
+		</td>
+		<td>
+		  -
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/jaskier2">jaskier2</a>
+		</td>
+		<td>
+		  -
+		</td>
+		<td>-</td>
+		<td>-</td>
+		<td>
+		  -
+		</td>
+	      </tr>
+	    </table>
+
+
+	    
+
+	    
+	  </div>
+
+	  <div class="mid">
+	    <div id="mappool">
+	      <h2>Map Pool</h2>
+	      <p>We have compiled a <a href="http://osuuci.com/tournaments/osl/3/week3.rar">collection</a> of the week's maps together for download. Inside the .rar is a copy of the <a href="https://osu.ppy.sh/forum/t/131103">osu!Collections Editor</a> to interact with our .osdb collection. More indepth instructions are available in the Editor link, but for basic functionality:</p>
+	      <ul>
+		<li>Load your current beatmaps by pointing to your root osu! folder</li>
+		<li>Open our collection file</li>
+		<li>Search for and download  beatmaps that you are missing</li>
+		<li>Join our collection file with your collection file</li>
+		<li>Save the joined collection file as your new osu! collections</li>
+	      </ul>
+	    </div>
+	  </div>
+
+
+	  <div class="mappool">
+	    
+
+
+	    <table>
+	      <tr>
+		<td>Mod</td>
+		<td>Title</td>
+		<td>Artist</td>
+		<td>Difficulty</td>
+		<td>Length</td>
+		<td>Stars</td>
+	      </tr>
+	      <tr>
+		<td>
+		  None</td>
+		<td>
+		  <a href="https://osu.ppy.sh/b/432839">End Time</a>
+		</td>
+		<td>
+		  Cres</td>
+		<td>Extra</td>
+		<td>2:08</td>
+		<td>5.42
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  None</td>
+		<td>
+		  <a href="https://osu.ppy.sh/b/679226&m=0">Kokuhaku Yokou Renshuu</a>
+		</td>
+		<td>
+		  sana</td>
+		<td>Expert</td>
+		<td>2:37</td>
+		<td>5.13
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  None</td>
+		<td>
+		  <a href="https://osu.ppy.sh/b/492543">Swing it!!</a>
+		</td>
+		<td>
+		  Fear COMMA and Loathing in Las Vegas</td>
+		<td>Extra</td>
+		<td>3:37</td>
+		<td>5.33
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  Double Time</td>
+		<td>
+		  <a href="https://osu.ppy.sh/b/369921">Satellites</a>
+		</td>
+		<td>
+		  September</td>
+		<td>Insane</td>
+		<td>3:08 (2:05)</td>
+		<td>3.93 (5.18)
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  Double Time</td>
+		<td>
+		  <a href="https://osu.ppy.sh/b/167535">Electric Angel</a>
+		</td>
+		<td>
+		  Yasuo-P</td>
+		<td>Collab</td>
+		<td>1:34 (1:02)</td>
+		<td>3.62 (5.02)
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  Double Time</td>
+		<td>
+		  <a href="https://osu.ppy.sh/b/327256&m=0">Sky Gate</a>
+		</td>
+		<td>
+		  FELT</td>
+		<td>Lunatic</td>
+		<td>4:40 (3:06)</td>
+		<td>3.70 (5.04)
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  Hidden</td>
+		<td>
+		  <a href="https://osu.ppy.sh/b/165883">Kimi no Kiseki</a>
+		</td>
+		<td>
+		  Hanatan</td>
+		<td>S.S</td>
+		<td>2:22</td>
+		<td>5.15
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  Hidden</td>
+		<td>
+		  <a href="https://osu.ppy.sh/b/162405">Mission ASCII</a>
+		</td>
+		<td>
+		  Traktion</td>
+		<td>Another</td>
+		<td>3:18</td>
+		<td>5.02
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  Hidden</td>
+		<td>
+		  <a href="https://osu.ppy.sh/b/239037">Arc</a>
+		</td>
+		<td>
+		  Mind Vortex</td>
+		<td>Nsane</td>
+		<td>2:33</td>
+		<td>5.18
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  Hard Rock</td>
+		<td>
+		  <a href="https://osu.ppy.sh/b/188819">Yasashisa no Riyuu</a>
+		</td>
+		<td>
+		  Choucho</td>
+		<td>Insane</td>
+		<td>4:09</td>
+		<td>4.55 (4.84)
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  Hard Rock</td>
+		<td>
+		  <a href="https://osu.ppy.sh/b/301690">ResoAlive</a>
+		</td>
+		<td>
+		  Baru</td>
+		<td>Hanabi's Insane</td>
+		<td>3:58</td>
+		<td>4.72 (4.84)
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  Hard Rock</td>
+		<td>
+		  <a href="https://osu.ppy.sh/b/183357">ODDS&ENDS</a>
+		</td>
+		<td>
+		  ryo (supercell)</td>
+		<td>Insane</td>
+		<td>5:27</td>
+		<td>4.76 (5.02)
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  Tiebreaker</td>
+		<td>
+		  <a href="https://osu.ppy.sh/s/129676">Happy End of the World</a>
+		</td>
+		<td>
+		  xi</td>
+		<td>Happy End</td>
+		<td>6:17</td>
+		<td>5.45
+		</td>
+	      </tr>
+	    </table>
+	  </div>
+
+
+	  
+
+	  <div id="vods">
+	    <h2>VoDs</h2>
+
+	    <p>Watch this week's stream VoDs.</p>
+	    <iframe width="650" height="366" src="https://www.youtube.com/embed/zGgiKLPMPI0" frameborder="0" allowfullscreen></iframe>
+	    <iframe width="650" height="366" src="https://www.youtube.com/embed/xqCF-YPiQeA" frameborder="0" allowfullscreen></iframe>
+	    <iframe width="650" height="366" src="https://www.youtube.com/embed/SwFb-chpYX0" frameborder="0" allowfullscreen></iframe>
+	    <iframe width="650" height="366" src="https://www.youtube.com/embed/MrsrVzK6ggM" frameborder="0" allowfullscreen></iframe>
+	    <iframe width="650" height="366" src="https://www.youtube.com/embed/U6-HCPGrZmk" frameborder="0" allowfullscreen></iframe>
+	  </div>
+
+  </body>
 </html>
