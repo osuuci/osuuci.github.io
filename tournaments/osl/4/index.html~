@@ -431,7 +431,7 @@
 	      <tr>
 		<td>24</td>
 		<td class='participant left'>
-		  Amagi
+		  Comett
 		</td>
 		<td>2 - 2 - 0</td>
 		<td>0</td>
@@ -990,7 +990,7 @@
 		  Sun 8:00PM
 		</td>
 		<td>
-		  <a href="https://osu.ppy.sh/u/Amagi">Amagi</a>
+		  <a href="https://osu.ppy.sh/u/Comett">Comett</a>
 		</td>
 		<td>
 		  <a href="https://osu.ppy.sh/u/payau">payau</a>
@@ -1415,6 +1415,7 @@
 
 	  <p>Watch this week's recorded streams.</p>
 	  <iframe width="650" height="366" src="https://www.youtube.com/embed/iilHTzL02_A" frameborder="0" allowfullscreen></iframe>
+	  <iframe width="650" height="366" src="https://www.youtube.com/embed/g2Xz4R2m6zQ" frameborder="0" allowfullscreen></iframe>
 	  <iframe width="650" height="366" src="https://www.youtube.com/embed/PRaUtyig7QM" frameborder="0" allowfullscreen></iframe>
 	  <iframe width="650" height="366" src="https://www.youtube.com/embed/aEKWkBXXKKI" frameborder="0" allowfullscreen></iframe>
 	  <iframe width="650" height="366" src="https://www.youtube.com/embed/wWCH36HbFY8" frameborder="0" allowfullscreen></iframe>

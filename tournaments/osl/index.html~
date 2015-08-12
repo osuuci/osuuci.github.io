@@ -475,7 +475,7 @@
 	  <tr>
 	    <td>24</td>
 	    <td class='participant left'>
-	      Amagi
+	      Comett
 	    </td>
 	    <td>2 - 2 - 0</td>
 	    <td>0</td>
@@ -583,7 +583,7 @@
 	  <tr>
 	    <td>33</td>
 	    <td class='participant left'>
-	      Alexefer
+	      Antares-
 	    </td>
 	    <td>2 - 2 - 0</td>
 	    <td>0</td>
@@ -800,9 +800,13 @@
             <li>Lower roll decides warm up map (any song &lt;5 minutes, not in map pool)</li>
             <li>Higher roll decides first map</li>
             <li>Thereafter, loser decides next map</li>
-            <li>Each mod can only be selected once by a respective player</li>
 	    <li>Tiebreaker match decides last round</li>
-	    <li>Check in with your referee after your match to verify the end result</li>
+	    <li>Tiebreaker is No Mod only</li>
+	    <li>Each mod can only be selected once by a respective player</li>
+	    <li>No Fail can be applied to preserve past scores</li>
+	    <li>On first disconnect, the opponent decides to rematch or not</li>
+	    <li>Second and further disconnects are counted as losses</li>
+	    <li>Check in with your referee after your match to verify the end results</li>
             <li>Missing your match counts as a loss; please show up a few minutes before your alotted time slot so you and the administrators can set up in time</li>
 	    <li>Two consecutive weekend misses without contact leads to your removal from the tournament</li>
 	    <li>Trolling, unsportsmanlike behavior, and other harassment will not be tolerated and can factor into your removal</li>
