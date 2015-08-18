@@ -75,6 +75,13 @@
 	    <img src="http://osuuci.com/tournaments/osl/week6.png"/>
 	  </div>
 	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/7" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 7</p>
+	    <img src="http://osuuci.com/tournaments/osl/week7.png"/>
+	  </div>
+	</a>
       </div>
       
       <div class="sideButtons">
@@ -110,12 +117,552 @@
 
       <div id="summary">
 	<h2>Week 5 (August 8-9th)</h2>
-	<p>Almost halfway through the Swiss rounds. Time to rack up those score points!</p>
+	<p>Halfway through the Swiss rounds. Time to rack up those score points! This week's standings:</p>
+	<div class="mappool participants">
+	  <table class="limited_width standings table table-bordered table-condensed table-striped">
+	    <tr>
+	      <td>Rank</td>
+	      <td>Participant</td>
+	      <td>
+		Match W-L-T
+		<br>
+		<small> (wins +1.0, ties +0.0)</small>
+	      </td>
+	      <td>
+		Byes
+		<br>
+		<small> (+1.0)</small>
+	      </td>
+	      <td class="ranking-1">
+		Score
+	      </td>
+	      <td class="ranking-2">
+		<span class="tip stat-tip" data-title="Number of match wins against tied opponents" data-toggle="tooltip" data-original-title="" title="">
+		  TB
+		</span>
+	      </td>
+	      <td class="ranking-3">
+		<span class="tip stat-tip" data-title="Tde Median-Buchholz system is used to break ties in Swiss tournaments. Tde value displayed in tde standings table is tde sum of a player's opponents' scores, witd tde best and worst scores discarded." data-toggle="tooltip" data-original-title="" title="">
+		  Buchholz
+		</span>
+	      </td>
+	      <td class="ranking-4">
+		<span class="tip stat-tip" data-title="Total number of points scored minus points given up" data-toggle="tooltip" data-original-title="" title="">
+		  Pts Diff
+		</span>
+	      </td>
+	    </tr>
+	    <tr>
+	      <td>1</td>
+	      <td class="participant left">
+		Natalia
+	      </td>
+	      <td>5 - 0 - 0</td>
+	      <td>0</td>
+	      <td>5.0</td>
+	      <td>1</td>
+	      <td>10.0</td>
+	      <td>7</td>
+	    </tr>
+	    <tr>
+	      <td>2</td>
+	      <td class="participant left">
+		Ryan Gooseling
+	      </td>
+	      <td>5 - 0 - 0</td>
+	      <td>0</td>
+	      <td>5.0</td>
+	      <td>0</td>
+	      <td>12.0</td>
+	      <td>5</td>
+	    </tr>
+	    <tr>
+	      <td>3</td>
+	      <td class="participant left">
+		[Neetwork]
+	      </td>
+	      <td>4 - 2 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>14.0</td>
+	      <td>1</td>
+	    </tr>
+	    <tr>
+	      <td>4</td>
+	      <td class="participant left">
+		Ecliptus
+	      </td>
+	      <td>4 - 1 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>12.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>5</td>
+	      <td class="participant left">
+		Cl8n
+	      </td>
+	      <td>4 - 1 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>11.0</td>
+	      <td>4</td>
+	    </tr>
+	    <tr>
+	      <td>6</td>
+	      <td class="participant left">
+		kennyyam
+	      </td>
+	      <td>4 - 1 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>10.0</td>
+	      <td>4</td>
+	    </tr>
+	    <tr>
+	      <td>7</td>
+	      <td class="participant left">
+		Andrew
+	      </td>
+	      <td>4 - 1 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>9.0</td>
+	      <td>5</td>
+	    </tr>
+	    <tr>
+	      <td>8</td>
+	      <td class="participant left">
+		PainSinger
+	      </td>
+	      <td>4 - 1 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>9.0</td>
+	      <td>4</td>
+	    </tr>
+	    <tr>
+	      <td>9</td>
+	      <td class="participant left">
+		Aaerok
+	      </td>
+	      <td>4 - 1 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>9.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>10</td>
+	      <td class="participant left">
+		Keanu
+	      </td>
+	      <td>4 - 1 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>9.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>11</td>
+	      <td class="participant left">
+		Rhylent
+	      </td>
+	      <td>4 - 1 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>7.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>12</td>
+	      <td class="participant left">
+		ScrYpt
+	      </td>
+	      <td>4 - 1 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>0</td>
+	      <td>10.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>13</td>
+	      <td class="participant left">
+		funnytrees
+	      </td>
+	      <td>4 - 1 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>0</td>
+	      <td>9.0</td>
+	      <td>4</td>
+	    </tr>
+	    <tr>
+	      <td>14</td>
+	      <td class="participant left">
+		Kocari
+	      </td>
+	      <td>3 - 2 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>2</td>
+	      <td>10.0</td>
+	      <td>0</td>
+	    </tr>
+	    <tr>
+	      <td>15</td>
+	      <td class="participant left">
+		Karuta-
+	      </td>
+	      <td>3 - 2 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>2</td>
+	      <td>10.0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>16</td>
+	      <td class="participant left">
+		Keepu
+	      </td>
+	      <td>3 - 2 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>2</td>
+	      <td>9.0</td>
+	      <td>0</td>
+	    </tr>
+	    <tr>
+	      <td>17</td>
+	      <td class="participant left">
+		kutora
+	      </td>
+	      <td>3 - 3 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>1</td>
+	      <td>15.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>18</td>
+	      <td class="participant left">
+		Ignite
+	      </td>
+	      <td>3 - 2 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>1</td>
+	      <td>11.0</td>
+	      <td>0</td>
+	    </tr>
+	    <tr>
+	      <td>19</td>
+	      <td class="participant left">
+		DeucesWiId
+	      </td>
+	      <td>3 - 2 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>1</td>
+	      <td>9.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>20</td>
+	      <td class="participant left">
+		Xbox
+	      </td>
+	      <td>3 - 2 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>1</td>
+	      <td>8.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>21</td>
+	      <td class="participant left">
+		saltstick
+	      </td>
+	      <td>3 - 2 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>0</td>
+	      <td>10.0</td>
+	      <td>1</td>
+	    </tr>
+	    <tr>
+	      <td>22</td>
+	      <td class="participant left">
+		iSlapWhale
+	      </td>
+	      <td>3 - 2 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>0</td>
+	      <td>8.0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>23</td>
+	      <td class="participant left">
+		Ex6TenZ
+	      </td>
+	      <td>3 - 2 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>0</td>
+	      <td>7.0</td>
+	      <td>2</td>
+	    </tr>
+	    <tr>
+	      <td>24</td>
+	      <td class="participant left">
+		IOException
+	      </td>
+	      <td>3 - 2 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>0</td>
+	      <td>6.0</td>
+	      <td>1</td>
+	    </tr>
+	    <tr>
+	      <td>25</td>
+	      <td class="participant left">
+		captin1
+	      </td>
+	      <td>3 - 2 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>0</td>
+	      <td>6.0</td>
+	      <td>1</td>
+	    </tr>
+	    <tr>
+	      <td>26</td>
+	      <td class="participant left">
+		WynnWolf
+	      </td>
+	      <td>2 - 3 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>2</td>
+	      <td>9.0</td>
+	      <td>0</td>
+	    </tr>
+	    <tr>
+	      <td>27</td>
+	      <td class="participant left">
+		Zafkiel
+	      </td>
+	      <td>2 - 3 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>2</td>
+	      <td>7.0</td>
+	      <td>-5</td>
+	    </tr>
+	    <tr>
+	      <td>28</td>
+	      <td class="participant left">
+		Antares-
+	      </td>
+	      <td>2 - 3 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>11.0</td>
+	      <td>-3</td>
+	    </tr>
+	    <tr>
+	      <td>29</td>
+	      <td class="participant left">
+		BradXYZ
+	      </td>
+	      <td>2 - 3 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>10.0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>30</td>
+	      <td class="participant left">
+		bananamilk
+	      </td>
+	      <td>2 - 3 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>9.0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>31</td>
+	      <td class="participant left">
+		Shinyblade
+	      </td>
+	      <td>2 - 3 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>9.0</td>
+	      <td>-6</td>
+	    </tr>
+	    <tr>
+	      <td>32</td>
+	      <td class="participant left">
+		Zukarido
+	      </td>
+	      <td>2 - 3 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>7.0</td>
+	      <td>-3</td>
+	    </tr>
+	    <tr>
+	      <td>33</td>
+	      <td class="participant left">
+		tyronetoblerone
+	      </td>
+	      <td>2 - 3 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>1</td>
+	      <td>7.0</td>
+	      <td>-3</td>
+	    </tr>
+	    <tr>
+	      <td>34</td>
+	      <td class="participant left">
+		Aoiyuuki-
+	      </td>
+	      <td>2 - 3 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>12.0</td>
+	      <td>-3</td>
+	    </tr>
+	    <tr>
+	      <td>35</td>
+	      <td class="participant left">
+		Kaifin
+	      </td>
+	      <td>2 - 3 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>10.0</td>
+	      <td>2</td>
+	    </tr>
+	    <tr>
+	      <td>36</td>
+	      <td class="participant left">
+		Comett
+	      </td>
+	      <td>2 - 3 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>9.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>37</td>
+	      <td class="participant left">
+		- Nakano Azusa-
+	      </td>
+	      <td>2 - 3 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>8.0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>38</td>
+	      <td class="participant left">
+		Dunois
+	      </td>
+	      <td>1 - 2 - 1</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>6.0</td>
+	      <td>2</td>
+	    </tr>
+	    <tr>
+	      <td>39</td>
+	      <td class="participant left">
+		Kazuki
+	      </td>
+	      <td>2 - 3 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>6.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>40</td>
+	      <td class="participant left">
+		KogureKun
+	      </td>
+	      <td>1 - 4 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	      <td>8.0</td>
+	      <td>-6</td>
+	    </tr>
+	    <tr>
+	      <td>41</td>
+	      <td class="participant left">
+		leluffy
+	      </td>
+	      <td>1 - 4 - 0</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	      <td>7.0</td>
+	      <td>-5</td>
+	    </tr>
+	    <tr>
+	      <td>42</td>
+	      <td class="participant left">
+		payau
+	      </td>
+	      <td>1 - 3 - 1</td>
+	      <td>0</td>
+	      <td>1.0</td>
+	      <td>0</td>
+	      <td>6.0</td>
+	      <td>-4</td>
+	    </tr>
+	  </table>
+	</div>
       </div>
       
       <div id="schedule">
 	<h2>Schedule</h2>
-	<p>Please email us at <a href="mailto:osuuci@gmail.com">osuuci@gmail.com</a> if you have any conflicts with your match. You can message a tournament admin, but mail is preferred so that all the admins can see the same message, and there'll be less mistakes and overhead as we try and coordinate together. And if you want to help us out and save back-and-forth in planning a reschedule, reach out to your opponent first and agree to a time before finalizing the change with us.</p>
+	<p>Please email us at <a href="mailto:osuuci@gmail.com">osuuci@gmail.com</a> if you have any conflicts witd your match. You can message a tournament admin, but mail is preferred so tdat all tde admins can see tde same message, and tdere'll be less mistakes and overhead as we try and coordinate togetder. And if you want to help us out and save back-and-fortd in planning a reschedule, reach out to your opponent first and agree to a time before finalizing tde change witd us.</p>
 
 	<div class="oslschedule">
 
@@ -145,7 +692,7 @@
 	      <td>2-1</td>
 	      <td><a href='https://osu.ppy.sh/mp/18095323'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	      <td>
-		<a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
+		<a href="https://osu.ppy.sh/u/TdeWeirdo9">TdeWeirdo9</a>
 	      </td>
 	    </tr>
 	    <tr>
@@ -251,7 +798,7 @@
 		Sat 9:00PM
 	      </td>
 	      <td>
-		<a href="https://osu.ppy.sh/u/TheOnlyLeon">TheOnlyLeon</a>
+		<a href="https://osu.ppy.sh/u/TdeOnlyLeon">TdeOnlyLeon</a>
 	      </td>
 	      <td>
 		<a href="https://osu.ppy.sh/u/payau">payau</a>
@@ -278,7 +825,7 @@
 	      <td>2-0</td>
 	      <td><a href='https://osu.ppy.sh/mp/18096222'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	      <td>
-		<a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
+		<a href="https://osu.ppy.sh/u/TdeWeirdo9">TdeWeirdo9</a>
 	      </td>
 	    </tr>
 	    <tr>
@@ -335,7 +882,7 @@
 	      <td>2-0</td>
 	      <td><a href='https://osu.ppy.sh/mp/18096601'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	      <td>
-		<a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
+		<a href="https://osu.ppy.sh/u/TdeWeirdo9">TdeWeirdo9</a>
 	      </td>
 	    </tr>
 	    <tr>
@@ -411,7 +958,7 @@
 	      <td>0-0</td>
 	      <td><a href='https://osu.ppy.sh/mp/18118970'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	      <td>
-		<a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
+		<a href="https://osu.ppy.sh/u/TdeWeirdo9">TdeWeirdo9</a>
 	      </td>
 	    </tr>
 	    <tr>
@@ -544,7 +1091,7 @@
 	      <td>2-0</td>
 	      <td><a href='https://osu.ppy.sh/mp/18120096'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	      <td>
-		<a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
+		<a href="https://osu.ppy.sh/u/TdeWeirdo9">TdeWeirdo9</a>
 	      </td>
 	    </tr>
 	    <tr>
@@ -606,13 +1153,13 @@
 	<div class="mid">
 	  <div id="mappool">
 	    <h2>Map Pool</h2>
-	    <p>We have compiled a <a href="http://osuuci.com/tournaments/osl/5/week5.rar">collection</a> of the week's maps together for download. Inside the .rar is a copy of the <a href="https://osu.ppy.sh/forum/t/131103">osu!Collections Editor</a> to interact with our .osdb collection. More indepth instructions are available in the Editor link, but for basic functionality:</p>
+	    <p>We have compiled a <a href="http://osuuci.com/tournaments/osl/5/week5.rar">collection</a> of tde week's maps togetder for download. Inside tde .rar is a copy of tde <a href="https://osu.ppy.sh/forum/t/131103">osu!Collections Editor</a> to interact witd our .osdb collection. More indeptd instructions are available in tde Editor link, but for basic functionality:</p>
 	    <ul>
 	      <li>Load your current beatmaps by pointing to your root osu! folder</li>
 	      <li>Open our collection file</li>
-	      <li>Search for and download  beatmaps that you are missing</li>
-	      <li>Join our collection file with your collection file</li>
-	      <li>Save the joined collection file as your new osu! collections</li>
+	      <li>Search for and download  beatmaps tdat you are missing</li>
+	      <li>Join our collection file witd your collection file</li>
+	      <li>Save tde joined collection file as your new osu! collections</li>
 	    </ul>
 	  </div>
 	</div>
@@ -626,14 +1173,14 @@
 	      <td>Title</td>
 	      <td>Artist</td>
 	      <td>Difficulty</td>
-	      <td>Length</td>
+	      <td>Lengtd</td>
 	      <td>Stars</td>
 	    </tr>
 	    <tr>
 	      <td>
 		None</td>
 	      <td>
-		<a href="https://osu.ppy.sh/b/306018">Kobito of the Shining Needle~Little Princess</a>
+		<a href="https://osu.ppy.sh/b/306018">Kobito of tde Shining Needle~Little Princess</a>
 	      </td>
 	      <td>
 		ZUN</td>
@@ -645,7 +1192,7 @@
 	      <td>
 		None</td>
 	      <td>
-		<a href="https://osu.ppy.sh/b/366140">Omega Rhythm</a>
+		<a href="https://osu.ppy.sh/b/366140">Omega Rhytdm</a>
 	      </td>
 	      <td>
 		UPLIFT SPICE</td>
@@ -745,7 +1292,7 @@
 	      </td>
 	      <td>
 		BMS(LeaF)</td>
-	      <td>Another</td>
+	      <td>Anotder</td>
 	      <td>1:59</td>
 	      <td>4.79 (4.96)</td>
 	    </tr>
@@ -777,7 +1324,7 @@
 	      <td>
 		Tiebreaker</td>
 	      <td>
-		<a href="https://osu.ppy.sh/b/631413">The Bravery</a>
+		<a href="https://osu.ppy.sh/b/631413">Tde Bravery</a>
 	      </td>
 	      <td>
 		supercell</td>
@@ -804,8 +1351,8 @@
 	<div id="vods">
 	  <h2>VoDs</h2>
 
-	  <p>This week's recorded streams.</p>
-	  <iframe width="650" height="366" src="https://www.youtube.com/embed/d6dfLlr_I4E" frameborder="0" allowfullscreen></iframe>      
+	  <p>Tdis week's recorded streams.</p>
+	  <iframe widtd="650" height="366" src="https://www.youtube.com/embed/d6dfLlr_I4E" frameborder="0" allowfullscreen></iframe>      
 
 	</div>
 
