@@ -75,6 +75,13 @@
 	    <img src="http://osuuci.com/tournaments/osl/week6.png"/>
 	  </div>
 	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/7" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 7</p>
+	    <img src="http://osuuci.com/tournaments/osl/week7.png"/>
+	  </div>
+	</a>
       </div>
       
       <div class="sideButtons">
@@ -193,200 +200,285 @@
 	    </span>
 	  </td>
 	</tr>
+
 	<tr>
 	  <td>1</td>
 	  <td class="participant left">
 	    Natalia
 	  </td>
-	  <td>5 - 0 - 0</td>
+	  <td>6 - 0 - 0</td>
 	  <td>0</td>
-	  <td>5.0</td>
+	  <td>6.0</td>
 	  <td>1</td>
-	  <td>10.0</td>
-	  <td>7</td>
+	  <td>17.0</td>
+	  <td>9</td>
 	</tr>
 	<tr>
 	  <td>2</td>
 	  <td class="participant left">
 	    Ryan Gooseling
 	  </td>
-	  <td>5 - 0 - 0</td>
+	  <td>5 - 1 - 0</td>
 	  <td>0</td>
 	  <td>5.0</td>
-	  <td>0</td>
-	  <td>12.0</td>
-	  <td>5</td>
+	  <td>3</td>
+	  <td>19.0</td>
+	  <td>3</td>
 	</tr>
 	<tr>
 	  <td>3</td>
+	  <td class="participant left">
+	    Cl8n
+	  </td>
+	  <td>5 - 1 - 0</td>
+	  <td>0</td>
+	  <td>5.0</td>
+	  <td>1</td>
+	  <td>17.0</td>
+	  <td>5</td>
+	</tr>
+	<tr>
+	  <td>4</td>
+	  <td class="participant left">
+	    Keanu
+	  </td>
+	  <td>5 - 1 - 0</td>
+	  <td>0</td>
+	  <td>5.0</td>
+	  <td>1</td>
+	  <td>15.0</td>
+	  <td>5</td>
+	</tr>
+	<tr>
+	  <td>5</td>
+	  <td class="participant left">
+	    Ecliptus
+	  </td>
+	  <td>5 - 1 - 0</td>
+	  <td>0</td>
+	  <td>5.0</td>
+	  <td>0</td>
+	  <td>17.0</td>
+	  <td>4</td>
+	</tr>
+	<tr>
+	  <td>6</td>
+	  <td class="participant left">
+	    Aaerok
+	  </td>
+	  <td>5 - 1 - 0</td>
+	  <td>0</td>
+	  <td>5.0</td>
+	  <td>0</td>
+	  <td>15.0</td>
+	  <td>5</td>
+	</tr>
+	<tr>
+	  <td>7</td>
+	  <td class="participant left">
+	    kennyyam
+	  </td>
+	  <td>5 - 1 - 0</td>
+	  <td>0</td>
+	  <td>5.0</td>
+	  <td>0</td>
+	  <td>14.0</td>
+	  <td>5</td>
+	</tr>
+	<tr>
+	  <td>8</td>
 	  <td class="participant left">
 	    [Neetwork]
 	  </td>
 	  <td>4 - 2 - 0</td>
 	  <td>0</td>
 	  <td>4.0</td>
+	  <td>2</td>
+	  <td>18.0</td>
 	  <td>1</td>
-	  <td>14.0</td>
-	  <td>1</td>
-	</tr>
-	<tr>
-	  <td>4</td>
-	  <td class="participant left">
-	    Ecliptus
-	  </td>
-	  <td>4 - 1 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>1</td>
-	  <td>12.0</td>
-	  <td>3</td>
-	</tr>
-	<tr>
-	  <td>5</td>
-	  <td class="participant left">
-	    Cl8n
-	  </td>
-	  <td>4 - 1 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>1</td>
-	  <td>11.0</td>
-	  <td>4</td>
-	</tr>
-	<tr>
-	  <td>6</td>
-	  <td class="participant left">
-	    kennyyam
-	  </td>
-	  <td>4 - 1 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>1</td>
-	  <td>10.0</td>
-	  <td>4</td>
-	</tr>
-	<tr>
-	  <td>7</td>
-	  <td class="participant left">
-	    Andrew
-	  </td>
-	  <td>4 - 1 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>1</td>
-	  <td>9.0</td>
-	  <td>5</td>
-	</tr>
-	<tr>
-	  <td>8</td>
-	  <td class="participant left">
-	    PainSinger
-	  </td>
-	  <td>4 - 1 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>1</td>
-	  <td>9.0</td>
-	  <td>4</td>
 	</tr>
 	<tr>
 	  <td>9</td>
 	  <td class="participant left">
-	    Aaerok
+	    Ignite
 	  </td>
-	  <td>4 - 1 - 0</td>
+	  <td>4 - 2 - 0</td>
 	  <td>0</td>
 	  <td>4.0</td>
-	  <td>1</td>
-	  <td>9.0</td>
-	  <td>3</td>
+	  <td>2</td>
+	  <td>16.0</td>
+	  <td>0</td>
 	</tr>
 	<tr>
 	  <td>10</td>
 	  <td class="participant left">
-	    Keanu
+	    Keepu
 	  </td>
-	  <td>4 - 1 - 0</td>
+	  <td>4 - 2 - 0</td>
 	  <td>0</td>
 	  <td>4.0</td>
-	  <td>1</td>
-	  <td>9.0</td>
-	  <td>3</td>
+	  <td>2</td>
+	  <td>14.0</td>
+	  <td>2</td>
 	</tr>
 	<tr>
 	  <td>11</td>
 	  <td class="participant left">
-	    Rhylent
+	    ScrYpt
 	  </td>
-	  <td>4 - 1 - 0</td>
+	  <td>4 - 2 - 0</td>
 	  <td>0</td>
 	  <td>4.0</td>
 	  <td>1</td>
-	  <td>7.0</td>
-	  <td>3</td>
+	  <td>17.0</td>
+	  <td>2</td>
 	</tr>
 	<tr>
 	  <td>12</td>
 	  <td class="participant left">
-	    ScrYpt
+	    funnytrees
 	  </td>
-	  <td>4 - 1 - 0</td>
+	  <td>4 - 2 - 0</td>
 	  <td>0</td>
 	  <td>4.0</td>
-	  <td>0</td>
-	  <td>10.0</td>
+	  <td>1</td>
+	  <td>15.0</td>
 	  <td>3</td>
 	</tr>
 	<tr>
 	  <td>13</td>
 	  <td class="participant left">
-	    funnytrees
+	    Andrew
 	  </td>
-	  <td>4 - 1 - 0</td>
+	  <td>4 - 2 - 0</td>
 	  <td>0</td>
 	  <td>4.0</td>
-	  <td>0</td>
-	  <td>9.0</td>
-	  <td>4</td>
+	  <td>1</td>
+	  <td>14.0</td>
+	  <td>3</td>
 	</tr>
 	<tr>
 	  <td>14</td>
 	  <td class="participant left">
-	    Kocari
+	    Rhylent
 	  </td>
-	  <td>3 - 2 - 0</td>
+	  <td>4 - 2 - 0</td>
 	  <td>0</td>
-	  <td>3.0</td>
+	  <td>4.0</td>
+	  <td>1</td>
+	  <td>13.0</td>
 	  <td>2</td>
-	  <td>10.0</td>
-	  <td>0</td>
 	</tr>
 	<tr>
 	  <td>15</td>
 	  <td class="participant left">
-	    Karuta-
+	    PainSinger
 	  </td>
-	  <td>3 - 2 - 0</td>
+	  <td>4 - 2 - 0</td>
 	  <td>0</td>
-	  <td>3.0</td>
+	  <td>4.0</td>
+	  <td>0</td>
+	  <td>14.0</td>
 	  <td>2</td>
-	  <td>10.0</td>
-	  <td>-2</td>
 	</tr>
 	<tr>
 	  <td>16</td>
 	  <td class="participant left">
-	    Keepu
+	    Ex6TenZ
 	  </td>
-	  <td>3 - 2 - 0</td>
+	  <td>4 - 2 - 0</td>
 	  <td>0</td>
-	  <td>3.0</td>
-	  <td>2</td>
-	  <td>9.0</td>
+	  <td>4.0</td>
 	  <td>0</td>
+	  <td>13.0</td>
+	  <td>3</td>
 	</tr>
 	<tr>
 	  <td>17</td>
+	  <td class="participant left">
+	    iSlapWhale
+	  </td>
+	  <td>4 - 2 - 0</td>
+	  <td>0</td>
+	  <td>4.0</td>
+	  <td>0</td>
+	  <td>13.0</td>
+	  <td>-2</td>
+	</tr>
+	<tr>
+	  <td>18</td>
+	  <td class="participant left">
+	    captin1
+	  </td>
+	  <td>4 - 2 - 0</td>
+	  <td>0</td>
+	  <td>4.0</td>
+	  <td>0</td>
+	  <td>11.0</td>
+	  <td>3</td>
+	</tr>
+	<tr>
+	  <td>19</td>
+	  <td class="participant left">
+	    IOException
+	  </td>
+	  <td>4 - 2 - 0</td>
+	  <td>0</td>
+	  <td>4.0</td>
+	  <td>0</td>
+	  <td>11.0</td>
+	  <td>1</td>
+	</tr>
+	<tr>
+	  <td>20</td>
+	  <td class="participant left">
+	    saltstick
+	  </td>
+	  <td>3 - 3 - 0</td>
+	  <td>0</td>
+	  <td>3.0</td>
+	  <td>2</td>
+	  <td>16.0</td>
+	  <td>1</td>
+	</tr>
+	<tr>
+	  <td>21</td>
+	  <td class="participant left">
+	    Xbox
+	  </td>
+	  <td>3 - 3 - 0</td>
+	  <td>0</td>
+	  <td>3.0</td>
+	  <td>2</td>
+	  <td>14.0</td>
+	  <td>-1</td>
+	</tr>
+	<tr>
+	  <td>22</td>
+	  <td class="participant left">
+	    Zukarido
+	  </td>
+	  <td>3 - 3 - 0</td>
+	  <td>0</td>
+	  <td>3.0</td>
+	  <td>2</td>
+	  <td>12.0</td>
+	  <td>-3</td>
+	</tr>
+	<tr>
+	  <td>23</td>
+	  <td class="participant left">
+	    Zafkiel
+	  </td>
+	  <td>3 - 3 - 0</td>
+	  <td>0</td>
+	  <td>3.0</td>
+	  <td>2</td>
+	  <td>12.0</td>
+	  <td>-5</td>
+	</tr>
+	<tr>
+	  <td>24</td>
 	  <td class="participant left">
 	    kutora
 	  </td>
@@ -394,312 +486,202 @@
 	  <td>0</td>
 	  <td>3.0</td>
 	  <td>1</td>
-	  <td>15.0</td>
+	  <td>16.0</td>
 	  <td>-1</td>
-	</tr>
-	<tr>
-	  <td>18</td>
-	  <td class="participant left">
-	    Ignite
-	  </td>
-	  <td>3 - 2 - 0</td>
-	  <td>0</td>
-	  <td>3.0</td>
-	  <td>1</td>
-	  <td>11.0</td>
-	  <td>0</td>
-	</tr>
-	<tr>
-	  <td>19</td>
-	  <td class="participant left">
-	    DeucesWiId
-	  </td>
-	  <td>3 - 2 - 0</td>
-	  <td>0</td>
-	  <td>3.0</td>
-	  <td>1</td>
-	  <td>9.0</td>
-	  <td>-1</td>
-	</tr>
-	<tr>
-	  <td>20</td>
-	  <td class="participant left">
-	    Xbox
-	  </td>
-	  <td>3 - 2 - 0</td>
-	  <td>0</td>
-	  <td>3.0</td>
-	  <td>1</td>
-	  <td>8.0</td>
-	  <td>-1</td>
-	</tr>
-	<tr>
-	  <td>21</td>
-	  <td class="participant left">
-	    saltstick
-	  </td>
-	  <td>3 - 2 - 0</td>
-	  <td>0</td>
-	  <td>3.0</td>
-	  <td>0</td>
-	  <td>10.0</td>
-	  <td>1</td>
-	</tr>
-	<tr>
-	  <td>22</td>
-	  <td class="participant left">
-	    iSlapWhale
-	  </td>
-	  <td>3 - 2 - 0</td>
-	  <td>0</td>
-	  <td>3.0</td>
-	  <td>0</td>
-	  <td>8.0</td>
-	  <td>-2</td>
-	</tr>
-	<tr>
-	  <td>23</td>
-	  <td class="participant left">
-	    Ex6TenZ
-	  </td>
-	  <td>3 - 2 - 0</td>
-	  <td>0</td>
-	  <td>3.0</td>
-	  <td>0</td>
-	  <td>7.0</td>
-	  <td>2</td>
-	</tr>
-	<tr>
-	  <td>24</td>
-	  <td class="participant left">
-	    IOException
-	  </td>
-	  <td>3 - 2 - 0</td>
-	  <td>0</td>
-	  <td>3.0</td>
-	  <td>0</td>
-	  <td>6.0</td>
-	  <td>1</td>
 	</tr>
 	<tr>
 	  <td>25</td>
 	  <td class="participant left">
-	    captin1
+	    Karuta-
 	  </td>
-	  <td>3 - 2 - 0</td>
+	  <td>3 - 3 - 0</td>
 	  <td>0</td>
 	  <td>3.0</td>
-	  <td>0</td>
-	  <td>6.0</td>
 	  <td>1</td>
+	  <td>16.0</td>
+	  <td>-3</td>
 	</tr>
 	<tr>
 	  <td>26</td>
 	  <td class="participant left">
-	    WynnWolf
+	    Kocari
 	  </td>
-	  <td>2 - 3 - 0</td>
+	  <td>3 - 3 - 0</td>
 	  <td>0</td>
-	  <td>2.0</td>
-	  <td>2</td>
-	  <td>9.0</td>
-	  <td>0</td>
+	  <td>3.0</td>
+	  <td>1</td>
+	  <td>15.0</td>
+	  <td>-2</td>
 	</tr>
 	<tr>
 	  <td>27</td>
 	  <td class="participant left">
-	    Zafkiel
+	    bananamilk
 	  </td>
-	  <td>2 - 3 - 0</td>
+	  <td>3 - 3 - 0</td>
 	  <td>0</td>
-	  <td>2.0</td>
-	  <td>2</td>
-	  <td>7.0</td>
-	  <td>-5</td>
+	  <td>3.0</td>
+	  <td>1</td>
+	  <td>13.0</td>
+	  <td>0</td>
 	</tr>
 	<tr>
 	  <td>28</td>
 	  <td class="participant left">
-	    Antares-
+	    tyronetoblerone
 	  </td>
-	  <td>2 - 3 - 0</td>
+	  <td>3 - 3 - 0</td>
 	  <td>0</td>
-	  <td>2.0</td>
+	  <td>3.0</td>
 	  <td>1</td>
-	  <td>11.0</td>
-	  <td>-3</td>
+	  <td>12.0</td>
+	  <td>-1</td>
 	</tr>
 	<tr>
 	  <td>29</td>
 	  <td class="participant left">
-	    BradXYZ
+	    DeucesWiId
 	  </td>
-	  <td>2 - 3 - 0</td>
+	  <td>3 - 3 - 0</td>
 	  <td>0</td>
-	  <td>2.0</td>
-	  <td>1</td>
-	  <td>10.0</td>
-	  <td>-2</td>
+	  <td>3.0</td>
+	  <td>0</td>
+	  <td>15.0</td>
+	  <td>-3</td>
 	</tr>
 	<tr>
 	  <td>30</td>
 	  <td class="participant left">
-	    bananamilk
+	    - Nakano Azusa-
 	  </td>
-	  <td>2 - 3 - 0</td>
+	  <td>3 - 3 - 0</td>
 	  <td>0</td>
-	  <td>2.0</td>
-	  <td>1</td>
-	  <td>9.0</td>
-	  <td>-2</td>
+	  <td>3.0</td>
+	  <td>0</td>
+	  <td>12.0</td>
+	  <td>-1</td>
 	</tr>
 	<tr>
 	  <td>31</td>
 	  <td class="participant left">
-	    Shinyblade
+	    Dunois
 	  </td>
-	  <td>2 - 3 - 0</td>
-	  <td>0</td>
-	  <td>2.0</td>
+	  <td>2 - 2 - 1</td>
 	  <td>1</td>
-	  <td>9.0</td>
-	  <td>-6</td>
+	  <td>3.0</td>
+	  <td>0</td>
+	  <td>11.0</td>
+	  <td>3</td>
 	</tr>
 	<tr>
 	  <td>32</td>
 	  <td class="participant left">
-	    Zukarido
+	    Kazuki
 	  </td>
-	  <td>2 - 3 - 0</td>
+	  <td>3 - 3 - 0</td>
 	  <td>0</td>
-	  <td>2.0</td>
+	  <td>3.0</td>
+	  <td>0</td>
+	  <td>8.0</td>
 	  <td>1</td>
-	  <td>7.0</td>
-	  <td>-3</td>
 	</tr>
 	<tr>
 	  <td>33</td>
 	  <td class="participant left">
-	    tyronetoblerone
+	    Comett
 	  </td>
-	  <td>2 - 3 - 0</td>
+	  <td>2 - 4 - 0</td>
 	  <td>0</td>
 	  <td>2.0</td>
 	  <td>1</td>
-	  <td>7.0</td>
-	  <td>-3</td>
+	  <td>14.0</td>
+	  <td>-2</td>
 	</tr>
 	<tr>
 	  <td>34</td>
 	  <td class="participant left">
-	    Aoiyuuki-
+	    Shinyblade
 	  </td>
-	  <td>2 - 3 - 0</td>
+	  <td>2 - 4 - 0</td>
 	  <td>0</td>
 	  <td>2.0</td>
-	  <td>0</td>
-	  <td>12.0</td>
-	  <td>-3</td>
+	  <td>1</td>
+	  <td>14.0</td>
+	  <td>-8</td>
 	</tr>
 	<tr>
 	  <td>35</td>
 	  <td class="participant left">
-	    Kaifin
+	    Aoiyuuki-
 	  </td>
-	  <td>2 - 3 - 0</td>
+	  <td>2 - 4 - 0</td>
 	  <td>0</td>
 	  <td>2.0</td>
 	  <td>0</td>
-	  <td>10.0</td>
-	  <td>2</td>
+	  <td>17.0</td>
+	  <td>-3</td>
 	</tr>
 	<tr>
 	  <td>36</td>
 	  <td class="participant left">
-	    Comett
+	    Antares-
 	  </td>
-	  <td>2 - 3 - 0</td>
+	  <td>2 - 4 - 0</td>
 	  <td>0</td>
 	  <td>2.0</td>
 	  <td>0</td>
-	  <td>9.0</td>
-	  <td>-1</td>
+	  <td>16.0</td>
+	  <td>-3</td>
 	</tr>
 	<tr>
 	  <td>37</td>
 	  <td class="participant left">
-	    - Nakano Azusa-
+	    BradXYZ
 	  </td>
-	  <td>2 - 3 - 0</td>
+	  <td>2 - 3 - 1</td>
 	  <td>0</td>
 	  <td>2.0</td>
 	  <td>0</td>
-	  <td>8.0</td>
+	  <td>15.0</td>
 	  <td>-2</td>
 	</tr>
 	<tr>
 	  <td>38</td>
 	  <td class="participant left">
-	    Dunois
+	    WynnWolf
 	  </td>
-	  <td>1 - 2 - 1</td>
-	  <td>1</td>
+	  <td>2 - 4 - 0</td>
+	  <td>0</td>
 	  <td>2.0</td>
 	  <td>0</td>
-	  <td>6.0</td>
-	  <td>2</td>
+	  <td>14.0</td>
+	  <td>-2</td>
 	</tr>
 	<tr>
 	  <td>39</td>
 	  <td class="participant left">
-	    Kazuki
+	    KogureKun
 	  </td>
-	  <td>2 - 3 - 0</td>
+	  <td>1 - 5 - 0</td>
 	  <td>0</td>
-	  <td>2.0</td>
+	  <td>1.0</td>
 	  <td>0</td>
-	  <td>6.0</td>
-	  <td>-1</td>
+	  <td>14.0</td>
+	  <td>-8</td>
 	</tr>
 	<tr>
 	  <td>40</td>
 	  <td class="participant left">
-	    KogureKun
-	  </td>
-	  <td>1 - 4 - 0</td>
-	  <td>0</td>
-	  <td>1.0</td>
-	  <td>0</td>
-	  <td>8.0</td>
-	  <td>-6</td>
-	</tr>
-	<tr>
-	  <td>41</td>
-	  <td class="participant left">
 	    leluffy
 	  </td>
-	  <td>1 - 4 - 0</td>
+	  <td>1 - 5 - 0</td>
 	  <td>0</td>
 	  <td>1.0</td>
 	  <td>0</td>
-	  <td>7.0</td>
-	  <td>-5</td>
-	</tr>
-	<tr>
-	  <td>42</td>
-	  <td class="participant left">
-	    payau
-	  </td>
-	  <td>1 - 3 - 1</td>
-	  <td>0</td>
-	  <td>1.0</td>
-	  <td>0</td>
-	  <td>6.0</td>
-	  <td>-4</td>
+	  <td>12.0</td>
+	  <td>-6</td>
 	</tr>
       </table>
-
-
       
     </div>
 
