@@ -82,6 +82,13 @@
 	    <img src="http://osuuci.com/tournaments/osl/week7.png"/>
 	  </div>
 	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/8" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 8</p>
+	    <img src="http://osuuci.com/tournaments/osl/week8.png"/>
+	  </div>
+	</a>	
       </div>
       
       <div class="sideButtons">
