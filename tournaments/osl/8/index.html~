@@ -131,8 +131,501 @@
 
       <div id="summary">
 	<h2>Week 8 (August 29-30th)</h2>
-	<p>Welcome to week 8!</p>
+	<p>Welcome to week 8! Here are the week 8 results:</p>
 
+	<div class="mappool participants">
+	  <table class="limited_width standings table table-bordered table-condensed table-striped">
+	    <tr>
+	      <td>Rank</td>
+	      <td>Participant</td>
+	      <td>
+		Match W-L-T
+		<br>
+		<small> (wins +1.0, ties +0.0)</small>
+	      </td>
+	      <td>
+		Byes
+		<br>
+		<small> (+1.0)</small>
+	      </td>
+	      <td class="ranking-1">
+		Score
+	      </td>
+	      <td class="ranking-2">
+		<span class="tip stat-tip" data-title="Number of match wins against tied opponents" data-toggle="tooltip" data-original-title="" title="">
+		  TB
+		</span>
+	      </td>
+	      <td class="ranking-3">
+		<span class="tip stat-tip" data-title="The Median-Buchholz system is used to break ties in Swiss tournaments. The value displayed in the standings table is the sum of a player's opponents' scores, with the best and worst scores discarded." data-toggle="tooltip" data-original-title="" title="">
+		  Buchholz
+		</span>
+	      </td>
+	      <td class="ranking-4">
+		<span class="tip stat-tip" data-title="Total number of points scored minus points given up" data-toggle="tooltip" data-original-title="" title="">
+		  Pts Diff
+		</span>
+	      </td>
+	    </tr>
+	    <tr>
+	      <td>1</td>
+	      <td class="participant left">
+		Natalia
+	      </td>
+	      <td>8 - 0 - 0</td>
+	      <td>0</td>
+	      <td>8.0</td>
+	      <td>1</td>
+	      <td>30.0</td>
+	      <td>11</td>
+	    </tr>
+	    <tr>
+	      <td>2</td>
+	      <td class="participant left">
+		Ryan Gooseling
+	      </td>
+	      <td>7 - 1 - 0</td>
+	      <td>0</td>
+	      <td>7.0</td>
+	      <td>0</td>
+	      <td>32.0</td>
+	      <td>6</td>
+	    </tr>
+	    <tr>
+	      <td>3</td>
+	      <td class="participant left">
+		Keanu
+	      </td>
+	      <td>6 - 2 - 0</td>
+	      <td>0</td>
+	      <td>6.0</td>
+	      <td>2</td>
+	      <td>30.0</td>
+	      <td>6</td>
+	    </tr>
+	    <tr>
+	      <td>4</td>
+	      <td class="participant left">
+		Aaerok
+	      </td>
+	      <td>6 - 2 - 0</td>
+	      <td>0</td>
+	      <td>6.0</td>
+	      <td>1</td>
+	      <td>32.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>5</td>
+	      <td class="participant left">
+		ScrYpt
+	      </td>
+	      <td>6 - 2 - 0</td>
+	      <td>0</td>
+	      <td>6.0</td>
+	      <td>1</td>
+	      <td>30.0</td>
+	      <td>5</td>
+	    </tr>
+	    <tr>
+	      <td>6</td>
+	      <td class="participant left">
+		Andrew
+	      </td>
+	      <td>6 - 2 - 0</td>
+	      <td>0</td>
+	      <td>6.0</td>
+	      <td>1</td>
+	      <td>29.0</td>
+	      <td>4</td>
+	    </tr>
+	    <tr>
+	      <td>7</td>
+	      <td class="participant left">
+		kennyyam
+	      </td>
+	      <td>6 - 2 - 0</td>
+	      <td>0</td>
+	      <td>6.0</td>
+	      <td>1</td>
+	      <td>29.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>8</td>
+	      <td class="participant left">
+		Rhylent
+	      </td>
+	      <td>6 - 2 - 0</td>
+	      <td>0</td>
+	      <td>6.0</td>
+	      <td>1</td>
+	      <td>25.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>9</td>
+	      <td class="participant left">
+		PainSinger
+	      </td>
+	      <td>6 - 2 - 0</td>
+	      <td>0</td>
+	      <td>6.0</td>
+	      <td>0</td>
+	      <td>29.0</td>
+	      <td>2</td>
+	    </tr>
+	    <tr>
+	      <td>10</td>
+	      <td class="participant left">
+		IOException
+	      </td>
+	      <td>6 - 2 - 0</td>
+	      <td>0</td>
+	      <td>6.0</td>
+	      <td>0</td>
+	      <td>23.0</td>
+	      <td>1</td>
+	    </tr>
+	    <tr>
+	      <td>11</td>
+	      <td class="participant left">
+		iSlapWhale
+	      </td>
+	      <td>5 - 3 - 0</td>
+	      <td>0</td>
+	      <td>5.0</td>
+	      <td>2</td>
+	      <td>27.0</td>
+	      <td>-3</td>
+	    </tr>
+	    <tr>
+	      <td>12</td>
+	      <td class="participant left">
+		Ecliptus
+	      </td>
+	      <td>5 - 3 - 0</td>
+	      <td>0</td>
+	      <td>5.0</td>
+	      <td>1</td>
+	      <td>36.0</td>
+	      <td>2</td>
+	    </tr>
+	    <tr>
+	      <td>13</td>
+	      <td class="participant left">
+		[Neetwork]
+	      </td>
+	      <td>5 - 3 - 0</td>
+	      <td>0</td>
+	      <td>5.0</td>
+	      <td>1</td>
+	      <td>33.0</td>
+	      <td>0</td>
+	    </tr>
+	    <tr>
+	      <td>14</td>
+	      <td class="participant left">
+		funnytrees
+	      </td>
+	      <td>5 - 3 - 0</td>
+	      <td>0</td>
+	      <td>5.0</td>
+	      <td>1</td>
+	      <td>30.0</td>
+	      <td>4</td>
+	    </tr>
+	    <tr>
+	      <td>15</td>
+	      <td class="participant left">
+		Ex6TenZ
+	      </td>
+	      <td>5 - 3 - 0</td>
+	      <td>0</td>
+	      <td>5.0</td>
+	      <td>0</td>
+	      <td>27.0</td>
+	      <td>5</td>
+	    </tr>
+	    <tr>
+	      <td>16</td>
+	      <td class="participant left">
+		bananamilk
+	      </td>
+	      <td>5 - 3 - 0</td>
+	      <td>0</td>
+	      <td>5.0</td>
+	      <td>0</td>
+	      <td>26.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>17</td>
+	      <td class="participant left">
+		captin1
+	      </td>
+	      <td>5 - 3 - 0</td>
+	      <td>0</td>
+	      <td>5.0</td>
+	      <td>0</td>
+	      <td>22.0</td>
+	      <td>5</td>
+	    </tr>
+	    <tr>
+	      <td>18</td>
+	      <td class="participant left">
+		Kazuki
+	      </td>
+	      <td>5 - 3 - 0</td>
+	      <td>0</td>
+	      <td>5.0</td>
+	      <td>0</td>
+	      <td>20.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>19</td>
+	      <td class="participant left">
+		Keepu
+	      </td>
+	      <td>4 - 4 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>2</td>
+	      <td>30.0</td>
+	      <td>0</td>
+	    </tr>
+	    <tr>
+	      <td>20</td>
+	      <td class="participant left">
+		Zukarido
+	      </td>
+	      <td>4 - 4 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>2</td>
+	      <td>23.0</td>
+	      <td>-5</td>
+	    </tr>
+	    <tr>
+	      <td>21</td>
+	      <td class="participant left">
+		saltstick
+	      </td>
+	      <td>4 - 4 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>33.0</td>
+	      <td>0</td>
+	    </tr>
+	    <tr>
+	      <td>22</td>
+	      <td class="participant left">
+		Ignite
+	      </td>
+	      <td>4 - 4 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>33.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>23</td>
+	      <td class="participant left">
+		Karuta-
+	      </td>
+	      <td>4 - 4 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>32.0</td>
+	      <td>-3</td>
+	    </tr>
+	    <tr>
+	      <td>24</td>
+	      <td class="participant left">
+		Kocari
+	      </td>
+	      <td>4 - 4 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>29.0</td>
+	      <td>-3</td>
+	    </tr>
+	    <tr>
+	      <td>25</td>
+	      <td class="participant left">
+		DeuceswiId
+	      </td>
+	      <td>4 - 4 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>28.0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>26</td>
+	      <td class="participant left">
+		Xbox
+	      </td>
+	      <td>4 - 4 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>27.0</td>
+	      <td>-1</td>
+	    </tr>
+	    <tr>
+	      <td>27</td>
+	      <td class="participant left">
+		Shinyblade
+	      </td>
+	      <td>4 - 4 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>1</td>
+	      <td>26.0</td>
+	      <td>-7</td>
+	    </tr>
+	    <tr>
+	      <td>28</td>
+	      <td class="participant left">
+		kutora
+	      </td>
+	      <td>4 - 4 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>0</td>
+	      <td>32.0</td>
+	      <td>-2</td>
+	    </tr>
+	    <tr>
+	      <td>29</td>
+	      <td class="participant left">
+		Dunois
+	      </td>
+	      <td>3 - 3 - 1</td>
+	      <td>1</td>
+	      <td>4.0</td>
+	      <td>0</td>
+	      <td>23.0</td>
+	      <td>3</td>
+	    </tr>
+	    <tr>
+	      <td>30</td>
+	      <td class="participant left">
+		tyronetoblerone
+	      </td>
+	      <td>4 - 4 - 0</td>
+	      <td>0</td>
+	      <td>4.0</td>
+	      <td>0</td>
+	      <td>22.0</td>
+	      <td>0</td>
+	    </tr>
+	    <tr>
+	      <td>31</td>
+	      <td class="participant left">
+		BradXYZ
+	      </td>
+	      <td>3 - 4 - 1</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>1</td>
+	      <td>29.0</td>
+	      <td>-3</td>
+	    </tr>
+	    <tr>
+	      <td>32</td>
+	      <td class="participant left">
+		Aoiyuuki-
+	      </td>
+	      <td>3 - 5 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>0</td>
+	      <td>33.0</td>
+	      <td>-3</td>
+	    </tr>
+	    <tr>
+	      <td>33</td>
+	      <td class="participant left">
+		Zafkiel
+	      </td>
+	      <td>3 - 5 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>0</td>
+	      <td>27.0</td>
+	      <td>-7</td>
+	    </tr>
+	    <tr>
+	      <td>34</td>
+	      <td class="participant left">
+		- Nakano Azusa-
+	      </td>
+	      <td>3 - 5 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>0</td>
+	      <td>24.0</td>
+	      <td>-3</td>
+	    </tr>
+	    <tr>
+	      <td>35</td>
+	      <td class="participant left">
+		leluffy
+	      </td>
+	      <td>3 - 5 - 0</td>
+	      <td>0</td>
+	      <td>3.0</td>
+	      <td>0</td>
+	      <td>23.0</td>
+	      <td>-4</td>
+	    </tr>
+	    <tr>
+	      <td>36</td>
+	      <td class="participant left">
+		Comett
+	      </td>
+	      <td>2 - 6 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>27.0</td>
+	      <td>-3</td>
+	    </tr>
+	    <tr>
+	      <td>37</td>
+	      <td class="participant left">
+		WynnWolf
+	      </td>
+	      <td>2 - 6 - 0</td>
+	      <td>0</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>26.0</td>
+	      <td>-3</td>
+	    </tr>
+	    <tr>
+	      <td>38</td>
+	      <td class="participant left">
+		KogureKun
+	      </td>
+	      <td>1 - 6 - 0</td>
+	      <td>1</td>
+	      <td>2.0</td>
+	      <td>0</td>
+	      <td>26.0</td>
+	      <td>-9</td>
+	    </tr>
+	  </table>
+	</div>
+	
       </div>
       
       <div id="schedule">
@@ -143,474 +636,358 @@
 
 	<div class="oslschedule">
 	  <table>
-	    <tr>
-	      <td>Lobby</td>
-	      <td>Time <small>(PDT/GMT-7)</small></td>
-	      <td>Player 1</td>
-	      <td>Player 2</td>
-	      <td>Score</td>
-	      <td>Match History</td>
-	      <td>Admin</td>
-	    </tr>
-	    <tr>
-	      <td>
-		OSL:IA
-	      </td>
-	      <td>
-		Sat 8:00PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Dunois">Dunois</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Zukarido">Zukarido</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:IH
-	      </td>
-	      <td>
-		Sat 8:00PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Ryan%20Gooseling">Ryan Gooseling</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Aaerok">Aaerok</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:IB
-	      </td>
-	      <td>
-		Sat 8:00PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Comett">Comett</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/tyronetoblerone">tyronetoblerone</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:HY
-	      </td>
-	      <td>
-		Sat 8:30PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/BradXYZ">BradXYZ</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/saltstick">saltstick</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:HX
-	      </td>
-	      <td>
-		Sat 9:00PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Shinyblade">Shinyblade</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/-%20Nakano%20Azusa-">- Nakano Azusa-</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
-	      </td>
-	    </tr>
-
-
-	    <tr>
-	      <td>
-		OSL:IC
-	      </td>
-	      <td>
-		Sat 9:00PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/leluffy">leluffy</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/WynnWolf">WynnWolf</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:HZ
-	      </td>
-	      <td>
-		Sat 9:30PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Zafkiel">Zafkiel</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Kocari">Kocari</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:HS
-	      </td>
-	      <td>
-		Sat 9:30PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/kutora">kutora</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Ex6TenZ">Ex6TenZ</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:HU
-	      </td>
-	      <td>
-		Sun 5:00PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Karuta-">Karuta-</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/captin1">captin1</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
-	      </td>
-	    </tr>
-	    
-	    <tr>
-	      <td>
-		OSL:IE
-	      </td>
-	      <td>
-		Sun 8:00PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/[Neetwork]">[Neetwork]</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/ScrYpt">ScrYpt</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:HT
-	      </td>
-	      <td>
-		Sun 8:00PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Keepu">Keepu</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Rhylent">Rhylent</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:HQ
-	      </td>
-	      <td>
-		Sun 8:30PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/DeucesWiId">DeucesWiId</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/iSlapWhale">iSlapWhale</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
-	      </td>
-	    </tr>
-	    
-	    <tr>
-	      <td>
-		OSL:HV
-	      </td>
-	      <td>
-		Sun 8:30PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Aoiyuuki-">Aoiyuuki-</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/kazuki">Kazuki</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Shintomo">Shintomo</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:HR
-	      </td>
-	      <td>
-		Sun 8:30PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Xbox">Xbox</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/bananamilk">bananamilk</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:II
-	      </td>
-	      <td>
-		Sun 9:00PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Natalia">Natalia</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Cl8n">Cl8n</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:HW
-	      </td>
-	      <td>
-		Sun 9:00PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/IOException">IOException</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Ignite">Ignite</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:IF
-	      </td>
-	      <td>
-		Sun 9:30PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/kennyyam">kennyyam</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Keanu">Keanu</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:ID
-	      </td>
-	      <td>
-		Sun 9:30PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/funnytrees">funnytrees</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Andrew">Andrew</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
-	      </td>
-	    </tr>
-
-	    <tr>
-	      <td>
-		OSL:IG
-	      </td>
-	      <td>
-		Sun 9:30PM
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/Ecliptus">Ecliptus</a>
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/PainSinger">PainSinger</a>
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		N/A
-	      </td>
-	      <td>
-		<a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
-	      </td>
-	    </tr>
-
-	  </table>
-
+	    <tbody><tr>
+		<td>Lobby</td>
+		<td>Time <small>(PDT/GMT-7)</small></td>
+		<td>Player 1</td>
+		<td>Player 2</td>
+		<td>Score</td>
+		<td>Match History</td>
+		<td>Admin</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:IA
+		</td>
+		<td>
+		  Sat 8:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Dunois">Dunois</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Zukarido">Zukarido</a>
+		</td>
+		<td>0-0</td>
+		<td><a href='https://osu.ppy.sh/mp/18600632'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:IH
+		</td>
+		<td>
+		  Sat 8:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Ryan%20Gooseling">Ryan Gooseling</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Aaerok">Aaerok</a>
+		</td>
+		<td>2-0</td>
+		<td><a href='http://osu.ppy.sh/mp/18600502'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:IB
+		</td>
+		<td>
+		  Sat 8:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Comett">Comett</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/tyronetoblerone">tyronetoblerone</a>
+		</td>
+		<td>1-2</td>
+		<td><a href='http://osu.ppy.sh/mp/18600549'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:HY
+		</td>
+		<td>
+		  Sat 8:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/BradXYZ">BradXYZ</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/saltstick">saltstick</a>
+		</td>
+		<td>1-2</td>
+		<td><a href='https://osu.ppy.sh/mp/18600938'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:HX
+		</td>
+		<td>
+		  Sat 9:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Shinyblade">Shinyblade</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/-%20Nakano%20Azusa-">- Nakano Azusa-</a>
+		</td>
+		<td>2-1</td>
+		<td><a href='https://osu.ppy.sh/mp/18601605'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:IC
+		</td>
+		<td>
+		  Sat 9:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/leluffy">leluffy</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/WynnWolf">WynnWolf</a>
+		</td>
+		<td>2-1</td>
+		<td><a href='http://osu.ppy.sh/mp/18601537'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:HZ
+		</td>
+		<td>
+		  Sat 9:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Zafkiel">Zafkiel</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Kocari">Kocari</a>
+		</td>
+		<td>0-0</td>
+		<td><a href='https://osu.ppy.sh/mp/18602146'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:HS
+		</td>
+		<td>
+		  Sat 9:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/kutora">kutora</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Ex6TenZ">Ex6TenZ</a>
+		</td>
+		<td>0-2</td>
+		<td><a href='https://osu.ppy.sh/mp/18602184'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:HU
+		</td>
+		<td>
+		  Sun 5:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Karuta-">Karuta-</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/captin1">captin1</a>
+		</td>
+		<td>0-2</td>
+		<td><a href='http://osu.ppy.sh/mp/18601083'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a><a href='https://osu.ppy.sh/mp/18623675'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:IE
+		</td>
+		<td>
+		  Sun 8:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/[Neetwork]">[Neetwork]</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/ScrYpt">ScrYpt</a>
+		</td>
+		<td>0-2</td>
+		<td><a href='https://osu.ppy.sh/mp/18626004'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:HT
+		</td>
+		<td>
+		  Sun 8:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Keepu">Keepu</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Rhylent">Rhylent</a>
+		</td>
+		<td>0-2</td>
+		<td><a href='https://osu.ppy.sh/mp/18625978'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:HQ
+		</td>
+		<td>
+		  Sun 8:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/DeucesWiId">DeucesWiId</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/iSlapWhale">iSlapWhale</a>
+		</td>
+		<td>1-2</td>
+		<td><a href='https://osu.ppy.sh/mp/18626247'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:HV
+		</td>
+		<td>
+		  Sun 8:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Aoiyuuki-">Aoiyuuki-</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/kazuki">Kazuki</a>
+		</td>
+		<td>0-0</td>
+		<td><a href='https://osu.ppy.sh/mp/18626048'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Shintomo">Shintomo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:HR
+		</td>
+		<td>
+		  Sun 8:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Xbox">Xbox</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/bananamilk">bananamilk</a>
+		</td>
+		<td>0-2</td>
+		<td><a href='https://osu.ppy.sh/mp/18626178'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a><a href='https://osu.ppy.sh/mp/18626360'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:HW
+		</td>
+		<td>
+		  Sun 9:00PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/IOException">IOException</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Ignite">Ignite</a>
+		</td>
+		<td>0-0</td>
+		<td><a href='https://osu.ppy.sh/mp/18626555'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/osuuci%20dot%20com">osuuci dot com</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:IF
+		</td>
+		<td>
+		  Sun 9:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/kennyyam">kennyyam</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Keanu">Keanu</a>
+		</td>
+		<td>0-2</td>
+		<td><a href='https://osu.ppy.sh/mp/18626851'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:ID
+		</td>
+		<td>
+		  Sun 9:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/funnytrees">funnytrees</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Andrew">Andrew</a>
+		</td>
+		<td>1-2</td>
+		<td><a href='https://osu.ppy.sh/mp/18626805'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+		</td>
+	      </tr>
+	      <tr>
+		<td>
+		  OSL:IG
+		</td>
+		<td>
+		  Sun 9:30PM
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/Ecliptus">Ecliptus</a>
+		</td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/PainSinger">PainSinger</a>
+		</td>
+		<td>0-0</td>
+		<td><a href='https://osu.ppy.sh/mp/18626849'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+		<td>
+		  <a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
+		</td>
+	      </tr>
+	  </tbody></table>
 	</div>
       </div>
       
@@ -805,7 +1182,10 @@
 	<h2>VoDs</h2>
 
 	<p>This week's recorded streams.</p>
-	<iframe width="650" height="366" src="https://www.youtube.com/embed/I52n3--QBWs" frameborder="0" allowfullscreen></iframe>	
+	<iframe width="650" height="366" src="https://www.youtube.com/embed/I52n3--QBWs" frameborder="0" allowfullscreen></iframe>
+	<iframe width="650" height="366" src="https://www.youtube.com/embed/0-Jn_EpsWu4" frameborder="0" allowfullscreen></iframe>
+	<iframe width="650" height="366" src="https://www.youtube.com/embed/8UnD3uX0XPA" frameborder="0" allowfullscreen></iframe>
+	<iframe width="650" height="366" src="https://www.youtube.com/embed/2aqlf-SZly4" frameborder="0" allowfullscreen></iframe>
       </div>
 
   </body>
