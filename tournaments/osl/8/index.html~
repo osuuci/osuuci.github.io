@@ -95,7 +95,14 @@
 	    <p>Week 9</p>
 	    <img src="http://osuuci.com/tournaments/osl/week9.png"/>
 	  </div>
-	</a>	
+	</a>
+	
+	<a href="http://osuuci.com/tournaments/osl/10" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 10</p>
+	    <img src="http://osuuci.com/tournaments/osl/week10.png"/>
+	  </div>
+	</a>
       </div>
       
       <div class="sideButtons">

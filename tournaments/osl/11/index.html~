@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>OSL Week 11 - osu! UCI</title>
+
+    <link rel="icon" href="http://osuuci.com/resources/favicon.ico">
+    <link rel="shortcut icon" href="http://osuuci.com/resources/favicon.ico">
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
+    <link href="../theme.css" type="text/css" rel="stylesheet"/>
+
+  </head>
+
+  <body>
+    <div class="buttons">
+      <table>
+        <tr>
+          <td><a href="http://osuuci.com/home" class="button"><img alt="Home" title="Home" src="http://osuuci.com/resources/orangeIconHome.png" /></a></td>
+          <td><a href="http://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="http://osuuci.com/resources/orangeIconOfficers.png" /></a></td>
+          <td><a href="http://osuuci.com/about" class="button"><img alt="About" title="About" src="http://osuuci.com/resources/orangeIconAbout.png" /></a></td>
+          <td><a href="http://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="http://osuuci.com/resources/orangeIconContact.png" /></a></td>
+          <td><a href="http://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="http://osuuci.com/resources/orangeIconTournament.png" /></a></td>
+        </tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <div class="weekButtons">
+	<a href="http://osuuci.com/tournaments/osl" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Home</p>
+	    <img src="http://osuuci.com/tournaments/osl/weekHome.png"/>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/1" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 1</p>
+	    <img src="http://osuuci.com/tournaments/osl/week1.png"/>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/2" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 2</p>
+	    <img src="http://osuuci.com/tournaments/osl/week2.png"/>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/3" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 3</p>
+	    <img src="http://osuuci.com/tournaments/osl/week3.png"/>
+	  </div>
+	</a>
+	
+	<a href="http://osuuci.com/tournaments/osl/4" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 4</p>
+	    <img src="http://osuuci.com/tournaments/osl/week4.png"/>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/5" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 5</p>
+	    <img src="http://osuuci.com/tournaments/osl/week5.png"/>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/6" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 6</p>
+	    <img src="http://osuuci.com/tournaments/osl/week6.png"/>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/7" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 7</p>
+	    <img src="http://osuuci.com/tournaments/osl/week7.png"/>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/8" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 8</p>
+	    <img src="http://osuuci.com/tournaments/osl/week8.png"/>
+	  </div>
+	</a>
+	
+	<a href="http://osuuci.com/tournaments/osl/9" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 9</p>
+	    <img src="http://osuuci.com/tournaments/osl/week9.png"/>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/10" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 10</p>
+	    <img src="http://osuuci.com/tournaments/osl/week10.png"/>
+	  </div>
+	</a>
+      </div>
+      
+      <div class="sideButtons">
+	<a href="http://osuuci.com/tournaments/osl/11#summary" class="noDecoration">
+	  <div class="sideButton">
+	    <img src="http://osuuci.com/tournaments/osl/1.png"/>
+	    <p>Summary</p>
+	  </div>
+	</a>
+      </div>
+
+      <div id="summary">
+	<h2>Week 11 (September 19-20th)</h2>
+	<p>Welcome to week 11! This week will be a break for both players and admins. For players who've made it pass the Swiss rounds, use this time wisely to start prepping for playoffs. All the games from round of 16 upwards will be played over week 12's weekend. As for admins, we'll also be taking the weekend off since most of us will be busy moving in for the new school year. As such, there will most likely be no stream or events going on over this weekend.</p>
+      </div>
+  </body>
+</html>

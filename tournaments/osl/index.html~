@@ -95,7 +95,28 @@
 	    <p>Week 9</p>
 	    <img src="http://osuuci.com/tournaments/osl/week9.png"/>
 	  </div>
-	</a>	
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/10" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 10</p>
+	    <img src="http://osuuci.com/tournaments/osl/week10.png"/>
+	  </div>
+	</a>
+
+	<a href="http://osuuci.com/tournaments/osl/11" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 11</p>
+	    <img src="http://osuuci.com/tournaments/osl/week11.png"/>
+	  </div>
+	</a>
+	
+	<a href="http://osuuci.com/tournaments/osl/12" class="noDecoration">
+	  <div class="sideButton weekButton">
+	    <p>Week 12</p>
+	    <img src="http://osuuci.com/tournaments/osl/week12.png"/>
+	  </div>
+	</a>
       </div>
       
       <div class="sideButtons">
@@ -177,580 +198,434 @@
 
       <div id="participants">
 	<h2>Participants</h2>
-	<p>We take participant privacy seriously and will only be exposing player osu! accounts as tournament identities. To track the league progress, we will be using Challonge. We'll replicate most of the crucial information there on this website, but for the most up to date stats, check the <a href="http://challonge.com/OSL2015v6">Challonge</a> page directly. </p>
-      </div>
-    </div>
+	<p>Below are the standings of our league participants after our 10 weeks of Swiss. We have been using href="http://challonge.com/OSL2015v6">Challonge</a> to track our tournament progress, and you can see the full bracket there. The top 16 of the Swiss rounds have been seeded in our single elimination <a href="http://challonge.com/oslplayoffs">playoffs</a> bracket. </p>
+</div>
+</div>
 
-    <div class="mappool participants">
-      <table class="limited_width standings table table-bordered table-condensed table-striped">
-	<tr>
-	  <td>Rank</td>
-	  <td>Participant</td>
-	  <td>
-	    Match W-L-T
-	    <br>
-	    <small> (wins +1.0, ties +0.0)</small>
-	  </td>
-	  <td>
-	    Byes
-	    <br>
-	    <small> (+1.0)</small>
-	  </td>
-	  <td class="ranking-1">
-	    Score
-	  </td>
-	  <td class="ranking-2">
-	    <span class="tip stat-tip" data-title="Number of match wins against tied opponents" data-toggle="tooltip" data-original-title="" title="">
-	      TB
-	    </span>
-	  </td>
-	  <td class="ranking-3">
-	    <span class="tip stat-tip" data-title="The Median-Buchholz system is used to break ties in Swiss tournaments. The value displayed in the standings table is the sum of a player's opponents' scores, with the best and worst scores discarded." data-toggle="tooltip" data-original-title="" title="">
-	      Buchholz
-	    </span>
-	  </td>
-	  <td class="ranking-4">
-	    <span class="tip stat-tip" data-title="Total number of points scored minus points given up" data-toggle="tooltip" data-original-title="" title="">
-	      Pts Diff
-	    </span>
-	  </td>
-	</tr>
-	<tr>
-	  <td>1</td>
-	  <td class="participant left">
-	    Natalia
-	  </td>
-	  <td>8 - 0 - 0</td>
-	  <td>0</td>
-	  <td>8.0</td>
-	  <td>1</td>
-	  <td>30.0</td>
-	  <td>11</td>
-	</tr>
-	<tr>
-	  <td>2</td>
-	  <td class="participant left">
-	    Ryan Gooseling
-	  </td>
-	  <td>7 - 1 - 0</td>
-	  <td>0</td>
-	  <td>7.0</td>
-	  <td>0</td>
-	  <td>32.0</td>
-	  <td>6</td>
-	</tr>
-	<tr>
-	  <td>3</td>
-	  <td class="participant left">
-	    Keanu
-	  </td>
-	  <td>6 - 2 - 0</td>
-	  <td>0</td>
-	  <td>6.0</td>
-	  <td>2</td>
-	  <td>30.0</td>
-	  <td>6</td>
-	</tr>
-	<tr>
-	  <td>4</td>
-	  <td class="participant left">
-	    Aaerok
-	  </td>
-	  <td>6 - 2 - 0</td>
-	  <td>0</td>
-	  <td>6.0</td>
-	  <td>1</td>
-	  <td>32.0</td>
-	  <td>3</td>
-	</tr>
-	<tr>
-	  <td>5</td>
-	  <td class="participant left">
-	    ScrYpt
-	  </td>
-	  <td>6 - 2 - 0</td>
-	  <td>0</td>
-	  <td>6.0</td>
-	  <td>1</td>
-	  <td>30.0</td>
-	  <td>5</td>
-	</tr>
-	<tr>
-	  <td>6</td>
-	  <td class="participant left">
-	    Andrew
-	  </td>
-	  <td>6 - 2 - 0</td>
-	  <td>0</td>
-	  <td>6.0</td>
-	  <td>1</td>
-	  <td>29.0</td>
-	  <td>4</td>
-	</tr>
-	<tr>
-	  <td>7</td>
-	  <td class="participant left">
-	    kennyyam
-	  </td>
-	  <td>6 - 2 - 0</td>
-	  <td>0</td>
-	  <td>6.0</td>
-	  <td>1</td>
-	  <td>29.0</td>
-	  <td>3</td>
-	</tr>
-	<tr>
-	  <td>8</td>
-	  <td class="participant left">
-	    Rhylent
-	  </td>
-	  <td>6 - 2 - 0</td>
-	  <td>0</td>
-	  <td>6.0</td>
-	  <td>1</td>
-	  <td>25.0</td>
-	  <td>3</td>
-	</tr>
-	<tr>
-	  <td>9</td>
-	  <td class="participant left">
-	    PainSinger
-	  </td>
-	  <td>6 - 2 - 0</td>
-	  <td>0</td>
-	  <td>6.0</td>
-	  <td>0</td>
-	  <td>29.0</td>
-	  <td>2</td>
-	</tr>
-	<tr>
-	  <td>10</td>
-	  <td class="participant left">
-	    IOException
-	  </td>
-	  <td>6 - 2 - 0</td>
-	  <td>0</td>
-	  <td>6.0</td>
-	  <td>0</td>
-	  <td>23.0</td>
-	  <td>1</td>
-	</tr>
-	<tr>
-	  <td>11</td>
-	  <td class="participant left">
-	    iSlapWhale
-	  </td>
-	  <td>5 - 3 - 0</td>
-	  <td>0</td>
-	  <td>5.0</td>
-	  <td>2</td>
-	  <td>27.0</td>
-	  <td>-3</td>
-	</tr>
-	<tr>
-	  <td>12</td>
-	  <td class="participant left">
-	    Ecliptus
-	  </td>
-	  <td>5 - 3 - 0</td>
-	  <td>0</td>
-	  <td>5.0</td>
-	  <td>1</td>
-	  <td>36.0</td>
-	  <td>2</td>
-	</tr>
-	<tr>
-	  <td>13</td>
-	  <td class="participant left">
-	    [Neetwork]
-	  </td>
-	  <td>5 - 3 - 0</td>
-	  <td>0</td>
-	  <td>5.0</td>
-	  <td>1</td>
-	  <td>33.0</td>
-	  <td>0</td>
-	</tr>
-	<tr>
-	  <td>14</td>
-	  <td class="participant left">
-	    funnytrees
-	  </td>
-	  <td>5 - 3 - 0</td>
-	  <td>0</td>
-	  <td>5.0</td>
-	  <td>1</td>
-	  <td>30.0</td>
-	  <td>4</td>
-	</tr>
-	<tr>
-	  <td>15</td>
-	  <td class="participant left">
-	    Ex6TenZ
-	  </td>
-	  <td>5 - 3 - 0</td>
-	  <td>0</td>
-	  <td>5.0</td>
-	  <td>0</td>
-	  <td>27.0</td>
-	  <td>5</td>
-	</tr>
-	<tr>
-	  <td>16</td>
-	  <td class="participant left">
-	    bananamilk
-	  </td>
-	  <td>5 - 3 - 0</td>
-	  <td>0</td>
-	  <td>5.0</td>
-	  <td>0</td>
-	  <td>26.0</td>
-	  <td>3</td>
-	</tr>
-	<tr>
-	  <td>17</td>
-	  <td class="participant left">
-	    captin1
-	  </td>
-	  <td>5 - 3 - 0</td>
-	  <td>0</td>
-	  <td>5.0</td>
-	  <td>0</td>
-	  <td>22.0</td>
-	  <td>5</td>
-	</tr>
-	<tr>
-	  <td>18</td>
-	  <td class="participant left">
-	    Kazuki
-	  </td>
-	  <td>5 - 3 - 0</td>
-	  <td>0</td>
-	  <td>5.0</td>
-	  <td>0</td>
-	  <td>20.0</td>
-	  <td>3</td>
-	</tr>
-	<tr>
-	  <td>19</td>
-	  <td class="participant left">
-	    Keepu
-	  </td>
-	  <td>4 - 4 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>2</td>
-	  <td>30.0</td>
-	  <td>0</td>
-	</tr>
-	<tr>
-	  <td>20</td>
-	  <td class="participant left">
-	    Zukarido
-	  </td>
-	  <td>4 - 4 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>2</td>
-	  <td>23.0</td>
-	  <td>-5</td>
-	</tr>
-	<tr>
-	  <td>21</td>
-	  <td class="participant left">
-	    saltstick
-	  </td>
-	  <td>4 - 4 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>1</td>
-	  <td>33.0</td>
-	  <td>0</td>
-	</tr>
-	<tr>
-	  <td>22</td>
-	  <td class="participant left">
-	    Ignite
-	  </td>
-	  <td>4 - 4 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>1</td>
-	  <td>33.0</td>
-	  <td>-1</td>
-	</tr>
-	<tr>
-	  <td>23</td>
-	  <td class="participant left">
-	    Karuta-
-	  </td>
-	  <td>4 - 4 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>1</td>
-	  <td>32.0</td>
-	  <td>-3</td>
-	</tr>
-	<tr>
-	  <td>24</td>
-	  <td class="participant left">
-	    Kocari
-	  </td>
-	  <td>4 - 4 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>1</td>
-	  <td>29.0</td>
-	  <td>-3</td>
-	</tr>
-	<tr>
-	  <td>25</td>
-	  <td class="participant left">
-	    DeuceswiId
-	  </td>
-	  <td>4 - 4 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>1</td>
-	  <td>28.0</td>
-	  <td>-2</td>
-	</tr>
-	<tr>
-	  <td>26</td>
-	  <td class="participant left">
-	    Xbox
-	  </td>
-	  <td>4 - 4 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>1</td>
-	  <td>27.0</td>
-	  <td>-1</td>
-	</tr>
-	<tr>
-	  <td>27</td>
-	  <td class="participant left">
-	    Shinyblade
-	  </td>
-	  <td>4 - 4 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>1</td>
-	  <td>26.0</td>
-	  <td>-7</td>
-	</tr>
-	<tr>
-	  <td>28</td>
-	  <td class="participant left">
-	    kutora
-	  </td>
-	  <td>4 - 4 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>0</td>
-	  <td>32.0</td>
-	  <td>-2</td>
-	</tr>
-	<tr>
-	  <td>29</td>
-	  <td class="participant left">
-	    Dunois
-	  </td>
-	  <td>3 - 3 - 1</td>
-	  <td>1</td>
-	  <td>4.0</td>
-	  <td>0</td>
-	  <td>23.0</td>
-	  <td>3</td>
-	</tr>
-	<tr>
-	  <td>30</td>
-	  <td class="participant left">
-	    tyronetoblerone
-	  </td>
-	  <td>4 - 4 - 0</td>
-	  <td>0</td>
-	  <td>4.0</td>
-	  <td>0</td>
-	  <td>22.0</td>
-	  <td>0</td>
-	</tr>
-	<tr>
-	  <td>31</td>
-	  <td class="participant left">
-	    BradXYZ
-	  </td>
-	  <td>3 - 4 - 1</td>
-	  <td>0</td>
-	  <td>3.0</td>
-	  <td>1</td>
-	  <td>29.0</td>
-	  <td>-3</td>
-	</tr>
-	<tr>
-	  <td>32</td>
-	  <td class="participant left">
-	    Aoiyuuki-
-	  </td>
-	  <td>3 - 5 - 0</td>
-	  <td>0</td>
-	  <td>3.0</td>
-	  <td>0</td>
-	  <td>33.0</td>
-	  <td>-3</td>
-	</tr>
-	<tr>
-	  <td>33</td>
-	  <td class="participant left">
-	    Zafkiel
-	  </td>
-	  <td>3 - 5 - 0</td>
-	  <td>0</td>
-	  <td>3.0</td>
-	  <td>0</td>
-	  <td>27.0</td>
-	  <td>-7</td>
-	</tr>
-	<tr>
-	  <td>34</td>
-	  <td class="participant left">
-	    - Nakano Azusa-
-	  </td>
-	  <td>3 - 5 - 0</td>
-	  <td>0</td>
-	  <td>3.0</td>
-	  <td>0</td>
-	  <td>24.0</td>
-	  <td>-3</td>
-	</tr>
-	<tr>
-	  <td>35</td>
-	  <td class="participant left">
-	    leluffy
-	  </td>
-	  <td>3 - 5 - 0</td>
-	  <td>0</td>
-	  <td>3.0</td>
-	  <td>0</td>
-	  <td>23.0</td>
-	  <td>-4</td>
-	</tr>
-	<tr>
-	  <td>36</td>
-	  <td class="participant left">
-	    Comett
-	  </td>
-	  <td>2 - 6 - 0</td>
-	  <td>0</td>
-	  <td>2.0</td>
-	  <td>0</td>
-	  <td>27.0</td>
-	  <td>-3</td>
-	</tr>
-	<tr>
-	  <td>37</td>
-	  <td class="participant left">
-	    WynnWolf
-	  </td>
-	  <td>2 - 6 - 0</td>
-	  <td>0</td>
-	  <td>2.0</td>
-	  <td>0</td>
-	  <td>26.0</td>
-	  <td>-3</td>
-	</tr>
-	<tr>
-	  <td>38</td>
-	  <td class="participant left">
-	    KogureKun
-	  </td>
-	  <td>1 - 6 - 0</td>
-	  <td>1</td>
-	  <td>2.0</td>
-	  <td>0</td>
-	  <td>26.0</td>
-	  <td>-9</td>
-	</tr>
-      </table>
-    </div>
+<div class="mappool participants">
+  <table class="limited_width standings table table-bordered table-condensed table-striped">
+    <tr>
+      <td>Rank</td>
+      <td>Participant</td>
+      <td>
+	Match W-L-T
+	<br>
+	<small> (wins +1.0, ties +0.0)</small>
+      </td>
+      <td>
+	Byes
+	<br>
+	<small> (+1.0)</small>
+      </td>
+      <td class="ranking-1">
+	Score
+      </td>
+      <td class="ranking-2">
+	<span class="tip stat-tip" data-title="Number of match wins against tied opponents" data-toggle="tooltip" data-original-title="" title="">
+	  TB
+	</span>
+      </td>
+      <td class="ranking-3">
+	<span class="tip stat-tip" data-title="The Median-Buchholz system is used to break ties in Swiss tournaments. The value displayed in the standings table is the sum of a player's opponents' scores, with the best and worst scores discarded." data-toggle="tooltip" data-original-title="" title="">
+	  Buchholz
+	</span>
+      </td>
+      <td class="ranking-4">
+	<span class="tip stat-tip" data-title="Total number of points scored minus points given up" data-toggle="tooltip" data-original-title="" title="">
+	  Pts Diff
+	</span>
+      </td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td class="participant left">
+	Natalia
+      </td>
+      <td>10 - 0 - 0</td>
+      <td>0</td>
+      <td>10.0</td>
+      <td>0</td>
+      <td>51.0</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td class="participant left">
+	Ryan Gooseling
+      </td>
+      <td>8 - 2 - 0</td>
+      <td>0</td>
+      <td>8.0</td>
+      <td>1</td>
+      <td>53.0</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td class="participant left">
+	kennyyam
+      </td>
+      <td>8 - 2 - 0</td>
+      <td>0</td>
+      <td>8.0</td>
+      <td>0</td>
+      <td>49.0</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td class="participant left">
+	Aaerok
+      </td>
+      <td>7 - 3 - 0</td>
+      <td>0</td>
+      <td>7.0</td>
+      <td>2</td>
+      <td>53.0</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td class="participant left">
+	Andrew
+      </td>
+      <td>7 - 3 - 0</td>
+      <td>0</td>
+      <td>7.0</td>
+      <td>2</td>
+      <td>50.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td class="participant left">
+	Keanu
+      </td>
+      <td>7 - 3 - 0</td>
+      <td>0</td>
+      <td>7.0</td>
+      <td>1</td>
+      <td>51.0</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td class="participant left">
+	[Neetwork]
+      </td>
+      <td>7 - 3 - 0</td>
+      <td>0</td>
+      <td>7.0</td>
+      <td>1</td>
+      <td>50.0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td class="participant left">
+	IOException
+      </td>
+      <td>7 - 3 - 0</td>
+      <td>0</td>
+      <td>7.0</td>
+      <td>1</td>
+      <td>43.0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td class="participant left">
+	PainSinger
+      </td>
+      <td>7 - 3 - 0</td>
+      <td>0</td>
+      <td>7.0</td>
+      <td>0</td>
+      <td>49.0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td class="participant left">
+	Ex6TenZ
+      </td>
+      <td>7 - 3 - 0</td>
+      <td>0</td>
+      <td>7.0</td>
+      <td>0</td>
+      <td>44.0</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td class="participant left">
+	Ecliptus
+      </td>
+      <td>6 - 4 - 0</td>
+      <td>0</td>
+      <td>6.0</td>
+      <td>3</td>
+      <td>54.0</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td class="participant left">
+	selavy
+      </td>
+      <td>6 - 4 - 0</td>
+      <td>0</td>
+      <td>6.0</td>
+      <td>3</td>
+      <td>48.0</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td class="participant left">
+	iSlapWhale
+      </td>
+      <td>6 - 4 - 0</td>
+      <td>0</td>
+      <td>6.0</td>
+      <td>2</td>
+      <td>44.0</td>
+      <td>-5</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td class="participant left">
+	ScrYpt
+      </td>
+      <td>6 - 4 - 0</td>
+      <td>0</td>
+      <td>6.0</td>
+      <td>1</td>
+      <td>53.0</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td class="participant left">
+	funnytrees
+      </td>
+      <td>6 - 4 - 0</td>
+      <td>0</td>
+      <td>6.0</td>
+      <td>1</td>
+      <td>48.0</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td class="participant left">
+	saltstick
+      </td>
+      <td>6 - 4 - 0</td>
+      <td>0</td>
+      <td>6.0</td>
+      <td>1</td>
+      <td>48.0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td class="participant left">
+	Kazuki
+      </td>
+      <td>6 - 4 - 0</td>
+      <td>0</td>
+      <td>6.0</td>
+      <td>1</td>
+      <td>37.0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td class="participant left">
+	Rhylent
+      </td>
+      <td>6 - 4 - 0</td>
+      <td>0</td>
+      <td>6.0</td>
+      <td>0</td>
+      <td>46.0</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td class="participant left">
+	Kocari
+      </td>
+      <td>6 - 4 - 0</td>
+      <td>0</td>
+      <td>6.0</td>
+      <td>0</td>
+      <td>44.0</td>
+      <td>-3</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td class="participant left">
+	Dunois
+      </td>
+      <td>5 - 3 - 1</td>
+      <td>1</td>
+      <td>6.0</td>
+      <td>0</td>
+      <td>36.0</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td class="participant left">
+	Ignite
+      </td>
+      <td>5 - 5 - 0</td>
+      <td>0</td>
+      <td>5.0</td>
+      <td>2</td>
+      <td>47.0</td>
+      <td>-1</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td class="participant left">
+	Xbox
+      </td>
+      <td>5 - 5 - 0</td>
+      <td>0</td>
+      <td>5.0</td>
+      <td>1</td>
+      <td>44.0</td>
+      <td>-1</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td class="participant left">
+	leluffy
+      </td>
+      <td>5 - 5 - 0</td>
+      <td>0</td>
+      <td>5.0</td>
+      <td>0</td>
+      <td>38.0</td>
+      <td>-3</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td class="participant left">
+	kutora
+      </td>
+      <td>4 - 6 - 0</td>
+      <td>0</td>
+      <td>4.0</td>
+      <td>1</td>
+      <td>51.0</td>
+      <td>-3</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td class="participant left">
+	KogureKun
+      </td>
+      <td>2 - 7 - 0</td>
+      <td>1</td>
+      <td>3.0</td>
+      <td>0</td>
+      <td>41.0</td>
+      <td>-10</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td class="participant left">
+	Comett
+      </td>
+      <td>2 - 8 - 0</td>
+      <td>0</td>
+      <td>2.0</td>
+      <td>0</td>
+      <td>41.0</td>
+      <td>-5</td>
+    </tr>
+  </table>
+</div>
 
-    <div class="mid">
-      <div id="format">
-	<h2>Format</h2>
-	<p>
-	  <ul>
-            <li>Targetted for 64 players</li>
-            <li>All matches are played online</li>
-            <li>Spans 12 weeks from July 11th to September 27th</li>
-            <li>10 weeks of Swiss rounds each weekend from July 11th to September 13th</li>
-            <li>Matches will be played in 30 minute time slots on Saturday and Sunday from 8-10PM PDT (GMT-7)</li>
-            <li>Swiss rounds are best of 3</li>
-            <li>After a week's break, playoffs take place over September 26th and September 27th</li>
-            <li>Top 16 of the Swiss is seeded into the playoffs bracket</li>
-            <li>Playoffs will be played in hour time slots on Saturday and Sunday from 4-8PM PDT (GMT-7)</li>
-            <li>Playoffs are single elimination</li>
-            <li>Round of 16 is best of 7</li>
-            <li>Quarter-finals are best of 7</li>
-            <li>Semi-finals are best of 7</li>
-	    <li>Consolation is best of 9</li>
-            <li>Grand-final is best of 9</li>
-            <li>Matches will be streamed and casted on our <a href="http://www.twitch.tv/osuuci">Twitch channel</a></li>
-            <li>Due to time constraints matches will overlap and not all games will be broadcasted</li>
-	  </ul>
-      </div>
+<div class="mid">
+  <div id="format">
+    <h2>Format</h2>
+    <p>
+      <ul>
+        <li>Targetted for 64 players</li>
+        <li>All matches are played online</li>
+        <li>Spans 12 weeks from July 11th to September 27th</li>
+        <li>10 weeks of Swiss rounds each weekend from July 11th to September 13th</li>
+        <li>Matches will be played in 30 minute time slots on Saturday and Sunday from 8-10PM PDT (GMT-7)</li>
+        <li>Swiss rounds are best of 3</li>
+        <li>After a week's break, playoffs take place over September 26th and September 27th</li>
+        <li>Top 16 of the Swiss is seeded into the playoffs bracket</li>
+        <li>Playoffs will be played in hour time slots on Saturday and Sunday from 4-8PM PDT (GMT-7)</li>
+        <li>Playoffs are single elimination</li>
+        <li>Round of 16 is best of 7</li>
+        <li>Quarter-finals are best of 7</li>
+        <li>Semi-finals are best of 7</li>
+	<li>Consolation is best of 9</li>
+        <li>Grand-final is best of 9</li>
+        <li>Matches will be streamed and casted on our <a href="http://www.twitch.tv/osuuci">Twitch channel</a></li>
+        <li>Due to time constraints matches will overlap and not all games will be broadcasted</li>
+      </ul>
+  </div>
 
-      <div id="rules">
-	<h2>Rules</h2>
-	<p>
-	  <ul>
-            <li>Players must be 15 years of age or older</li>
-            <li>Player accounts must be in good standing</li>
-            <li>Matches are in osu! standard with score as the win condition and head to head as team mode</li>
-            <li>!roll begins every match, higher roll wins</li>
-            <li>Lower roll decides warm up map (any song &lt;5 minutes, not in map pool)</li>
-            <li>Higher roll decides first map</li>
-            <li>Thereafter, loser decides next map</li>
-	    <li>Tiebreaker match decides last round</li>
-	    <li>Tiebreaker is No Mod only</li>
-	    <li>Each mod can only be selected once by a respective player</li>
-	    <li>No Fail can be applied to preserve past scores</li>
-	    <li>On first disconnect, the opponent decides to rematch or not</li>
-	    <li>Second and further disconnects are counted as losses</li>
-	    <li>Check in with your referee after your match to verify the end results</li>
-            <li>Missing your match counts as a loss; please show up a few minutes before your alotted time slot so you and the administrators can set up in time</li>
-	    <li>Two consecutive weekend misses without contact leads to your removal from the tournament</li>
-	    <li>Trolling, unsportsmanlike behavior, and other harassment will not be tolerated and can factor into your removal</li>
-	    <li>League rules and structure are subject to alterations by the administrators</li>
-	    <li>Administrators have the final say in any disputes</li>
-	  </ul>
-      </div>
+  <div id="rules">
+    <h2>Rules</h2>
+    <p>
+      <ul>
+        <li>Players must be 15 years of age or older</li>
+        <li>Player accounts must be in good standing</li>
+        <li>Matches are in osu! standard with score as the win condition and head to head as team mode</li>
+        <li>!roll begins every match, higher roll wins</li>
+        <li>Lower roll decides warm up map (any song &lt;5 minutes, not in map pool)</li>
+        <li>Higher roll decides first map</li>
+        <li>Thereafter, loser decides next map</li>
+	<li>Tiebreaker match decides last round</li>
+	<li>Tiebreaker is No Mod only</li>
+	<li>Each mod can only be selected once by a respective player</li>
+	<li>No Fail can be applied to preserve past scores</li>
+	<li>On first disconnect, the opponent decides to rematch or not</li>
+	<li>Second and further disconnects are counted as losses</li>
+	<li>Check in with your referee after your match to verify the end results</li>
+        <li>Missing your match counts as a loss; please show up a few minutes before your alotted time slot so you and the administrators can set up in time</li>
+	<li>Two consecutive weekend misses without contact leads to your removal from the tournament</li>
+	<li>Trolling, unsportsmanlike behavior, and other harassment will not be tolerated and can factor into your removal</li>
+	<li>League rules and structure are subject to alterations by the administrators</li>
+	<li>Administrators have the final say in any disputes</li>
+      </ul>
+  </div>
 
 
-      <div id="sponsors">
-	<h2>Sponsors</h2>
-	<a href="http://www.huiontablet.com/"><img src="http://osuuci.com/tournaments/osl/huion.png"/></a>
-	
-	<p>We're happy to announce our sponsorship with <a href="http://www.huiontablet.com/">Huion</a>. For you osu! players, you may know them as the manufacturor for the official <a href="http://store.ppy.sh/store/product/1">osu!tablet</a>. Huion has agreed to help sponsor the tournament with <a href="http://www.huiontablet.com/420.html">420</a> (the model! not the number!) tablets. We'll be offering the tablets as prizes to our top placers as well as raffling off tablets week by week. We're very grateful for the opportunity to work with them. Help support them by buying from their <a href="http://www.huiontablet.com/all-products/">site store</a> or <a href="http://www.amazon.com/s?me=A30BRCK3LE6SB5">Amazon store</a>!</p>
-      </div>
+  <div id="sponsors">
+    <h2>Sponsors</h2>
+    <a href="http://www.huiontablet.com/"><img src="http://osuuci.com/tournaments/osl/huion.png"/></a>
+    
+    <p>We're happy to announce our sponsorship with <a href="http://www.huiontablet.com/">Huion</a>. For you osu! players, you may know them as the manufacturor for the official <a href="http://store.ppy.sh/store/product/1">osu!tablet</a>. Huion has agreed to help sponsor the tournament with <a href="http://www.huiontablet.com/420.html">420</a> (the model! not the number!) tablets. We'll be offering the tablets as prizes to our top placers as well as raffling off tablets week by week. We're very grateful for the opportunity to work with them. Help support them by buying from their <a href="http://www.huiontablet.com/all-products/">site store</a> or <a href="http://www.amazon.com/s?me=A30BRCK3LE6SB5">Amazon store</a>!</p>
+  </div>
 
-      <div id="prizing">
-	<h2>Prizing</h2>
-	<p>The top 8 will be memorialized on the website and awarded Huion tablets. osu! supporter will also be granted to the top 8. Here's a breakdown of the supporter provided by osu! and OSL staff:</p>
-	<ul>
-	  <li>1st place: 4 months</li>
-	  <li>2nd place: 3 months</li>
-	  <li>3rd place: 2 months</li>
-	  <li>4-8th place: 1 month</li>
-	</ul>
-      </div>
+  <div id="prizing">
+    <h2>Prizing</h2>
+    <p>The top 8 will be memorialized on the website and awarded Huion tablets. osu! supporter will also be granted to the top 8. Here's a breakdown of the supporter provided by osu! and OSL staff:</p>
+    <ul>
+      <li>1st place: 4 months</li>
+      <li>2nd place: 3 months</li>
+      <li>3rd place: 2 months</li>
+      <li>4-8th place: 1 month</li>
+    </ul>
+  </div>
 
-      <div id="mappools">
-	<h2>Map Pools</h2>
-	<p>Each Swiss week will feature one tiebreaker song and an additional number of songs from the pool below. The selection process will be at the discretion of the tournament organizers. Check each week's map pool section to see our picked songs. Playoffs will have their own specific map pools and will be released at a later date.</p>
-	<h2>Swiss Map Pool</h2>
-	<p>Each week we will be providing a client download with the week's set of songs added in as a collection. Don't feel the urge to have to painstakingly download 120 songs for Swiss!</p>
-      </div>
-    </div>
+  <div id="mappools">
+    <h2>Map Pools</h2>
+    <p>Each Swiss week will feature one tiebreaker song and an additional number of songs from the pool below. The selection process will be at the discretion of the tournament organizers. Check each week's map pool section to see our picked songs. Playoffs will have their own specific map pools and will be released at a later date.</p>
+    <h2>Semi/Grand Final Map Pool</h2>
+    <p>These maps will be played for the semi, consolation, and grand finals on Sunday September 27. These matches will be Bo9. A collection file will be provided later in the week.</p>
     <div class="mappool">
       <table>
 	<tr>
@@ -763,1548 +638,405 @@
 	</tr>
 	<tr>
 	  <td>
-	    None</td>
+	    No Mod</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/661705&m=0">Asymmetry</a>
+	    <a href="https://osu.ppy.sh/s/134151">Airman ga Taosenai (SOUND HOLIC Ver.)</a>
+	  </td>
+	  <td>
+	    Hanatan</td>
+	  <td>CRN's Extra</td>
+	  <td>3:45</td>
+	  <td>5.92
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    No Mod</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/594307">No title</a>
 	  </td>
 	  <td>
 	    Reol</td>
-	  <td>P A N's Extra</td>
-	  <td>4:10</td>
-	  <td>5.49
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/140937">BSPower Explosion</a>
-	  </td>
-	  <td>
-	    Memme</td>
-	  <td>0108</td>
-	  <td>2:17</td>
-	  <td>5.3
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/s/201482">Buriki No Dance</a>
-	  </td>
-	  <td>
-	    MARiA</td>
-	  <td>AriExtra</td>
-	  <td>3:05</td>
-	  <td>5.44
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/242093">Chikyuu No Saigo Kokuhaku</a>
-	  </td>
-	  <td>
-	    Wotamin</td>
-	  <td>Love</td>
-	  <td>4:20</td>
-	  <td>5.34
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/470732">Colorful (tamane's apostate remix)</a>
-	  </td>
-	  <td>
-	    ClariS</td>
 	  <td>Insane</td>
-	  <td>5:20</td>
-	  <td>5.38
+	  <td>3:54</td>
+	  <td>5.83
 	  </td>
 	</tr>
 	<tr>
 	  <td>
-	    None</td>
+	    No Mod</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/s/253313">EGOiSTiC SHOOTER</a>
+	    <a href="https://osu.ppy.sh/b/719231">Fairytale,</a>
 	  </td>
 	  <td>
-	    LiSA</td>
-	  <td>Kyshiro's Extra</td>
+	    cillia</td>
+	  <td>Jimsane</td>
+	  <td>4:04</td>
+	  <td>5.92
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    No Mod</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/495633&m=0">IMAGINARY LIKE THE JUSTICE</a>
+	  </td>
+	  <td>
+	    Nanahoshi Kangenkakudan</td>
+	  <td>captin's Legend</td>
+	  <td>4:04</td>
+	  <td>6.11
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    No Mod</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/611751">perthed again (yambabom remix)</a>
+	  </td>
+	  <td>
+	    Hitori Tori</td>
+	  <td>Extra</td>
 	  <td>2:51</td>
-	  <td>5.3
+	  <td>6
 	  </td>
 	</tr>
 	<tr>
 	  <td>
-	    None</td>
+	    Hidden</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/432839">End Time</a>
+	    <a href="https://osu.ppy.sh/b/96055">Recommended Spell</a>
 	  </td>
 	  <td>
-	    Cres</td>
-	  <td>Extra</td>
-	  <td>2:08</td>
-	  <td>5.37
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/538930">Fallen</a>
-	  </td>
-	  <td>
-	    EGOIST</td>
-	  <td>Extra</td>
-	  <td>4:26</td>
-	  <td>5.42
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/403050">Fallen Angel (El Poco Maro Remix)</a>
-	  </td>
-	  <td>
-	    Mitsunori Ikeda</td>
-	  <td>Ascension</td>
-	  <td>5:49</td>
-	  <td>5.03
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/599487&m=0">Fuyu Ga Kureta Yokan</a>
-	  </td>
-	  <td>
-	    BiBi</td>
-	  <td>Expert</td>
-	  <td>2:15</td>
-	  <td>5.28
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/s/294042">Hoshi Ga Matataku Konna Yoru Ni</a>
-	  </td>
-	  <td>
-	    Supercell</td>
-	  <td>Starlight</td>
-	  <td>4:24</td>
-	  <td>5:27
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/391228">Hoshizora No Ima</a>
-	  </td>
-	  <td>
-	    Sagara Kokoro</td>
-	  <td>Extra</td>
-	  <td>3:49</td>
-	  <td>5.41
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/315260">Kakushigoto</a>
-	  </td>
-	  <td>
-	    yuikonnu</td>
-	  <td>Insane</td>
-	  <td>3:44</td>
-	  <td>5.25
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/306018">Kobito of the Shining Needle~Little Princess</a>
-	  </td>
-	  <td>
-	    ZUN</td>
-	  <td>Extra</td>
-	  <td>3:40</td>
-	  <td>5.2
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/679226&m=0">Kokuhaku Yokou Renshuu</a>
-	  </td>
-	  <td>
-	    sana</td>
-	  <td>Expert</td>
-	  <td>2:37</td>
-	  <td>5.13
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/320098&m=0">Last Remote-type gamma</a>
-	  </td>
-	  <td>
-	    Dark PHOENiX</td>
-	  <td>Lunatic</td>
-	  <td>3:53</td>
-	  <td>5.24
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/285086">MATRYOSHKA</a>
-	  </td>
-	  <td>
-	    Lon</td>
-	  <td>Extra</td>
-	  <td>3:30</td>
-	  <td>5.31
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/509913">MERRY MERRY MENU...NE</a>
-	  </td>
-	  <td>
-	    Tamura Yukari</td>
-	  <td>Extra</td>
-	  <td>3:19</td>
-	  <td>5.31
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/592367&m=0">MIIRO</a>
-	  </td>
-	  <td>
-	    AKINO</td>
-	  <td>Miiro</td>
-	  <td>4:10</td>
+	    Hatsune Miku</td>
+	  <td>Spell</td>
+	  <td>3:00</td>
 	  <td>5.46
 	  </td>
 	</tr>
 	<tr>
 	  <td>
-	    None</td>
+	    Hidden</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/187410&m=0">Noushou Sakuretsu Girl</a>
+	    <a href="https://osu.ppy.sh/s/242462">Wish upon Twin Stars</a>
 	  </td>
 	  <td>
-	    rerulili</td>
-	  <td>Rin</td>
-	  <td>2.54</td>
-	  <td>5.16
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/366140">Omega Rhythm</a>
-	  </td>
-	  <td>
-	    UPLIFT SPICE</td>
-	  <td>Extra</td>
-	  <td>2:47</td>
-	  <td>5.47
+	    xi</td>
+	  <td>Wish</td>
+	  <td>1:56</td>
+	  <td>5.81
 	  </td>
 	</tr>
 	<tr>
 	  <td>
-	    None</td>
+	    Hidden</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/462678">Pumpin' Junkies</a>
-	  </td>
-	  <td>
-	    t+pazolite</td>
-	  <td>DUGEM</td>
-	  <td>4:08</td>
-	  <td>5.45
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/177735">Real World</a>
-	  </td>
-	  <td>
-	    nano.RIPE</td>
-	  <td>Insane</td>
-	  <td>3:22</td>
-	  <td>5.21
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/s/65853">Shotgun Senorita (Zardonic Remix)</a>
-	  </td>
-	  <td>
-	    Blue Stahli</td>
-	  <td>Insane</td>
-	  <td>2:11</td>
-	  <td>5.33
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/391182&m=0">Streaming Heart</a>
-	  </td>
-	  <td>
-	    DECO*27</td>
-	  <td>Extra</td>
-	  <td>2:57</td>
-	  <td>5.38
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/492543">Swing it!!</a>
+	    <a href="https://osu.ppy.sh/b/425761&m=0">Rave-up Tonight</a>
 	  </td>
 	  <td>
 	    Fear, and Loathing in Las Vegas</td>
 	  <td>Extra</td>
-	  <td>3:37</td>
-	  <td>5.33
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/692389">Won't You Stay</a>
-	  </td>
-	  <td>
-	    Indivision & Livewire (feat. Tasha Baxter)</td>
-	  <td>Forever And a Day</td>
-	  <td>5:07</td>
-	  <td>5.37
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/227772&m=0">Xhroria</a>
-	  </td>
-	  <td>
-	    An</td>
-	  <td>Another</td>
-	  <td>2:01</td>
-	  <td>5.18
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/537989">Yellow Smile (bms edit)</a>
-	  </td>
-	  <td>
-	    BMS (Junk)</td>
-	  <td>Extra</td>
-	  <td>1:55</td>
-	  <td>5.2
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    None</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/351993&m=0">Yotsuya-San ni Yoroshiku</a>
-	  </td>
-	  <td>
-	    Himeringo</td>
-	  <td>Insane</td>
-	  <td>2:51</td>
-	  <td>5.15
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/438061">lull ~Soshite Bokura  Wa~</a>
-	  </td>
-	  <td>
-	    Ray</td>
-	  <td>Insane</td>
-	  <td>4:28 (2:58)</td>
-	  <td>3.77 (5.27)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/204428">1 Year, 2 Months, 20 Days</a>
-	  </td>
-	  <td>
-	    BRIGHT</td>
-	  <td>Athena</td>
-	  <td>2:57 (1:58)</td>
-	  <td>3.69 (5.17)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/445437">Addicted To You</a>
-	  </td>
-	  <td>
-	    Avicii</td>
-	  <td>Insane</td>
-	  <td>2:20 (1:33)</td>
-	  <td>3.63 (4.96)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/239259">Atom Smasher</a>
-	  </td>
-	  <td>
-	    Blue Stahli</td>
-	  <td>Advanced</td>
-	  <td>2:09 (1:26)</td>
-	  <td>3.7 (5.16)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/361011">Click</a>
-	  </td>
-	  <td>
-	    ClariS</td>
-	  <td>Insane</td>
-	  <td>4:21 (2:54)</td>
-	  <td>3.7 (5.03)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/118751">Clover (Short Ver.)</a>
-	  </td>
-	  <td>
-	    Duca</td>
-	  <td>Insane</td>
-	  <td>1:34 (1:02)</td>
-	  <td>3.57 (4.95)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/344789?m=0">Crystalis Fantasia</a>
-	  </td>
-	  <td>
-	    Halcyonic Falcon X</td>
-	  <td>Insane</td>
-	  <td>2:21 (1:34)</td>
-	  <td>3.86 (5.32)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/145157">Crystalize</a>
-	  </td>
-	  <td>
-	    Lindsey Stirling</td>
-	  <td>Black Snow</td>
-	  <td>3:56 (2:37)</td>
-	  <td>3.56 (4.95)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/167535">Electric Angel</a>
-	  </td>
-	  <td>
-	    Yasuo-P</td>
-	  <td>Collab</td>
-	  <td>1:34 (1:02)</td>
-	  <td>3.62 (5.02)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/236486">Expectation</a>
-	  </td>
-	  <td>
-	    Girl's Day</td>
-	  <td>Hard</td>
-	  <td>3:15 (2:10)</td>
-	  <td>3.56 (4.97)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/404940">Find You</a>
-	  </td>
-	  <td>
-	    Zedd</td>
-	  <td>Reclaimed</td>
-	  <td>3:15 (2:10)</td>
-	  <td>3.59 (4.88)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/113679">Flower Flag</a>
-	  </td>
-	  <td>
-	    FELT</td>
-	  <td>happy30</td>
-	  <td>4:19 (2:52)</td>
-	  <td>3.85 (5.2)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/155404?m=0">Golden Sky</a>
-	  </td>
-	  <td>
-	    SMiLE.dk</td>
-	  <td>Insane</td>
-	  <td>2:59 (1:59)</td>
-	  <td>3.61 (5.05)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/413446&m=0">Kaze ni Naru</a>
-	  </td>
-	  <td>
-	    Tsuji Ayano</td>
-	  <td>Insane</td>
-	  <td>2.44 (1:49)</td>
-	  <td>3.56 (4.91)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/162237">Knowing</a>
-	  </td>
-	  <td>
-	    Marika</td>
-	  <td>cRyo's Insane</td>
-	  <td>2:59 (1:59)</td>
-	  <td>3.55 (4.92)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/92471">Melancholic</a>
-	  </td>
-	  <td>
-	    Tianshi</td>
-	  <td>Rin</td>
-	  <td>3:34 (2:22)</td>
-	  <td>3.73 (5.08)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/142375">Namida No Chikai</a>
-	  </td>
-	  <td>
-	    KOTOKO</td>
-	  <td>D.N.Angel</td>
-	  <td>3:49 (2:32)</td>
-	  <td>3.58 (4.95)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/274085">Natuskoi Hanabi</a>
-	  </td>
-	  <td>
-	    Shano x 40mp</td>
-	  <td>Insane</td>
-	  <td>4:36 (3:04)</td>
-	  <td>3.91 (5.35)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/200829">Ningen tte Sonna Mono Ne</a>
-	  </td>
-	  <td>
-	    KOKIA</td>
-	  <td>Humanity</td>
-	  <td>4:54 (3:16)</td>
-	  <td>3.68 (5.07)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/199049">River Flows In You (Love Note)</a>
-	  </td>
-	  <td>
-	    Yiruma & Skulee</td>
-	  <td>Love Note</td>
-	  <td>2:20 (1:33)</td>
-	  <td>3.5 (4.92)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/369921">Satellites</a>
-	  </td>
-	  <td>
-	    September</td>
-	  <td>Insane</td>
-	  <td>3:08 (2:05)</td>
-	  <td>3.93 (5.18)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/291562">Saturday Night</a>
-	  </td>
-	  <td>
-	    Crayon Pop</td>
-	  <td>Hard</td>
-	  <td>3:03 (2:02)</td>
-	  <td>3.56 (4.93)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/174604">Sayonara Trip</a>
-	  </td>
-	  <td>
-	    Dormir</td>
-	  <td>Insane</td>
-	  <td>1:41 (1:07)</td>
-	  <td>3.69 (5.08)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/283593">Setting Sail, Coming Home</a>
-	  </td>
-	  <td>
-	    Darren Korb</td>
-	  <td>Insane</td>
-	  <td>2:40 (1:46)</td>
-	  <td>3.6 (4.98)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/327256&m=0">Sky Gate</a>
-	  </td>
-	  <td>
-	    FELT</td>
-	  <td>Lunatic</td>
-	  <td>4:40 (3:06)</td>
-	  <td>3.70 (5.04)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/126134">Spec Dake Tsukaikitta Gamesoft no You Desuu</a>
-	  </td>
-	  <td>
-	    Horinaka Yuki</td>
-	  <td>Insane</td>
-	  <td>2:13 (1:28)</td>
-	  <td>3.59 (4.98)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/351189">Tear Rain</a>
-	  </td>
-	  <td>
-	    cYsmix feat. Emmy</td>
-	  <td>Insane</td>
-	  <td>3:59 (2:39)</td>
-	  <td>3.61 (5.01)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/558277">Torinoko City</a>
-	  </td>
-	  <td>
-	    Hanatan</td>
-	  <td>Insane</td>
-	  <td>3:20 (2:13)</td>
-	  <td>3.82 (5.32)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/308908&m=0">Vidro Moyou</a>
-	  </td>
-	  <td>
-	    yanaginagi</td>
-	  <td>Insane</td>
-	  <td>4:34 (3:02)</td>
-	  <td>3.72 (5.12)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Double Time</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/654387">Wings of Courage -Sore o Koete-</a>
-	  </td>
-	  <td>
-	    Kawada Mami</td>
-	  <td>wkyik's Insane</td>
-	  <td>2:14 (1:29)</td>
-	  <td>3.64 (5.01)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/660622">Anchor (Noisestorm Remix)</a>
-	  </td>
-	  <td>
-	    Tritonal</td>
-	  <td>Asphyxia's Insane</td>
-	  <td>1:50</td>
-	  <td>4.83 (5.14)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/623277">AOI-IRO STEP</a>
-	  </td>
-	  <td>
-	    yuikonnu</td>
-	  <td>Insane</td>
-	  <td>3:01</td>
-	  <td>4.71 (5.02)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/355510">Blueberry Train</a>
-	  </td>
-	  <td>
-	    Uchida Aya</td>
-	  <td>Insane</td>
-	  <td>3:41</td>
-	  <td>4.57 (4.84)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/281918">Bonfire</a>
-	  </td>
-	  <td>
-	    Knife Party</td>
-	  <td>Rage</td>
-	  <td>2:23</td>
-	  <td>4.64 (4.93)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/261725">Calamity Fortune</a>
-	  </td>
-	  <td>
-	    LeaF</td>
-	  <td>SCV's Lunatic</td>
-	  <td>2:10</td>
-	  <td>4.84 (5.02)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/154165">ChaiN De/structioN</a>
-	  </td>
-	  <td>
-	    sakuzyo</td>
-	  <td>Loneliness</td>
-	  <td>3:15</td>
-	  <td>4.73 (4.87)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/542996">City Never Sleeps</a>
-	  </td>
-	  <td>
-	    Dirty Androids</td>
-	  <td>Special</td>
-	  <td>1:38</td>
-	  <td>4.84 (5.04)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/465524">City Streets</a>
-	  </td>
-	  <td>
-	    The Frim</td>
-	  <td>Asphyxia's Insane</td>
-	  <td>1:47</td>
-	  <td>4.72 (5.02)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/358273">Far East Nightbird (kors k Remix)</a>
-	  </td>
-	  <td>
-	    Nekomata Master</td>
-	  <td>RLC's Extra</td>
-	  <td>4:55</td>
-	  <td>4.78 (4.95)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/150621">HEAVENLY MOON</a>
-	  </td>
-	  <td>
-	    TATSH</td>
-	  <td>Extreme</td>
-	  <td>1:53</td>
-	  <td>4.73 (4.9)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/364473">Idola no Circus</a>
-	  </td>
-	  <td>
-	    Himeringo</td>
-	  <td>Expert</td>
-	  <td>3:28</td>
-	  <td>4.69 (4.96)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/360736">Jet Rocket</a>
-	  </td>
-	  <td>
-	    LiSA</td>
-	  <td>RUN!!!</td>
-	  <td>4:21</td>
-	  <td>4.82 (5.12)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/152180">LUNA</a>
-	  </td>
-	  <td>
-	    ALiCE'S EMOTION</td>
-	  <td>Lunatic</td>
-	  <td>3:30</td>
-	  <td>4.74 (5.03)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/282166">MEPHISTO</a>
-	  </td>
-	  <td>
-	    BMS(LeaF)</td>
-	  <td>Another</td>
-	  <td>1:59</td>
-	  <td>4.79 (4.96)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/538573">Mind in Motion</a>
-	  </td>
-	  <td>
-	    Doxx & Feint</td>
-	  <td>galv's Insane</td>
-	  <td>2:20</td>
-	  <td>4.59 (4.89)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/487759">Mono Crossroad</a>
-	  </td>
-	  <td>
-	    Amatsuki & Midori Inu.</td>
-	  <td>Insane</td>
-	  <td>3:35</td>
-	  <td>4.64 (4.95)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/116169">Mystic Oriental Love Consultation</a>
-	  </td>
-	  <td>
-	    U2 Akiyama</td>
-	  <td>Lunatic</td>
-	  <td>2:25</td>
-	  <td>4.79 (4.95)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/183357">ODDS&ENDS</a>
-	  </td>
-	  <td>
-	    ryo (supercell)</td>
-	  <td>Insane</td>
-	  <td>5:27</td>
-	  <td>4.76 (5.02)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/337873">Outer Science</a>
-	  </td>
-	  <td>
-	    Amatsuki</td>
-	  <td>Insane</td>
-	  <td>3:12</td>
-	  <td>4.68 (4.98)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/301690">ResoAlive</a>
-	  </td>
-	  <td>
-	    Baru</td>
-	  <td>Hanabi's Insane</td>
-	  <td>3:58</td>
-	  <td>4.72 (4.84)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/635493&m=0">Rubeus</a>
-	  </td>
-	  <td>
-	    RedMuffleR</td>
-	  <td>Fort's EXHAUST</td>
-	  <td>1:48</td>
-	  <td>4.75 (4.84)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/172360">Saigetsu (Midnight Moon Walker Remix)</a>
-	  </td>
-	  <td>
-	    Tama</td>
-	  <td>Lunatic</td>
-	  <td>3:37</td>
-	  <td>4.62 (5.02)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/159316">Sekai de Hitotsu no Takaramono</a>
-	  </td>
-	  <td>
-	    Bokura wa Piacere!</td>
-	  <td>Insane</td>
-	  <td>2:30</td>
-	  <td>4.62 (4.93)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/396009">Shin'ai</a>
-	  </td>
-	  <td>
-	    RURUTIA</td>
-	  <td>AI's Extra</td>
-	  <td>3:07</td>
-	  <td>4.86 (5.18)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/392786">Silver Temple</a>
-	  </td>
-	  <td>
-	    Eguchi Takahiro</td>
-	  <td>Insane</td>
-	  <td>2:08</td>
-	  <td>4.64 (4.95)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/476149">Super Nuko World</a>
-	  </td>
-	  <td>
-	    yuikonnu & ayaponzu*</td>
-	  <td>Insane</td>
-	  <td>3:38</td>
-	  <td>4.84 (5.12)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/207846">Sweet Cendrillon Drug</a>
-	  </td>
-	  <td>
-	    MuryokuP</td>
-	  <td>Cendrillon</td>
-	  <td>3:57</td>
-	  <td>4.72 (5)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/169387">Tenshinraman High Collar Hime</a>
-	  </td>
-	  <td>
-	    capitaro</td>
-	  <td>Insane</td>
-	  <td>2:53</td>
-	  <td>4.78 (5.07)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/294387">World's End Dancehall (Rocketman Remix)</a>
-	  </td>
-	  <td>
-	    wowaka</td>
-	  <td>Insane</td>
-	  <td>4:19</td>
-	  <td>4.81 (5.12)
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hard Rock</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/188819">Yasashisa no Riyuu</a>
-	  </td>
-	  <td>
-	    Choucho</td>
-	  <td>Insane</td>
-	  <td>4:09</td>
-	  <td>4.55 (4.84)
+	  <td>3:20</td>
+	  <td>5.86
 	  </td>
 	</tr>
 	<tr>
 	  <td>
 	    Hidden</td>
 	  <td>
-	    <a href="http://bloodcat.com/osu/?q=158075&!b">snow storm -euphoria-</a>
+	    <a href="https://osu.ppy.sh/b/223397">Gigantic O.T.N</a>
 	  </td>
 	  <td>
-	    Yooh</td>
-	  <td>INFINITE</td>
-	  <td>1:56</td>
-	  <td>5.13
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/497467">A Genesis</a>
-	  </td>
-	  <td>
-	    nano</td>
-	  <td>Rakuen's Extra</td>
-	  <td>3:25</td>
-	  <td>5.05
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/239037">Arc</a>
-	  </td>
-	  <td>
-	    Mind Vortex</td>
-	  <td>Nsane</td>
-	  <td>2:33</td>
-	  <td>5.18
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/297411">artcore JINJA</a>
-	  </td>
-	  <td>
-	    An</td>
-	  <td>Lunatic</td>
-	  <td>2:12</td>
-	  <td>5.01
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/116006">Blue Night</a>
-	  </td>
-	  <td>
-	    Renard</td>
-	  <td>DoKo</td>
-	  <td>3:37</td>
-	  <td>5.08
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/236344">Clarity feat. Foxes (IOSYS uno DENPA Remix)</a>
-	  </td>
-	  <td>
-	    Zedd</td>
-	  <td>Insane</td>
-	  <td>3:32</td>
-	  <td>5.02
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/633373">Clock Strikes</a>
-	  </td>
-	  <td>
-	    ONE OK ROCK</td>
-	  <td>Insane</td>
-	  <td>3:29</td>
-	  <td>5.02
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/304602">Daisy</a>
-	  </td>
-	  <td>
-	    Lifetheory</td>
-	  <td>Blossom</td>
-	  <td>1:49</td>
-	  <td>4.92
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/559809&m=0">Desire</a>
-	  </td>
-	  <td>
-	    Gavin G</td>
-	  <td>Aspiration</td>
-	  <td>2:25</td>
-	  <td>4.97
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/s/111760">Diamond</a>
-	  </td>
-	  <td>
-	    Toyosaki Aki</td>
-	  <td>Insane</td>
-	  <td>2:58</td>
-	  <td>4.95
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/334843&m=0">Dimensional Tripper!!!!</a>
-	  </td>
-	  <td>
-	    nao</td>
-	  <td>wkyik's Insane</td>
-	  <td>4:10</td>
-	  <td>5.1
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/148000">Flight of the Bamboo Cutter</a>
-	  </td>
-	  <td>
-	    Masayoshi Minoshima</td>
-	  <td>Lunatic</td>
-	  <td>3:23</td>
-	  <td>5.16
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/93842">Gold Dust</a>
-	  </td>
-	  <td>
-	    DJ Fresh</td>
-	  <td>Insane</td>
-	  <td>3:01</td>
-	  <td>4.93
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/560651">Injection</a>
-	  </td>
-	  <td>
-	    Rise Against</td>
-	  <td>oko's Insane</td>
-	  <td>2:21</td>
-	  <td>5.08
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/255700">Kanjou Chemistry (Drum 'n' <a href="https://osu.ppy.sh/u/Bass">Bass</a> Remix)</a>
-	  </td>
-	  <td>
-	    senya</td>
-	  <td>Exw</td>
-	  <td>4:39</td>
-	  <td>5.15
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/139634">Killer Song (Short Ver.)</a>
-	  </td>
-	  <td>
-	    yanaginagi</td>
-	  <td>Insane</td>
-	  <td>2:12</td>
-	  <td>4.92
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/165883">Kimi no Kiseki</a>
-	  </td>
-	  <td>
-	    Hanatan</td>
+	    Wotamin</td>
 	  <td>S.S</td>
-	  <td>2:22</td>
-	  <td>5.15
+	  <td>2:55</td>
+	  <td>5.77
 	  </td>
 	</tr>
 	<tr>
 	  <td>
 	    Hidden</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/290799">Kunoichi Demo Koi ga Shitai</a>
+	    <a href="https://osu.ppy.sh/b/555965">Toumei Elegy</a>
 	  </td>
 	  <td>
-	    yuikonnu & ayaponzu*</td>
-	  <td>Insane</td>
-	  <td>3:51</td>
-	  <td>5.1
+	    Konuko</td>
+	  <td>wkyikawa's Couple Extra</td>
+	  <td>3:19</td>
+	  <td>5.81
 	  </td>
 	</tr>
 	<tr>
 	  <td>
-	    Hidden</td>
+	    Hard Rock</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/131362">Manima ni (Short ver)</a>
+	    <a href="https://osu.ppy.sh/b/729986&m=0">The Pink Fields</a>
 	  </td>
 	  <td>
-	    paraoka</td>
-	  <td>0108</td>
+	    Doxx & Feint </td>
+	  <td>Divine</td>
+	  <td>1:39</td>
+	  <td>5.76 (5.3)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Hard Rock</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/655380">Alone Together (Krewella Remix)</a>
+	  </td>
+	  <td>
+	    Fall Out Boy</td>
+	  <td>Alone</td>
+	  <td>3:10</td>
+	  <td>5.92 (5.54)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Hard Rock</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/468994">REANIMATE</a>
+	  </td>
+	  <td>
+	    Warak</td>
+	  <td>Mythol's Extra</td>
 	  <td>2:30</td>
-	  <td>4.98
+	  <td>5.67 (5.31)
 	  </td>
 	</tr>
 	<tr>
 	  <td>
-	    Hidden</td>
+	    Hard Rock</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/162405">Mission ASCII</a>
+	    <a href="https://osu.ppy.sh/b/695636&m=0">One For All, All For One</a>
 	  </td>
 	  <td>
-	    Traktion</td>
-	  <td>Another</td>
-	  <td>3:18</td>
-	  <td>5.02
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/318975">MORE&MORE</a>
-	  </td>
-	  <td>
-	    Toyosaki Aki</td>
-	  <td>Insane</td>
-	  <td>3:38</td>
-	  <td>5.06
+	    Razihel & Virtual Riot</td>
+	  <td>deetz' Expert</td>
+	  <td>3:58</td>
+	  <td>5.67 (5.26)
 	  </td>
 	</tr>
 	<tr>
 	  <td>
-	    Hidden</td>
+	    Hard Rock</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/547229">Move That Body (Extended Mix)</a>
-	  </td>
-	  <td>
-	    Sota Fujimori</td>
-	  <td>RLC's Insane</td>
-	  <td>4:00</td>
-	  <td>4.92
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/315660">MY COLOR</a>
-	  </td>
-	  <td>
-	    Perfume</td>
-	  <td>Extra</td>
-	  <td>4:52</td>
-	  <td>5
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/245658">No Brand Girls</a>
+	    <a href="https://osu.ppy.sh/b/379071">Bokura no LIVE Kimi to no LIFE</a>
 	  </td>
 	  <td>
 	    u's</td>
+	  <td>Daisuki</td>
+	  <td>5:17</td>
+	  <td>5.55 (5.35)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Double Time</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/380012">with you</a>
+	  </td>
+	  <td>
+	    ClariS</td>
+	  <td>Laurier's Insane</td>
+	  <td>2:32 (3:42)</td>
+	  <td>6.16 (4.4)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Double Time</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/405955?m=0">Planet Hell</a>
+	  </td>
+	  <td>
+	    Nightwish</td>
 	  <td>Insane</td>
-	  <td>3:59</td>
-	  <td>4.93
+	  <td>1:31 (2:15)</td>
+	  <td>5.97 (4.2)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Double Time</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/634245?m=0">My Truth~Rondo Capriccioso</a>
+	  </td>
+	  <td>
+	    Miyazono Kaori(CV.Taneda Risa)</td>
+	  <td>April</td>
+	  <td>3:19 (4:56)</td>
+	  <td>5.51 (4.02)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Double Time</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/158107">Sins -Kokoro no Tsumi-</a>
+	  </td>
+	  <td>
+	    SYNC.ART'S</td>
+	  <td>Nightmare</td>
+	  <td>2:43 (3:58)</td>
+	  <td>5.84 (4.16)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Double Time</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/140361">Owari no Sekai kara</a>
+	  </td>
+	  <td>
+	    yanaginagi</td>
+	  <td>Snowy</td>
+	  <td>3:05 (4:34)</td>
+	  <td>5.64 (4.04)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Tiebreaker</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/509510">Hanairo Biyori</a>
+	  </td>
+	  <td>
+	    Natsume Chiaki</td>
+	  <td>Awaken's Challenge</td>
+	  <td>3:11</td>
+	  <td>6.48</td>
+	</tr>
+      </table>
+    </div>
+    
+    <h2>Ro16/Ro8 Map Pool</h2>
+    <p>These maps will be played on Saturday September 26. Keep in mind rounds will be Bo7. A collection file will be made later in the week.</p>
+    <div class="mappool">
+      <table>
+	<tr>
+	  <td>Mod</td>
+	  <td>Title</td>
+	  <td>Artist</td>
+	  <td>Difficulty</td>
+	  <td>Length</td>
+	  <td>Stars</td>
+	</tr>
+	<tr>
+	  <td>
+	    No Mod</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/s/157617">Lost Time Memory</a>
+	  </td>
+	  <td>
+	    Jin</td>
+	  <td>Memory</td>
+	  <td>4:29</td>
+	  <td>5.62
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    No Mod</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/s/219728">Asu no Yozora Shoukaihan</a>
+	  </td>
+	  <td>
+	    Orangestar</td>
+	  <td>iyasine_sk's Extra</td>
+	  <td>2:52</td>
+	  <td>5.67
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    No Mod</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/s/290184">Furisodation (DJ HKT's bootleg MIX)</a>
+	  </td>
+	  <td>
+	    Kyary Pamyu Pamyu</td>
+	  <td>Drunk on Love</td>
+	  <td>5:24</td>
+	  <td>5.66
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    No Mod</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/474981">Remote Control</a>
+	  </td>
+	  <td>
+	    Kradness & Reol</td>
+	  <td>seXXXtra AR 9.6</td>
+	  <td>5:00</td>
+	  <td>5.62
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    No Mod</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/434438">Crescent Moon Island Boss Theme</a>
+	  </td>
+	  <td>
+	    Studio EIM</td>
+	  <td>[ -Scarlet's- ] Extra</td>
+	  <td>2:04</td>
+	  <td>5.57
 	  </td>
 	</tr>
 	<tr>
 	  <td>
 	    Hidden</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/502418">Once Again</a>
+	    <a href="https://osu.ppy.sh/b/665663">Bakuna*Testroyer</a>
 	  </td>
 	  <td>
-	    Tristam </td>
-	  <td>Collab</td>
-	  <td>3:31</td>
-	  <td>4.98
+	    ARM feat. Nanahira</td>
+	  <td>Expert</td>
+	  <td>1:55</td>
+	  <td>5.42
 	  </td>
 	</tr>
 	<tr>
 	  <td>
 	    Hidden</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/416213">Otsukimi Recital</a>
+	    <a href="https://osu.ppy.sh/b/451528">Ame to Asphalt</a>
 	  </td>
 	  <td>
-	    ayaponzu*</td>
+	    40mP feat. yuikonnu</td>
 	  <td>Insane</td>
-	  <td>3:34</td>
-	  <td>5.11
+	  <td>4:08</td>
+	  <td>5.29
 	  </td>
 	</tr>
 	<tr>
 	  <td>
 	    Hidden</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/244781">Red Like Roses</a>
+	    <a href="https://osu.ppy.sh/b/692596">Flicker</a>
 	  </td>
 	  <td>
-	    Jeff William's</td>
-	  <td>Ruby</td>
-	  <td>3:07</td>
-	  <td>5.11
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Hidden</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/676636">Up All Night</a>
-	  </td>
-	  <td>
-	    Owl City</td>
-	  <td>Insane</td>
-	  <td>3:30</td>
-	  <td>4.98
+	    Porter Robinson</td>
+	  <td>fufufu</td>
+	  <td>4:31</td>
+	  <td>5.36
 	  </td>
 	</tr>
 	<tr>
 	  <td>
 	    Hidden</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/186061">VALLIS-NERIA</a>
+	    <a href="https://osu.ppy.sh/b/545052&m=0">in the Garden</a>
 	  </td>
 	  <td>
-	    DJ YOSHITAKA</td>
-	  <td>Extreme</td>
-	  <td>2:05</td>
+	    Primary</td>
+	  <td>Ha-N</td>
+	  <td>3:37</td>
 	  <td>5.17
 	  </td>
 	</tr>
@@ -2312,172 +1044,1892 @@
 	  <td>
 	    Hidden</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/164183">Wahrheit</a>
+	    <a href="https://osu.ppy.sh/b/740692">Rally Go Round</a>
 	  </td>
 	  <td>
-	    Yousei Teikoku</td>
-	  <td>Saten</td>
-	  <td>4:29</td>
-	  <td>5.18
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Tiebreaker</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/s/129676">Happy End of the World</a>
-	  </td>
-	  <td>
-	    xi</td>
-	  <td>Happy End</td>
-	  <td>6:17</td>
-	  <td>5.45
+	    LiSA</td>
+	  <td>Extra</td>
+	  <td>4:18</td>
+	  <td>5.44
 	  </td>
 	</tr>
 	<tr>
 	  <td>
-	    Tiebreaker</td>
+	    Hard Rock</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/335628?m=0">Kanjou No Matenrou~ World's End</a>
-	  </td>
-	  <td>
-	    Demetori</td>
-	  <td>Extra Stage</td>
-	  <td>7:07</td>
-	  <td>5.6
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Tiebreaker</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/s/179699">Kanshou no Matenrou</a>
+	    <a href="https://osu.ppy.sh/b/703997">PLAZMA</a>
 	  </td>
 	  <td>
 	    Halozy</td>
-	  <td>Eternal</td>
-	  <td>5:26</td>
-	  <td>5.67
+	  <td>Nightmare</td>
+	  <td>5:37</td>
+	  <td>5.32 (5.65)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Hard Rock</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/441721">sola</a>
+	  </td>
+	  <td>
+	    nmk</td>
+	  <td>Flower's Lunatic</td>
+	  <td>2:16</td>
+	  <td>5.3 (5.63)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Hard Rock</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/662054">Starlite</a>
+	  </td>
+	  <td>
+	    KOAN Sound & asa</td>
+	  <td>Incandescent</td>
+	  <td>3:08</td>
+	  <td>5.29 (5.67)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Hard Rock</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/188411">Wonderful World</a>
+	  </td>
+	  <td>
+	    Shintani Ryoko</td>
+	  <td>Hello, Good-bye</td>
+	  <td>4:27</td>
+	  <td>5.1 (5.27)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Hard Rock</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/155164">Crayon</a>
+	  </td>
+	  <td>
+	    bibuko</td>
+	  <td>Crayon</td>
+	  <td>2:23</td>
+	  <td>5.19 (5.51)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Double Time</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/543814">Koyoi Index</a>
+	  </td>
+	  <td>
+	    senya</td>
+	  <td>Lunatic</td>
+	  <td>3:41 (2:27)</td>
+	  <td>4.04 (5.68)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Double Time</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/486131&m=0">My dear friend</a>
+	  </td>
+	  <td>
+	    ChouCho</td>
+	  <td>Insane</td>
+	  <td>3:45 (2:30)</td>
+	  <td>4.06 (5.59)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Double Time</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/153771?m=0">Miren</a>
+	  </td>
+	  <td>
+	    Chata</td>
+	  <td>Insane</td>
+	  <td>3:56 (2:37)</td>
+	  <td>3.82 (5.26)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Double Time</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/609741?m=0">Byoumei Koiwazurai</a>
+	  </td>
+	  <td>
+	    Sana</td>
+	  <td>Insane</td>
+	  <td>4:01 (2:40)</td>
+	  <td>4.19 (5.83)
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    Double Time</td>
+	  <td>
+	    <a href="https://osu.ppy.sh/b/96142?m=0">Streamline Prism</a>
+	  </td>
+	  <td>
+	    Kagamine Rin & Len</td>
+	  <td>Jumping</td>
+	  <td>3:10 (2:06)</td>
+	  <td>4.05 (5.55)
 	  </td>
 	</tr>
 	<tr>
 	  <td>
 	    Tiebreaker</td>
 	  <td>
-	    <a href="https://osu.ppy.sh/b/541990?m=0">Neuronecia</a>
+	    <a href="https://osu.ppy.sh/b/736214&m=0">Highscore</a>
 	  </td>
 	  <td>
-	    Functional Phantom</td>
-	  <td>Ethereal</td>
-	  <td>3:26</td>
-	  <td>5.28
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Tiebreaker</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/339640">Smoke Tower</a>
-	  </td>
-	  <td>
-	    Renard</td>
-	  <td>Trauma</td>
-	  <td>3:49</td>
-	  <td>5.55
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Tiebreaker</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/631413">The Bravery</a>
-	  </td>
-	  <td>
-	    supercell</td>
-	  <td>Depravity</td>
-	  <td>5:48</td>
-	  <td>5.54
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Tiebreaker</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/s/79498">The Pretender</a>
-	  </td>
-	  <td>
-	    Infected Mushroom</td>
-	  <td>Pretender</td>
-	  <td>6:25</td>
-	  <td>5.49
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Tiebreaker</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/s/207045">Trail of Dust</a>
-	  </td>
-	  <td>
-	    TRakker</td>
-	  <td>Trail of Star</td>
-	  <td>6:30</td>
-	  <td>5.67
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Tiebreaker</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/b/550235?m=0">United (L.A.O.S Remix)</a>
-	  </td>
-	  <td>
-	    Our Stolen Theory</td>
-	  <td>Infinity</td>
-	  <td>5:25</td>
-	  <td>5.64
-	  </td>
-	</tr>
-	<tr>
-	  <td>
-	    Tiebreaker</td>
-	  <td>
-	    <a href="https://osu.ppy.sh/s/301703">World's End, Girl's Rondo (Asterisk DnB Remix)</a>
-	  </td>
-	  <td>
-	    Wakeshima Kanon</td>
-	  <td>World's End</td>
-	  <td>5:40</td>
-	  <td>5.27</td>
+	    Panda Eyes & Terminite</td>
+	  <td>Extra</td>
+	  <td>4</td>
+	  <td>6.01</td>
 	</tr>
       </table>
     </div>
     
-    <div class="mid">
+    
+    <h2>Swiss Map Pool</h2>
+    <p>Each week we will be providing a client download with the week's set of songs added in as a collection. Don't feel the urge to have to painstakingly download 120 songs for Swiss!</p>
+  </div>
+</div>
+<div class="mappool">
+  <table>
+    <tr>
+      <td>Mod</td>
+      <td>Title</td>
+      <td>Artist</td>
+      <td>Difficulty</td>
+      <td>Length</td>
+      <td>Stars</td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/661705&m=0">Asymmetry</a>
+      </td>
+      <td>
+	Reol</td>
+      <td>P A N's Extra</td>
+      <td>4:10</td>
+      <td>5.49
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/140937">BSPower Explosion</a>
+      </td>
+      <td>
+	Memme</td>
+      <td>0108</td>
+      <td>2:17</td>
+      <td>5.3
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/s/201482">Buriki No Dance</a>
+      </td>
+      <td>
+	MARiA</td>
+      <td>AriExtra</td>
+      <td>3:05</td>
+      <td>5.44
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/242093">Chikyuu No Saigo Kokuhaku</a>
+      </td>
+      <td>
+	Wotamin</td>
+      <td>Love</td>
+      <td>4:20</td>
+      <td>5.34
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/470732">Colorful (tamane's apostate remix)</a>
+      </td>
+      <td>
+	ClariS</td>
+      <td>Insane</td>
+      <td>5:20</td>
+      <td>5.38
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/s/253313">EGOiSTiC SHOOTER</a>
+      </td>
+      <td>
+	LiSA</td>
+      <td>Kyshiro's Extra</td>
+      <td>2:51</td>
+      <td>5.3
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/432839">End Time</a>
+      </td>
+      <td>
+	Cres</td>
+      <td>Extra</td>
+      <td>2:08</td>
+      <td>5.37
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/538930">Fallen</a>
+      </td>
+      <td>
+	EGOIST</td>
+      <td>Extra</td>
+      <td>4:26</td>
+      <td>5.42
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/403050">Fallen Angel (El Poco Maro Remix)</a>
+      </td>
+      <td>
+	Mitsunori Ikeda</td>
+      <td>Ascension</td>
+      <td>5:49</td>
+      <td>5.03
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/599487&m=0">Fuyu Ga Kureta Yokan</a>
+      </td>
+      <td>
+	BiBi</td>
+      <td>Expert</td>
+      <td>2:15</td>
+      <td>5.28
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/s/294042">Hoshi Ga Matataku Konna Yoru Ni</a>
+      </td>
+      <td>
+	Supercell</td>
+      <td>Starlight</td>
+      <td>4:24</td>
+      <td>5:27
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/391228">Hoshizora No Ima</a>
+      </td>
+      <td>
+	Sagara Kokoro</td>
+      <td>Extra</td>
+      <td>3:49</td>
+      <td>5.41
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/315260">Kakushigoto</a>
+      </td>
+      <td>
+	yuikonnu</td>
+      <td>Insane</td>
+      <td>3:44</td>
+      <td>5.25
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/306018">Kobito of the Shining Needle~Little Princess</a>
+      </td>
+      <td>
+	ZUN</td>
+      <td>Extra</td>
+      <td>3:40</td>
+      <td>5.2
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/679226&m=0">Kokuhaku Yokou Renshuu</a>
+      </td>
+      <td>
+	sana</td>
+      <td>Expert</td>
+      <td>2:37</td>
+      <td>5.13
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/320098&m=0">Last Remote-type gamma</a>
+      </td>
+      <td>
+	Dark PHOENiX</td>
+      <td>Lunatic</td>
+      <td>3:53</td>
+      <td>5.24
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/285086">MATRYOSHKA</a>
+      </td>
+      <td>
+	Lon</td>
+      <td>Extra</td>
+      <td>3:30</td>
+      <td>5.31
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/509913">MERRY MERRY MENU...NE</a>
+      </td>
+      <td>
+	Tamura Yukari</td>
+      <td>Extra</td>
+      <td>3:19</td>
+      <td>5.31
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/592367&m=0">MIIRO</a>
+      </td>
+      <td>
+	AKINO</td>
+      <td>Miiro</td>
+      <td>4:10</td>
+      <td>5.46
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/187410&m=0">Noushou Sakuretsu Girl</a>
+      </td>
+      <td>
+	rerulili</td>
+      <td>Rin</td>
+      <td>2.54</td>
+      <td>5.16
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/366140">Omega Rhythm</a>
+      </td>
+      <td>
+	UPLIFT SPICE</td>
+      <td>Extra</td>
+      <td>2:47</td>
+      <td>5.47
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/462678">Pumpin' Junkies</a>
+      </td>
+      <td>
+	t+pazolite</td>
+      <td>DUGEM</td>
+      <td>4:08</td>
+      <td>5.45
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/177735">Real World</a>
+      </td>
+      <td>
+	nano.RIPE</td>
+      <td>Insane</td>
+      <td>3:22</td>
+      <td>5.21
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/s/65853">Shotgun Senorita (Zardonic Remix)</a>
+      </td>
+      <td>
+	Blue Stahli</td>
+      <td>Insane</td>
+      <td>2:11</td>
+      <td>5.33
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/391182&m=0">Streaming Heart</a>
+      </td>
+      <td>
+	DECO*27</td>
+      <td>Extra</td>
+      <td>2:57</td>
+      <td>5.38
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/492543">Swing it!!</a>
+      </td>
+      <td>
+	Fear, and Loathing in Las Vegas</td>
+      <td>Extra</td>
+      <td>3:37</td>
+      <td>5.33
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/692389">Won't You Stay</a>
+      </td>
+      <td>
+	Indivision & Livewire (feat. Tasha Baxter)</td>
+      <td>Forever And a Day</td>
+      <td>5:07</td>
+      <td>5.37
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/227772&m=0">Xhroria</a>
+      </td>
+      <td>
+	An</td>
+      <td>Another</td>
+      <td>2:01</td>
+      <td>5.18
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/537989">Yellow Smile (bms edit)</a>
+      </td>
+      <td>
+	BMS (Junk)</td>
+      <td>Extra</td>
+      <td>1:55</td>
+      <td>5.2
+      </td>
+    </tr>
+    <tr>
+      <td>
+	None</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/351993&m=0">Yotsuya-San ni Yoroshiku</a>
+      </td>
+      <td>
+	Himeringo</td>
+      <td>Insane</td>
+      <td>2:51</td>
+      <td>5.15
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/438061">lull ~Soshite Bokura  Wa~</a>
+      </td>
+      <td>
+	Ray</td>
+      <td>Insane</td>
+      <td>4:28 (2:58)</td>
+      <td>3.77 (5.27)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/204428">1 Year, 2 Months, 20 Days</a>
+      </td>
+      <td>
+	BRIGHT</td>
+      <td>Athena</td>
+      <td>2:57 (1:58)</td>
+      <td>3.69 (5.17)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/445437">Addicted To You</a>
+      </td>
+      <td>
+	Avicii</td>
+      <td>Insane</td>
+      <td>2:20 (1:33)</td>
+      <td>3.63 (4.96)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/239259">Atom Smasher</a>
+      </td>
+      <td>
+	Blue Stahli</td>
+      <td>Advanced</td>
+      <td>2:09 (1:26)</td>
+      <td>3.7 (5.16)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/361011">Click</a>
+      </td>
+      <td>
+	ClariS</td>
+      <td>Insane</td>
+      <td>4:21 (2:54)</td>
+      <td>3.7 (5.03)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/118751">Clover (Short Ver.)</a>
+      </td>
+      <td>
+	Duca</td>
+      <td>Insane</td>
+      <td>1:34 (1:02)</td>
+      <td>3.57 (4.95)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/344789?m=0">Crystalis Fantasia</a>
+      </td>
+      <td>
+	Halcyonic Falcon X</td>
+      <td>Insane</td>
+      <td>2:21 (1:34)</td>
+      <td>3.86 (5.32)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/145157">Crystalize</a>
+      </td>
+      <td>
+	Lindsey Stirling</td>
+      <td>Black Snow</td>
+      <td>3:56 (2:37)</td>
+      <td>3.56 (4.95)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/167535">Electric Angel</a>
+      </td>
+      <td>
+	Yasuo-P</td>
+      <td>Collab</td>
+      <td>1:34 (1:02)</td>
+      <td>3.62 (5.02)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/236486">Expectation</a>
+      </td>
+      <td>
+	Girl's Day</td>
+      <td>Hard</td>
+      <td>3:15 (2:10)</td>
+      <td>3.56 (4.97)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/404940">Find You</a>
+      </td>
+      <td>
+	Zedd</td>
+      <td>Reclaimed</td>
+      <td>3:15 (2:10)</td>
+      <td>3.59 (4.88)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/113679">Flower Flag</a>
+      </td>
+      <td>
+	FELT</td>
+      <td>happy30</td>
+      <td>4:19 (2:52)</td>
+      <td>3.85 (5.2)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/155404?m=0">Golden Sky</a>
+      </td>
+      <td>
+	SMiLE.dk</td>
+      <td>Insane</td>
+      <td>2:59 (1:59)</td>
+      <td>3.61 (5.05)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/413446&m=0">Kaze ni Naru</a>
+      </td>
+      <td>
+	Tsuji Ayano</td>
+      <td>Insane</td>
+      <td>2.44 (1:49)</td>
+      <td>3.56 (4.91)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/162237">Knowing</a>
+      </td>
+      <td>
+	Marika</td>
+      <td>cRyo's Insane</td>
+      <td>2:59 (1:59)</td>
+      <td>3.55 (4.92)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/92471">Melancholic</a>
+      </td>
+      <td>
+	Tianshi</td>
+      <td>Rin</td>
+      <td>3:34 (2:22)</td>
+      <td>3.73 (5.08)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/142375">Namida No Chikai</a>
+      </td>
+      <td>
+	KOTOKO</td>
+      <td>D.N.Angel</td>
+      <td>3:49 (2:32)</td>
+      <td>3.58 (4.95)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/274085">Natuskoi Hanabi</a>
+      </td>
+      <td>
+	Shano x 40mp</td>
+      <td>Insane</td>
+      <td>4:36 (3:04)</td>
+      <td>3.91 (5.35)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/200829">Ningen tte Sonna Mono Ne</a>
+      </td>
+      <td>
+	KOKIA</td>
+      <td>Humanity</td>
+      <td>4:54 (3:16)</td>
+      <td>3.68 (5.07)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/199049">River Flows In You (Love Note)</a>
+      </td>
+      <td>
+	Yiruma & Skulee</td>
+      <td>Love Note</td>
+      <td>2:20 (1:33)</td>
+      <td>3.5 (4.92)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/369921">Satellites</a>
+      </td>
+      <td>
+	September</td>
+      <td>Insane</td>
+      <td>3:08 (2:05)</td>
+      <td>3.93 (5.18)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/291562">Saturday Night</a>
+      </td>
+      <td>
+	Crayon Pop</td>
+      <td>Hard</td>
+      <td>3:03 (2:02)</td>
+      <td>3.56 (4.93)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/174604">Sayonara Trip</a>
+      </td>
+      <td>
+	Dormir</td>
+      <td>Insane</td>
+      <td>1:41 (1:07)</td>
+      <td>3.69 (5.08)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/283593">Setting Sail, Coming Home</a>
+      </td>
+      <td>
+	Darren Korb</td>
+      <td>Insane</td>
+      <td>2:40 (1:46)</td>
+      <td>3.6 (4.98)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/327256&m=0">Sky Gate</a>
+      </td>
+      <td>
+	FELT</td>
+      <td>Lunatic</td>
+      <td>4:40 (3:06)</td>
+      <td>3.70 (5.04)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/126134">Spec Dake Tsukaikitta Gamesoft no You Desuu</a>
+      </td>
+      <td>
+	Horinaka Yuki</td>
+      <td>Insane</td>
+      <td>2:13 (1:28)</td>
+      <td>3.59 (4.98)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/351189">Tear Rain</a>
+      </td>
+      <td>
+	cYsmix feat. Emmy</td>
+      <td>Insane</td>
+      <td>3:59 (2:39)</td>
+      <td>3.61 (5.01)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/558277">Torinoko City</a>
+      </td>
+      <td>
+	Hanatan</td>
+      <td>Insane</td>
+      <td>3:20 (2:13)</td>
+      <td>3.82 (5.32)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/308908&m=0">Vidro Moyou</a>
+      </td>
+      <td>
+	yanaginagi</td>
+      <td>Insane</td>
+      <td>4:34 (3:02)</td>
+      <td>3.72 (5.12)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Double Time</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/654387">Wings of Courage -Sore o Koete-</a>
+      </td>
+      <td>
+	Kawada Mami</td>
+      <td>wkyik's Insane</td>
+      <td>2:14 (1:29)</td>
+      <td>3.64 (5.01)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/660622">Anchor (Noisestorm Remix)</a>
+      </td>
+      <td>
+	Tritonal</td>
+      <td>Asphyxia's Insane</td>
+      <td>1:50</td>
+      <td>4.83 (5.14)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/623277">AOI-IRO STEP</a>
+      </td>
+      <td>
+	yuikonnu</td>
+      <td>Insane</td>
+      <td>3:01</td>
+      <td>4.71 (5.02)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/355510">Blueberry Train</a>
+      </td>
+      <td>
+	Uchida Aya</td>
+      <td>Insane</td>
+      <td>3:41</td>
+      <td>4.57 (4.84)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/281918">Bonfire</a>
+      </td>
+      <td>
+	Knife Party</td>
+      <td>Rage</td>
+      <td>2:23</td>
+      <td>4.64 (4.93)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/261725">Calamity Fortune</a>
+      </td>
+      <td>
+	LeaF</td>
+      <td>SCV's Lunatic</td>
+      <td>2:10</td>
+      <td>4.84 (5.02)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/154165">ChaiN De/structioN</a>
+      </td>
+      <td>
+	sakuzyo</td>
+      <td>Loneliness</td>
+      <td>3:15</td>
+      <td>4.73 (4.87)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/542996">City Never Sleeps</a>
+      </td>
+      <td>
+	Dirty Androids</td>
+      <td>Special</td>
+      <td>1:38</td>
+      <td>4.84 (5.04)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/465524">City Streets</a>
+      </td>
+      <td>
+	The Frim</td>
+      <td>Asphyxia's Insane</td>
+      <td>1:47</td>
+      <td>4.72 (5.02)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/358273">Far East Nightbird (kors k Remix)</a>
+      </td>
+      <td>
+	Nekomata Master</td>
+      <td>RLC's Extra</td>
+      <td>4:55</td>
+      <td>4.78 (4.95)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/150621">HEAVENLY MOON</a>
+      </td>
+      <td>
+	TATSH</td>
+      <td>Extreme</td>
+      <td>1:53</td>
+      <td>4.73 (4.9)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/364473">Idola no Circus</a>
+      </td>
+      <td>
+	Himeringo</td>
+      <td>Expert</td>
+      <td>3:28</td>
+      <td>4.69 (4.96)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/360736">Jet Rocket</a>
+      </td>
+      <td>
+	LiSA</td>
+      <td>RUN!!!</td>
+      <td>4:21</td>
+      <td>4.82 (5.12)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/152180">LUNA</a>
+      </td>
+      <td>
+	ALiCE'S EMOTION</td>
+      <td>Lunatic</td>
+      <td>3:30</td>
+      <td>4.74 (5.03)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/282166">MEPHISTO</a>
+      </td>
+      <td>
+	BMS(LeaF)</td>
+      <td>Another</td>
+      <td>1:59</td>
+      <td>4.79 (4.96)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/538573">Mind in Motion</a>
+      </td>
+      <td>
+	Doxx & Feint</td>
+      <td>galv's Insane</td>
+      <td>2:20</td>
+      <td>4.59 (4.89)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/487759">Mono Crossroad</a>
+      </td>
+      <td>
+	Amatsuki & Midori Inu.</td>
+      <td>Insane</td>
+      <td>3:35</td>
+      <td>4.64 (4.95)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/116169">Mystic Oriental Love Consultation</a>
+      </td>
+      <td>
+	U2 Akiyama</td>
+      <td>Lunatic</td>
+      <td>2:25</td>
+      <td>4.79 (4.95)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/183357">ODDS&ENDS</a>
+      </td>
+      <td>
+	ryo (supercell)</td>
+      <td>Insane</td>
+      <td>5:27</td>
+      <td>4.76 (5.02)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/337873">Outer Science</a>
+      </td>
+      <td>
+	Amatsuki</td>
+      <td>Insane</td>
+      <td>3:12</td>
+      <td>4.68 (4.98)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/301690">ResoAlive</a>
+      </td>
+      <td>
+	Baru</td>
+      <td>Hanabi's Insane</td>
+      <td>3:58</td>
+      <td>4.72 (4.84)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/635493&m=0">Rubeus</a>
+      </td>
+      <td>
+	RedMuffleR</td>
+      <td>Fort's EXHAUST</td>
+      <td>1:48</td>
+      <td>4.75 (4.84)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/172360">Saigetsu (Midnight Moon Walker Remix)</a>
+      </td>
+      <td>
+	Tama</td>
+      <td>Lunatic</td>
+      <td>3:37</td>
+      <td>4.62 (5.02)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/159316">Sekai de Hitotsu no Takaramono</a>
+      </td>
+      <td>
+	Bokura wa Piacere!</td>
+      <td>Insane</td>
+      <td>2:30</td>
+      <td>4.62 (4.93)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/396009">Shin'ai</a>
+      </td>
+      <td>
+	RURUTIA</td>
+      <td>AI's Extra</td>
+      <td>3:07</td>
+      <td>4.86 (5.18)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/392786">Silver Temple</a>
+      </td>
+      <td>
+	Eguchi Takahiro</td>
+      <td>Insane</td>
+      <td>2:08</td>
+      <td>4.64 (4.95)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/476149">Super Nuko World</a>
+      </td>
+      <td>
+	yuikonnu & ayaponzu*</td>
+      <td>Insane</td>
+      <td>3:38</td>
+      <td>4.84 (5.12)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/207846">Sweet Cendrillon Drug</a>
+      </td>
+      <td>
+	MuryokuP</td>
+      <td>Cendrillon</td>
+      <td>3:57</td>
+      <td>4.72 (5)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/169387">Tenshinraman High Collar Hime</a>
+      </td>
+      <td>
+	capitaro</td>
+      <td>Insane</td>
+      <td>2:53</td>
+      <td>4.78 (5.07)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/294387">World's End Dancehall (Rocketman Remix)</a>
+      </td>
+      <td>
+	wowaka</td>
+      <td>Insane</td>
+      <td>4:19</td>
+      <td>4.81 (5.12)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hard Rock</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/188819">Yasashisa no Riyuu</a>
+      </td>
+      <td>
+	Choucho</td>
+      <td>Insane</td>
+      <td>4:09</td>
+      <td>4.55 (4.84)
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="http://bloodcat.com/osu/?q=158075&!b">snow storm -euphoria-</a>
+      </td>
+      <td>
+	Yooh</td>
+      <td>INFINITE</td>
+      <td>1:56</td>
+      <td>5.13
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/497467">A Genesis</a>
+      </td>
+      <td>
+	nano</td>
+      <td>Rakuen's Extra</td>
+      <td>3:25</td>
+      <td>5.05
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/239037">Arc</a>
+      </td>
+      <td>
+	Mind Vortex</td>
+      <td>Nsane</td>
+      <td>2:33</td>
+      <td>5.18
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/297411">artcore JINJA</a>
+      </td>
+      <td>
+	An</td>
+      <td>Lunatic</td>
+      <td>2:12</td>
+      <td>5.01
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/116006">Blue Night</a>
+      </td>
+      <td>
+	Renard</td>
+      <td>DoKo</td>
+      <td>3:37</td>
+      <td>5.08
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/236344">Clarity feat. Foxes (IOSYS uno DENPA Remix)</a>
+      </td>
+      <td>
+	Zedd</td>
+      <td>Insane</td>
+      <td>3:32</td>
+      <td>5.02
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/633373">Clock Strikes</a>
+      </td>
+      <td>
+	ONE OK ROCK</td>
+      <td>Insane</td>
+      <td>3:29</td>
+      <td>5.02
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/304602">Daisy</a>
+      </td>
+      <td>
+	Lifetheory</td>
+      <td>Blossom</td>
+      <td>1:49</td>
+      <td>4.92
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/559809&m=0">Desire</a>
+      </td>
+      <td>
+	Gavin G</td>
+      <td>Aspiration</td>
+      <td>2:25</td>
+      <td>4.97
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/s/111760">Diamond</a>
+      </td>
+      <td>
+	Toyosaki Aki</td>
+      <td>Insane</td>
+      <td>2:58</td>
+      <td>4.95
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/334843&m=0">Dimensional Tripper!!!!</a>
+      </td>
+      <td>
+	nao</td>
+      <td>wkyik's Insane</td>
+      <td>4:10</td>
+      <td>5.1
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/148000">Flight of the Bamboo Cutter</a>
+      </td>
+      <td>
+	Masayoshi Minoshima</td>
+      <td>Lunatic</td>
+      <td>3:23</td>
+      <td>5.16
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/93842">Gold Dust</a>
+      </td>
+      <td>
+	DJ Fresh</td>
+      <td>Insane</td>
+      <td>3:01</td>
+      <td>4.93
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/560651">Injection</a>
+      </td>
+      <td>
+	Rise Against</td>
+      <td>oko's Insane</td>
+      <td>2:21</td>
+      <td>5.08
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/255700">Kanjou Chemistry (Drum 'n' <a href="https://osu.ppy.sh/u/Bass">Bass</a> Remix)</a>
+      </td>
+      <td>
+	senya</td>
+      <td>Exw</td>
+      <td>4:39</td>
+      <td>5.15
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/139634">Killer Song (Short Ver.)</a>
+      </td>
+      <td>
+	yanaginagi</td>
+      <td>Insane</td>
+      <td>2:12</td>
+      <td>4.92
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/165883">Kimi no Kiseki</a>
+      </td>
+      <td>
+	Hanatan</td>
+      <td>S.S</td>
+      <td>2:22</td>
+      <td>5.15
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/290799">Kunoichi Demo Koi ga Shitai</a>
+      </td>
+      <td>
+	yuikonnu & ayaponzu*</td>
+      <td>Insane</td>
+      <td>3:51</td>
+      <td>5.1
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/131362">Manima ni (Short ver)</a>
+      </td>
+      <td>
+	paraoka</td>
+      <td>0108</td>
+      <td>2:30</td>
+      <td>4.98
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/162405">Mission ASCII</a>
+      </td>
+      <td>
+	Traktion</td>
+      <td>Another</td>
+      <td>3:18</td>
+      <td>5.02
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/318975">MORE&MORE</a>
+      </td>
+      <td>
+	Toyosaki Aki</td>
+      <td>Insane</td>
+      <td>3:38</td>
+      <td>5.06
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/547229">Move That Body (Extended Mix)</a>
+      </td>
+      <td>
+	Sota Fujimori</td>
+      <td>RLC's Insane</td>
+      <td>4:00</td>
+      <td>4.92
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/315660">MY COLOR</a>
+      </td>
+      <td>
+	Perfume</td>
+      <td>Extra</td>
+      <td>4:52</td>
+      <td>5
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/245658">No Brand Girls</a>
+      </td>
+      <td>
+	u's</td>
+      <td>Insane</td>
+      <td>3:59</td>
+      <td>4.93
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/502418">Once Again</a>
+      </td>
+      <td>
+	Tristam </td>
+      <td>Collab</td>
+      <td>3:31</td>
+      <td>4.98
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/416213">Otsukimi Recital</a>
+      </td>
+      <td>
+	ayaponzu*</td>
+      <td>Insane</td>
+      <td>3:34</td>
+      <td>5.11
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/244781">Red Like Roses</a>
+      </td>
+      <td>
+	Jeff William's</td>
+      <td>Ruby</td>
+      <td>3:07</td>
+      <td>5.11
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/676636">Up All Night</a>
+      </td>
+      <td>
+	Owl City</td>
+      <td>Insane</td>
+      <td>3:30</td>
+      <td>4.98
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/186061">VALLIS-NERIA</a>
+      </td>
+      <td>
+	DJ YOSHITAKA</td>
+      <td>Extreme</td>
+      <td>2:05</td>
+      <td>5.17
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Hidden</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/164183">Wahrheit</a>
+      </td>
+      <td>
+	Yousei Teikoku</td>
+      <td>Saten</td>
+      <td>4:29</td>
+      <td>5.18
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Tiebreaker</td>
+      <td>
+	<a href="https://osu.ppy.sh/s/129676">Happy End of the World</a>
+      </td>
+      <td>
+	xi</td>
+      <td>Happy End</td>
+      <td>6:17</td>
+      <td>5.45
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Tiebreaker</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/335628?m=0">Kanjou No Matenrou~ World's End</a>
+      </td>
+      <td>
+	Demetori</td>
+      <td>Extra Stage</td>
+      <td>7:07</td>
+      <td>5.6
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Tiebreaker</td>
+      <td>
+	<a href="https://osu.ppy.sh/s/179699">Kanshou no Matenrou</a>
+      </td>
+      <td>
+	Halozy</td>
+      <td>Eternal</td>
+      <td>5:26</td>
+      <td>5.67
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Tiebreaker</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/541990?m=0">Neuronecia</a>
+      </td>
+      <td>
+	Functional Phantom</td>
+      <td>Ethereal</td>
+      <td>3:26</td>
+      <td>5.28
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Tiebreaker</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/339640">Smoke Tower</a>
+      </td>
+      <td>
+	Renard</td>
+      <td>Trauma</td>
+      <td>3:49</td>
+      <td>5.55
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Tiebreaker</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/631413">The Bravery</a>
+      </td>
+      <td>
+	supercell</td>
+      <td>Depravity</td>
+      <td>5:48</td>
+      <td>5.54
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Tiebreaker</td>
+      <td>
+	<a href="https://osu.ppy.sh/s/79498">The Pretender</a>
+      </td>
+      <td>
+	Infected Mushroom</td>
+      <td>Pretender</td>
+      <td>6:25</td>
+      <td>5.49
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Tiebreaker</td>
+      <td>
+	<a href="https://osu.ppy.sh/s/207045">Trail of Dust</a>
+      </td>
+      <td>
+	TRakker</td>
+      <td>Trail of Star</td>
+      <td>6:30</td>
+      <td>5.67
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Tiebreaker</td>
+      <td>
+	<a href="https://osu.ppy.sh/b/550235?m=0">United (L.A.O.S Remix)</a>
+      </td>
+      <td>
+	Our Stolen Theory</td>
+      <td>Infinity</td>
+      <td>5:25</td>
+      <td>5.64
+      </td>
+    </tr>
+    <tr>
+      <td>
+	Tiebreaker</td>
+      <td>
+	<a href="https://osu.ppy.sh/s/301703">World's End, Girl's Rondo (Asterisk DnB Remix)</a>
+      </td>
+      <td>
+	Wakeshima Kanon</td>
+      <td>World's End</td>
+      <td>5:40</td>
+      <td>5.27</td>
+    </tr>
+  </table>
+</div>
 
-      <div id="faq">
-	<h2>FAQs</h2>
-	<p>
-	  <ul>
-	    <li><u>What are Swiss rounds and how do they work?</u></li>
-	  </ul>
-	<p>Swiss is a tournament format in which players compete against other players relative to their skill level and tournament performance. The tournament begins by pitting players against others with similar seeding (in this case, determined by osu! ranking). If you win a match, you gain a score point, and if you lose or don't show, you gain no points. In the next Swiss round, two players with similar score points will then match up against each other.</p>
-	<p>In this tournament, we will play 10 rounds of Swiss, corresponding to each week. Top players and top player seedings are determined by the highest score points earned from winning matches. Ties are handled by giving preference for victories over higher seeded opponents and total game victories (i.e. losing by 1-2 is better than losing by 0-2).</p>
-	<p>While we like the fairness and competitiveness of Swiss, it is not a very spectator friendly format. Many games go on at once, and a champion isn't crowned by beating people through a bracket but rather through longterm performance. As such, we will have separate a single elimination playoffs after the Swiss rounds for a more satisfying finale.</p>
-	<p>
-	  <ul>
-	    <li><u>Something came up, and I can't play on one weekend. What can I do?</u></li>
-	  </ul>
-	<p>By registering for this tournament, you agree to free up a few hours over the weekend for the league. However, unforseen events can happen, and we'll do our best to accommodate for unexpected situations. Contact us as soon as possible if you have a problem. Message us at least a week in advance so we, you, and your opponent have time to talk and reschedule your match.</p>
+<div class="mid">
 
-	<p>If you contact us too late and your opponent declines a match, you will have to forfeit your round for the week. We stress again to also stick to the weekend schedule and only enter the league if you are sure that your weekends are free. Repeat rematches and no shows can lead to your removal from the league.</p>
-      </div>
+  <div id="faq">
+    <h2>FAQs</h2>
+    <p>
+      <ul>
+	<li><u>What are Swiss rounds and how do they work?</u></li>
+      </ul>
+    <p>Swiss is a tournament format in which players compete against other players relative to their skill level and tournament performance. The tournament begins by pitting players against others with similar seeding (in this case, determined by osu! ranking). If you win a match, you gain a score point, and if you lose or don't show, you gain no points. In the next Swiss round, two players with similar score points will then match up against each other.</p>
+    <p>In this tournament, we will play 10 rounds of Swiss, corresponding to each week. Top players and top player seedings are determined by the highest score points earned from winning matches. Ties are handled by giving preference for victories over higher seeded opponents and total game victories (i.e. losing by 1-2 is better than losing by 0-2).</p>
+    <p>While we like the fairness and competitiveness of Swiss, it is not a very spectator friendly format. Many games go on at once, and a champion isn't crowned by beating people through a bracket but rather through longterm performance. As such, we will have separate a single elimination playoffs after the Swiss rounds for a more satisfying finale.</p>
+    <p>
+      <ul>
+	<li><u>Something came up, and I can't play on one weekend. What can I do?</u></li>
+      </ul>
+    <p>By registering for this tournament, you agree to free up a few hours over the weekend for the league. However, unforseen events can happen, and we'll do our best to accommodate for unexpected situations. Contact us as soon as possible if you have a problem. Message us at least a week in advance so we, you, and your opponent have time to talk and reschedule your match.</p>
 
-      <div id="contact">
-	<h2>Contact</h2>
-	<p>If you have any questions, comments, or concerns, feel free to message any one of the <a href="http://osuuci.com/officers">osu! UCI officers</a>, send an email to <a href="mailto:osuuci@gmail.com">osuuci@gmail.com</a>, or <a href="https://twitter.com/osuUCI">Tweet</a> at us. If you have any conflicts with your games, it is important you get in touch with us as soon as possible so we can reschedule your match.</p>
-      </div>
-    </div>
+    <p>If you contact us too late and your opponent declines a match, you will have to forfeit your round for the week. We stress again to also stick to the weekend schedule and only enter the league if you are sure that your weekends are free. Repeat rematches and no shows can lead to your removal from the league.</p>
+  </div>
 
-  </body>
+  <div id="contact">
+    <h2>Contact</h2>
+    <p>If you have any questions, comments, or concerns, feel free to message any one of the <a href="http://osuuci.com/officers">osu! UCI officers</a>, send an email to <a href="mailto:osuuci@gmail.com">osuuci@gmail.com</a>, or <a href="https://twitter.com/osuUCI">Tweet</a> at us. If you have any conflicts with your games, it is important you get in touch with us as soon as possible so we can reschedule your match.</p>
+  </div>
+</div>
+
+</body>
 </html>
