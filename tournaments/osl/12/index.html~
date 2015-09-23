@@ -157,15 +157,401 @@
       
       <div id="schedule">
 	<h2>Schedule</h2>
-	<p>The playoffs schedule will be made after week 10 ends. Please note that games will start 4 hours earlier than usual, from 4-8PM PDT/GMT-7 each day. If you cannot make this schedule under any circumstances, please let us know immediately.</p>
+	<p>Please note that games will start 4 hours earlier than usual, from 4-8PM PDT/GMT-7 each day. If you cannot make this schedule under any circumstances, please let us know immediately.</p>
 	<iframe src="http://challonge.com/oslplayoffs/module" width="650" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+
+	<h2>Round of 16</h2>
+	<p></p>
+	<div class="oslschedule">
+	  <table>
+	    <tr>
+	      <td>Lobby</td>
+	      <td>Time <small>(PDT/GMT-7)</small></td>
+	      <td>Player 1</td>
+	      <td>Player 2</td>
+	      <td>Score</td>
+	      <td>Match History</td>
+	      <td>Admin</td>
+	    </tr>
+	    <tr>
+	      <td>
+		OSL:A
+	      </td>
+	      <td>
+		Sat 4:00PM
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/natalia">Natalia</a>
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/saltstick">saltstick</a>
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
+	      </td>
+	    </tr>
+	    <tr>
+	      <td>
+		OSL:B
+	      </td>
+	      <td>
+		Sat 4:00PM
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/IOException">IOException</a>
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/PainSinger">PainSinger</a>
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+	      </td>
+	    </tr>
+
+	    	    <tr>
+	      <td>
+		OSL:C
+	      </td>
+	      <td>
+		Sat 4:00PM
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/aaerok">Aaerok</a>
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/iSlapWhale">iSlapWhale</a>
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/Shintomo">Shintomo</a>
+	      </td>
+	    </tr>
+
+	    <tr>
+	      <td>
+		OSL:lmao
+	      </td>
+	      <td>
+		Sat 4:00PM
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/Andrew">Andrew</a>
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/selavy">selavy</a>
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/mauler68">mauler68</a>
+	      </td>
+	    </tr>
+	    <tr>
+	      <td>
+		OSL:E
+	      </td>
+	      <td>
+		Sat 5:00PM
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/fedora%20goose">Fedora Goose</a>
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/funnytrees">funnytrees</a>
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
+	      </td>
+	    </tr>
+
+	    <tr>
+	      <td>
+		OSL:F
+	      </td>
+	      <td>
+		Sat 5:00PM
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/[Neetwork]">[Neetwork]</a>
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/Ex6TenZ">Ex6TenZ</a>
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+	      </td>
+	    </tr>
+	    <tr>
+	      <td>
+		OSL:G
+	      </td>
+	      <td>
+		Sat 5:00PM
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/kennyyam">kennyyam</a>
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/ScrYpt">ScrYpt</a>
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+	      </td>
+	    </tr>
+
+	    <tr>
+	      <td>
+		OSL:H
+	      </td>
+	      <td>
+		Sat 5:00PM
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/keanu">Keanu</a>
+	      </td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/ecliptus">Ecliptus</a>
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/mauler68">mauler68</a>
+	      </td>
+	    </tr>
+	  </table>
+	</div>
+	<h2>Round of 8</h2>
+	<p></p>
+	<div class="oslschedule">
+	  <table>
+	    <tr>
+	      <td>Lobby</td>
+	      <td>Time <small>(PDT/GMT-7)</small></td>
+	      <td>Player 1</td>
+	      <td>Player 2</td>
+	      <td>Score</td>
+	      <td>Match History</td>
+	      <td>Admin</td>
+	    </tr>
+	    <tr>
+	      <td>
+		OSL:I
+	      </td>
+	      <td>
+		Sat 6:00PM
+	      </td>
+	      <td>
+		Winner of OSL:A
+	      </td>
+	      <td>
+		Winner of OSL:B
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
+	      </td>
+	    </tr>
+	    <tr>
+	      <td>
+		OSL:J
+	      </td>
+	      <td>
+		Sat 6:00PM
+	      </td>
+	      <td>
+		Winner of OSL:C
+	      </td>
+	      <td>
+		Winner of OSL:lmao
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+	      </td>
+	    </tr>
+
+	    <tr>
+	      <td>
+		OSL:K
+	      </td>
+	      <td>
+		Sat 7:00PM
+	      </td>
+	      <td>
+		Winner of OSL:E
+	      </td>
+	      <td>
+		Winner of OSL:F
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/Shintomo">Shintomo</a>
+	      </td>
+	    </tr>
+	    <tr>
+	      <td>
+		OSL:L
+	      </td>
+	      <td>
+		Sat 7:00PM
+	      </td>
+	      <td>
+		Winner of OSL:G
+	      </td>
+	      <td>
+		Winner of OSL:H
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/mauler68">mauler68</a>
+	      </td>
+	    </tr>
+	  </table>
+	</div>
+	<h2>Semifinals</h2>
+	<p></p>
+	<div class="oslschedule">
+	  <table>
+	    <tr>
+	      <td>Lobby</td>
+	      <td>Time <small>(PDT/GMT-7)</small></td>
+	      <td>Player 1</td>
+	      <td>Player 2</td>
+	      <td>Score</td>
+	      <td>Match History</td>
+	      <td>Admin</td>
+	    </tr>
+	    <tr>
+	      <td>
+		OSL:M
+	      </td>
+	      <td>
+		Sun 4:00PM
+	      </td>
+	      <td>
+		Winner of OSL:I
+	      </td>
+	      <td>
+		Winner of OSL:J
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/TheWeirdo9">TheWeirdo9</a>
+	      </td>
+	    </tr>
+	    
+	    <tr>
+	      <td>
+		OSL:N
+	      </td>
+	      <td>
+		Sun 5:00PM
+	      </td>
+	      <td>
+		Winner of OSL:K
+	      </td>
+	      <td>
+		Winner of OSL:L
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
+	      </td>
+	    </tr>
+	  </table>
+	</div>
+	<h2>Consolation</h2>
+	<p></p>
+	<div class="oslschedule">
+	  <table>
+	    <tr>
+	      <td>Lobby</td>
+	      <td>Time <small>(PDT/GMT-7)</small></td>
+	      <td>Player 1</td>
+	      <td>Player 2</td>
+	      <td>Score</td>
+	      <td>Match History</td>
+	      <td>Admin</td>
+	    </tr>
+	    <tr>
+	      <td>
+		OSL:3P
+	      </td>
+	      <td>
+		Sun 7:00PM
+	      </td>
+	      <td>
+		Loser of OSL:M
+	      </td>
+	      <td>
+		Loser of OSL:N
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
+	      </td>
+	    </tr>
+	  </table>
+	</div>
 	
+	<h2>Grandfinal</h2>
+	<p></p>
+		<div class="oslschedule">
+	  <table>
+	    <tr>
+	      <td>Lobby</td>
+	      <td>Time <small>(PDT/GMT-7)</small></td>
+	      <td>Player 1</td>
+	      <td>Player 2</td>
+	      <td>Score</td>
+	      <td>Match History</td>
+	      <td>Admin</td>
+	    </tr>
+	    <tr>
+	      <td>
+		OSL:O
+	      </td>
+	      <td>
+		Sun 6:00PM
+	      </td>
+	      <td>
+		Winner of OSL:M
+	      </td>
+	      <td>
+		Winner of OSL:N
+	      </td>
+	      <td>N/A</td>
+	      <td>N/A</td>
+	      <td>
+		<a href="https://osu.ppy.sh/u/mauler68">mauler68</a>
+	      </td>
+	    </tr>
+	  </table>
+	</div>
       </div>
       
       <div class="mid">
 	<div id="mappool">
 	  <h2>Map Pools</h2>
-	  <p>There will be two map pools used for playoffs: one for the round of 16/round of 8 played on Saturday and another for the semi-finals/grand-finals played on Sunday. Keep in mind Ro16/Ro8 is best of 7 and semi-finals/grand-finals is best of 9. We will release the semi/grand final maps later in the week and provide collections in the future. For now, the Ro16/Ro8 maps are up.</p>
+	  <p>There will be two map pools used for playoffs: one for the round of 16/round of 8 played on Saturday and another for the semi-finals/grand-finals played on Sunday. Keep in mind Ro16/Ro8 is best of 7 and semi-finals/grand-finals is best of 9. The collections are available for download <a href="http://osuuci.com/tournaments/osl/12/playoffs.rar">here</a>.</p>
 	  <h2>Semi/Grand-Finals Map Pool</h2>
 	  <p></p>
 	  <div class="mappool">

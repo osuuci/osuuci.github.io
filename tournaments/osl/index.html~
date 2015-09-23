@@ -583,12 +583,13 @@
         <li>Players must be 15 years of age or older</li>
         <li>Player accounts must be in good standing</li>
         <li>Matches are in osu! standard with score as the win condition and head to head as team mode</li>
-        <li>!roll begins every match, higher roll wins</li>
+        <li>!roll begins every match</li>
         <li>Lower roll decides warm up map (any song &lt;5 minutes, not in map pool)</li>
         <li>Higher roll decides first map</li>
-        <li>Thereafter, loser decides next map</li>
+        <li>Thereafter, game loser decides next map</li>
 	<li>Tiebreaker match decides last round</li>
 	<li>Tiebreaker is No Mod only</li>
+	<li>Winning on a mod forbids the winner from using that mod again on future maps, minus tiebreakers</li>
 	<li>Each mod can only be selected once by a respective player</li>
 	<li>No Fail can be applied to preserve past scores</li>
 	<li>On first disconnect, the opponent decides to rematch or not</li>
@@ -598,7 +599,7 @@
 	<li>Two consecutive weekend misses without contact leads to your removal from the tournament</li>
 	<li>Trolling, unsportsmanlike behavior, and other harassment will not be tolerated and can factor into your removal</li>
 	<li>League rules and structure are subject to alterations by the administrators</li>
-	<li>Administrators have the final say in any disputes</li>
+	<li>Administrators have the final say in disputes</li>
       </ul>
   </div>
 
