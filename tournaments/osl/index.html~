@@ -198,7 +198,7 @@
 
       <div id="participants">
 	<h2>Participants</h2>
-	<p>Below are the standings of our league participants after our 10 weeks of Swiss. We have been using href="http://challonge.com/OSL2015v6">Challonge</a> to track our tournament progress, and you can see the full bracket there. The top 16 of the Swiss rounds have been seeded in our single elimination <a href="http://challonge.com/oslplayoffs">playoffs</a> bracket. </p>
+	<p>Below are the standings of our league participants after our 10 weeks of Swiss. We have been using <a href="http://challonge.com/">Challonge</a> to track our tournament progress, and you can see the full Swiss round info <a href="http://challonge.com/OSL2015v6">here</a>. The top 16 of the Swiss rounds have been seeded in our single elimination <a href="http://challonge.com/oslplayoffs">playoffs</a> bracket. </p>
 </div>
 </div>
 
@@ -251,7 +251,7 @@
     <tr>
       <td>2</td>
       <td class="participant left">
-	Ryan Gooseling
+	Fedora Goose
       </td>
       <td>8 - 2 - 0</td>
       <td>0</td>
@@ -624,9 +624,9 @@
 
   <div id="mappools">
     <h2>Map Pools</h2>
-    <p>Each Swiss week will feature one tiebreaker song and an additional number of songs from the pool below. The selection process will be at the discretion of the tournament organizers. Check each week's map pool section to see our picked songs. Playoffs will have their own specific map pools and will be released at a later date.</p>
+    <p>Each Swiss week will feature one tiebreaker song and an additional number of songs from the pool below. The selection process will be at the discretion of the tournament organizers. Check each week's map pool section to see our picked songs. Playoffs will have their own specific map pools and will be released at a later date. The playoffs collection can be downloaded <a href="http://osuuci.com/tournaments/osl/12/playoffs.rar">here</a>.</p>
     <h2>Semi/Grand Final Map Pool</h2>
-    <p>These maps will be played for the semi, consolation, and grand finals on Sunday September 27. These matches will be Bo9. A collection file will be provided later in the week.</p>
+    <p>These maps will be played for the semi, consolation, and grand finals on Sunday September 27. These matches will be Bo9.
     <div class="mappool">
       <table>
 	<tr>
@@ -913,7 +913,7 @@
     </div>
     
     <h2>Ro16/Ro8 Map Pool</h2>
-    <p>These maps will be played on Saturday September 26. Keep in mind rounds will be Bo7. A collection file will be made later in the week.</p>
+    <p>These maps will be played on Saturday September 26. Keep in mind rounds will be Bo7.</p>
     <div class="mappool">
       <table>
 	<tr>
