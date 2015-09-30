@@ -1,10 +1,4 @@
-﻿@media all and (orientation:portrait) {
-    html {
-	font-size: 150%;
-    }
-}
-
-html {
+﻿html {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: normal;
   background-color: white;
@@ -278,10 +272,4 @@ iframe {
 }
 .schedule tr:first-child td p {
   font-weight: bold;
-}
-
-@media all and (orientation: portrait) {
-    .sideButtons {
-	display: none;
-    }
 }

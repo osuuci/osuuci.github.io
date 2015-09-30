@@ -12,17 +12,6 @@
   background-size: 67.5em 67.5em;
 }
 
-@media all and (orientation:portrait) {
-    html {
-	font-size: 150%;
-    }
-
-    img.banner {
-	width: 85%;
-	height: 100%;
-    }
-}
-
 body {
   margin: auto;
   padding: 0;
@@ -271,63 +260,51 @@ iframe {
   font-weight: bold;
 }
 
-@media all and (orientation: landscape) {
-    .sideButtons {
-	position: fixed;
-	display: table;
-	margin-left: 43em;
-	top: 50%;
-	-webkit-transform: translateY(-50%);
-	transform: translate(0%, -50%);
-	padding: 0;
-    }
-
-    .sideButton {
-	display: table-cell;
-	padding: 0;
-	margin: 0;
-    }
-
-    .sideButton img {
-	display: inline;
-	vertical-align: middle;
-	padding: 0;
-	margin: 0;
-    }
-
-    .sideButton p {
-	display: inline;
-	vertical-align: middle;
-	padding: 0;
-	margin: 0;
-    }
-
-    .weekButtons {
-	position: fixed;
-	display: table;
-	top: 50%;
-	text-align: right:
-	-webkit-transform: translateY(-50%);
-	transform: translate(0%, -50%);
-	padding: 0;
-	width: 10em;
-	margin-left: -12em;
-    }
-
-    .weekButton {
-	text-align: right;
-	float: right;
-    }
-
+.sideButtons {
+    position: fixed;
+    display: table;
+    margin-left: 43em;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translate(0%, -50%);
+    padding: 0;
 }
 
-@media all and (orientation: portrait) {
-    .sideButtons {
-	display: none;
-    }
-    .weekButtons {
-	display: none;
-    }
+.sideButton {
+    display: table-cell;
+    padding: 0;
+    margin: 0;
+}
+
+.sideButton img {
+    display: inline;
+    vertical-align: middle;
+    padding: 0;
+    margin: 0;
+}
+
+.sideButton p {
+    display: inline;
+    vertical-align: middle;
+    padding: 0;
+    margin: 0;
+}
+
+.weekButtons {
+    position: fixed;
+    display: table;
+    top: 50%;
+    text-align: right:
+    -webkit-transform: translateY(-50%);
+    transform: translate(0%, -50%);
+    padding: 0;
+    width: 10em;
+    margin-left: -12em;
+}
+
+.weekButton {
+    text-align: right;
+    float: right;
 }
 
 .mappool table {
