@@ -6,12 +6,11 @@
   height: 100%;
   overflow-y: scroll;
   margin: 0;
-  background-image: url("http://osuuci.com/resources/orangeBackground.jpg");
+  background-image: url("http://osuuci.com/resources/background.jpg");
   background-repeat: repeat;
   background-position: center;
   background-size: 67.5em 67.5em;
 }
-
 body {
   margin: auto;
   padding: 0;
@@ -45,7 +44,7 @@ div.buttons a.button {
 div.buttons a.selected {
   border-color: #dfdbec;
 }
-div.buttons a.button:hover {
+div.buttons div.buttons a.button:hover {
   border-color: #dfdbec;
 }
 div.links {
@@ -202,12 +201,21 @@ img.heightConstrain {
 }
 img.banner {
   position: absolute;
-  height: 85%;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
   margin: auto;
+}
+@media all and (orientation: portrait) {
+  img.banner {
+    width: 85%;
+  }
+}
+@media all and (orientation: landscape) {
+  img.banner {
+    height: 85%;
+  }
 }
 div.buttons img {
   width: 100%;
@@ -259,149 +267,4 @@ iframe {
 .schedule tr:first-child td p {
   font-weight: bold;
 }
-
-.sideButtons {
-    position: fixed;
-    display: table;
-    margin-left: 43em;
-    top: 50%;
-    -webkit-transform: translateY(-50%);
-    transform: translate(0%, -50%);
-    padding: 0;
-}
-
-.sideButton {
-    display: table-cell;
-    padding: 0;
-    margin: 0;
-}
-
-.sideButton img {
-    display: inline;
-    vertical-align: middle;
-    padding: 0;
-    margin: 0;
-}
-
-.sideButton p {
-    display: inline;
-    vertical-align: middle;
-    padding: 0;
-    margin: 0;
-}
-
-.weekButtons {
-    position: fixed;
-    display: table;
-    top: 50%;
-    text-align: right:
-    -webkit-transform: translateY(-50%);
-    transform: translate(0%, -50%);
-    padding: 0;
-    width: 10em;
-    margin-left: -12em;
-}
-
-.weekButton {
-    text-align: right;
-    float: right;
-}
-
-.mappool table {
-    margin-left: auto;
-    margin-right: auto;
-    border: 1px solid black;
-    border-radius: 0.25em;
-    border-collapse: collapse;
-    width: 41em;
-    broder: 2px solid red;
-}
-
-.mappool tr:first-child {
-    font-weight: bold;
-}
-
-.mappool td {
-    font-size: 1.2em;
-    padding: 0.25em;
-}
-
-.mappool tr {
-    border: 1px solid black;
-}
-
-.mappool td:nth-child(odd) {
-    background: #ff9274;
-}
-
-.mappool td:first-child {
-    width: 0%;
-}
-
-.mappool td:nth-child(2) {
-    width: 40%;
-}
-
-.mappool td:nth-child(3) {
-    width: 25%;
-}
-
-.participants td:nth-child(2) {
-    width: 30%;
-}
-
-.participants td:nth-child(3) {
-    width: 35%;
-}
-
-.oslschedule table {
-    margin-left: auto;
-    margin-right: auto;
-    border: 1px solid black;
-    border-collapse: collapse;
-    width: 41em;
-}
-
-.oslschedule tr:first-child {
-    font-weight: bold;
-    border: 1px solid black;
-}
-
-.oslschedule tr {
-    border: 1px solid black;
-}
-
-.oslschedule td {
-    font-size: 1.2em;
-    padding: 0.25em;
-}
-
-.oslschedule td:nth-child(odd) {
-    background: #ff9274;
-}
-
-.oslschedule td:nth-child(2) {
-    width: 30%;
-}
-
-.oslschedule td:nth-child(3) {
-    width: 20%;
-}
-
-.oslschedule td:nth-child(4) {
-    width: 20%;
-}
-
-.oslschedule td:nth-child(5) {
-    width: 0%;
-}
-
-.oslschedule td:nth-child(6) {
-    width: 0%;
-}
-
-.oslschedule td img {
-    display: inline;
-    padding: 0;
-    margin: 0;
-}
+/*# sourceMappingURL=lessTheme.css.map */

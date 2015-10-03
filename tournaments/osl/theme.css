@@ -263,7 +263,7 @@ iframe {
 .sideButtons {
     position: fixed;
     display: table;
-    margin-left: 43em;
+    margin-left: 42em;
     top: 50%;
     -webkit-transform: translateY(-50%);
     transform: translate(0%, -50%);
