@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Donations - osu! UCI</title>
+    <link rel="icon" href="http://osuuci.com/resources/favicon.ico">
+    <link rel="shortcut icon" href="http://osuuci.com/resources/favicon.ico">
+
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
+    <link href="http://osuuci.com/resources/theme.css" type="text/css" rel="stylesheet"/>
+  </head>
+
+  <body>
+    <div class="buttons">
+      <table>
+	<tr>
+	  <td><a href="http://osuuci.com/home" class="button"><img alt="Home" title="Home" src="http://osuuci.com/resources/iconHome.png"/></a></td>
+	  <td><a href="http://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="http://osuuci.com/resources/iconOfficers.png"/></a></td>
+	  <td><a href="http://osuuci.com/about" class="button"><img alt="About" title="About" src="http://osuuci.com/resources/iconAbout.png"/></a></td>
+	  <td><a href="http://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="http://osuuci.com/resources/iconContact.png"/></a></td>
+	  <td><a href="http://osuuci.com/tournaments" class="button"><img alt="Tournaments" title="Tournaments" src="http://osuuci.com/resources/iconTournaments.png"/></a></td>
+	</tr>
+      </table>
+    </div>
+
+    <div class="mid">
+      <h2>Donations</h2>
+      <p>If you'd like to help support the club, please consider donating to us through <a href="https://www.twitchalerts.com/donate/osuuci">PayPal</a>. We'll be using the money to help pay for upkeep costs and plan exciting events in the future! Here's a priority list of what we'll be spending on:</p>
+      <ul>
+	<li>($50/year) Club re-registration</li>
+	<li>($5/month) Server rent</li>
+	<li>($1/month) Domain reservation</li>
+	<li>Customized osu! UCI merchandise and swag</li>
+	<li>Advertising flyers and posters</li>
+	<li>Bake sale items, including hit circle cookiezi (heh)</li>
+	<li>Design contest prizes</li>
+	<li>Tournaments and prize pools</li>
+	<li>Barbecues and get-togethers</li>
+	<li>Brad's ganglion cyst removal surgery (but not really)</li>
+      </ul>
+      <img src="cancer.jpg" class="widthConstrain"/>
+    </div>
+  </body>
+</html>
