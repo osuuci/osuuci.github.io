@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Press Start - osu! UCI</title>
+    <title>osu! UCI Fall LAN</title>
     <meta charset="UTF-8">
     <link rel="icon" href="http://osuuci.com/resources/favicon.ico">
     <link rel="shortcut icon" href="http://osuuci.com/resources/favicon.ico">
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" media="screen and (orientation:landscape)" type="text/css" href="http://osuuci.com/resources/theme.css">
-    <link rel="stylesheet" media="screen and (orientation:portrait)" type="text/css" href="http://osuuci.com/resources/mobile.css">
+
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
+    <link href="http://osuuci.com/resources/theme.css" type="text/css" rel="stylesheet"/>
   </head>
 
   <body>
@@ -24,34 +24,66 @@
     </div>
 
     <div class="mid">
-      <h2>Old Links</h2>
-      <p>
+      <h2>osu! UCI Fall LAN</h2>
+      <p>osu! UCI will be holding it's very own LAN at the UCI Student Center in room [...]. Please note that this is a live BYOC(Bring Your Own Computer) event, so you will have to bring your computer and equipment. The event will span two days, November 7-8 from 11AM - 7PM.</p>
+      
+      <h3>Format</h3/>
+      <table border="1" cellpadding="10">
+        <tr>
+          <th><u>Day 1</u></th>
+          <th><u>Day 2</u></th>
+        </tr>
+        
+        <tr>
+          <th>Swiss Stage</th>
+          <th>Double Elimination</th>
+        </tr>
+        <tr>
+          <th>6 Rounds - 1 hour each</th>
+          <th>Ro8 is 1 hour each, subsequent rounds are 1.5 hours each</th>
+        </tr>
+        <tr>
+          <th>Best of 7</th>
+          <th>Ro8: Best of 9</th>
+        </tr>
+        <tr>
+          <th>Top 8 advance to Day 2</t>
+          <th>Semis, Finals, Consolation: Best of 11</th>
+        </tr>
+      </table>
+      
+      <p>Divisions:</p>
       <ul>
-	<li><a href="http://osuuci.com/tournaments/pressstart">Summary</a>
-	<li><a href="http://osuuci.com/tournaments/pressstart/registration">Registration and Housing</a></li>
-	<li><a href="http://osuuci.com/tournaments/pressstart/tournament">Tournament Rules and Info</a></li>
-	<li><a href="http://osuuci.com/tournaments/pressstart/brackets">Brackets and Schedule</a></li>
-	<li><a href="http://osuuci.com/tournaments/pressstart/mappool">Map Pool</a></li>
-      </ul>
+        <li>Novice Division and Master Division</li>
+        <li>Cutoff determined by staff</li>
+        <li>Prizing TBD</li>
+       </ul>
 
-      <h2>Winners</h2>
-      <p>
+      <p>Rules:</p>
       <ul>
-	<li>Winner: 35000vr</li>
-	<li>Runner-up: jawnmewn</li>
-	<li>Semi-finalists: Shintomo, Andrew</li>
-	<li>Quarter-finalists: HappyStick, Harrharrqi, bananamilk, Aoyama Mio</li>
+        <li>All maps are free mod, with some having required mods.</li>
+        <li>Matches are in osu! standard with score as the win condition and head to head as team mode</li>
+        <li>!roll begins every match</li>
+        <li>Lower roll decides warm up map (any song <5 minutes, not in map pool)</li>
+        <li>Higher roll decides first map</li>
+        <li>Thereafter, game loser decides next map</li>
+        <li>Tiebreaker match decides last round</li>
+        <li>No Fail can be applied to preserve past scores</li>
+        <li>On first disconnect, the opponent decides to rematch or not</li>
+        <li>Second and further disconnects are counted as losses</li>
+        <li>Check in with your referee after your match to verify the end results</li>
+        <li>Missing your match counts as a loss; please show up a few minutes before your allotted time slot so you and the administrators can set up in time</li>
+        <li>Trolling, unsportsmanlike behavior, and other harassment will not be tolerated and can factor into your removal</li>
+        <li>League rules and structure are subject to alterations by the administrators</li>
+        <li>Administrators have the final say in disputes</li>
       </ul>
+              
+      <h3>Registration</h3/>
+      <div>
+        <iframe src="https://docs.google.com/forms/d/1fo726r0ZY7epfToDx5-xAQs0m4wNU6gy9HcY_ZYkZSo/viewform?embedded=true" width="760" height="1350" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+      </div>
 
-      <h2>Summary</h2>
-      <p>osu! UCI hosted its first tournament on 10 May 2015 as part of the <a href="http://startlan.com/">Press Start LAN</a>. It was a one day event that was split into two parts: Swiss rounds and a top 8 single elimination bracket. We tried to cater for a wide variety of ranked players, hopefully giving everyone plenty of time to play and enjoy the event. Even in the easier Swiss rounds we saw some great matches. Plenty of games went into tiebreakers, and we even saw crazy games like 35000vr and Andrew's insanely close SS:</p>
-      <img src="SS.png"/>
 
-      <p>In between the Swiss and top 8 bracket, we had a fun friendly match with our friends at UCSD. We put up HappyStick, jawnmewn, Aoyama Mio, and leluffy up against bananamilk, Andrew, Harrharrqi, and xxdeathx. We, uh, ended up winning with our *cough* ringer(s), but it's all in good fun!</p>
-
-      <p>After that, the top 8 saw some surprising games back and forth between players. Some matches ended in quick 3-0's or 4-0's, but the most unexpected of all was Shintomo's 3-2 victory over HappyStick, and this was after Shintomo happened to sneak into the quarterfinals when a player from group 1 left the tournament early. Topping off all the action was a stellar grand final between 35000vr and jawnmewn. Going through all 9 games, 35000vr barely took the exhausting win over his opponent.</p>
-
-      <p>Overall, for our first tournament, I'm really satisfied with how we did. We had some troubles with streaming and delayed the grand finals for some time, but other than these hiccups we didn't have any major issues. We've learned lots from this one and hope to host another great tournament in the future. Thanks everyone for coming!</p>
     </div>
   </body>
 </html>
