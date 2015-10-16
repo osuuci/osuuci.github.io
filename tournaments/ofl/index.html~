@@ -7,30 +7,29 @@
     <link rel="shortcut icon" href="http://osuuci.com/resources/favicon.ico">
 
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
-    <link href="http://osuuci.com/resources/theme.css" type="text/css" rel="stylesheet"/>
+    <link href="http://osuuci.com/tournaments/ofl/ofl.css" type="text/css" rel="stylesheet"/>
   </head>
 
   <body>
     <div class="buttons">
       <table>
 	<tr>
-	  <td><a href="http://osuuci.com/home" class="button"><img alt="Home" title="Home" src="http://osuuci.com/resources/iconHome.png"/></a></td>
-	  <td><a href="http://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="http://osuuci.com/resources/iconOfficers.png"/></a></td>
-	  <td><a href="http://osuuci.com/about" class="button"><img alt="About" title="About" src="http://osuuci.com/resources/iconAbout.png"/></a></td>
-	  <td><a href="http://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="http://osuuci.com/resources/iconContact.png"/></a></td>
-	  <td><a href="http://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="http://osuuci.com/resources/iconTournaments.png"/></a></td>
+	  <td><a href="http://osuuci.com/home" class="button"><img alt="Home" title="Home" src="oflHome.png"/></a></td>
+	  <td><a href="http://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="oflOfficers.png"/></a></td>
+	  <td><a href="http://osuuci.com/about" class="button"><img alt="About" title="About" src="oflAbout.png"/></a></td>
+	  <td><a href="http://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="oflContact.png"/></a></td>
+	  <td><a href="http://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="oflTournaments.png"/></a></td>
 	</tr>
       </table>
     </div>
 
     <div class="mid">
+      <img src="logo300.png"/>
       <h2 id="introduciton">osu! UCI Fall LAN</h2>
-      <p>osu! UCI is excited to announce its first osu! LAN at UCI this fall quarter. Anyone is welcome to participate as long as they can make the event. 
-
-	This is a live BYOC(Bring Your Own Computer) event, so make sure to bring all your gadgets and accessories.</p>
+      <p>osu! UCI is excited to host its first osu! LAN at UCI this fall quarter. Anyone is welcome to participate so long as they can attend the event in person. We will be creating two divisions of players to separate players of different ranking. This is a live BYOC(Bring Your Own Computer) event, so make sure to bring all your necessary gadgets and accessories.</p>
 
       <h2 id="location">Location</h2>
-      <p></p>
+      <p>To be announced.</p>
               
       <h2 id="registration">Registration</h2>
       <p>Sign ups are now open. Please fill out the information below.</p>
@@ -61,7 +60,7 @@
       <p>To be determined as we talk with osu! staff and sponsors.</p>
 
       <h2 id="rules">Rules</h2>
-      <p>LAN rules and structure are subject to alterations by the administrators. Administrators have the final say in disputes</p>
+      <p>LAN rules and structure are subject to alterations by the administrators. Administrators have the final say in disputes.</p>
       <ul>
         <li>Matches are in osu! standard with score as the win condition and head to head as team mode</li>
         <li>!roll begins every match</li>
@@ -87,7 +86,8 @@
       <p>To be made.</p>
 
       <h2 id="contact">Contact</h2>
-      <p></p>
+      <p>If you have any questions, comments, or concerns, feel free to message any one of the <a href="http://osuuci.com/officers">osu! UCI officers</a>, send an email to <a href="mailto:osuuci@gmail.com">osuuci@gmail.com</a>, or <a href="https://twitter.com/osuUCI">Tweet</a> at us.</p>
+
     </div>
   </body>
 </html>
