@@ -24,6 +24,84 @@
     </div>
 
     <div class="mid">
+    
+    <!-- start buttons -->
+    
+      <div class="sideButtons">
+        <a href="http://osuuci.com/tournaments/ofl#introduction" class="noDecoration">
+          <div class="sideButton">
+            <img src="http://osuuci.com/tournaments/ofl/link1.png"/>
+            <p>Intro</p>
+          </div>
+        </a>
+        
+        <a href="http://osuuci.com/tournaments/ofl#location" class="noDecoration">
+          <div class="sideButton">
+            <img src="http://osuuci.com/tournaments/ofl/link2.png"/>
+            <p>Location</p>
+          </div>
+        </a>
+
+        <a href="http://osuuci.com/tournaments/ofl#registration" class="noDecoration">
+          <div class="sideButton">
+            <img src="http://osuuci.com/tournaments/ofl/link3.png"/>
+            <p>Registration</p>
+          </div>
+        </a>
+
+        <a href="http://osuuci.com/tournaments/ofl#format" class="noDecoration">
+          <div class="sideButton">
+            <img src="http://osuuci.com/tournaments/ofl/link4.png"/>
+            <p>Format</p>
+          </div>
+        </a>
+
+        <a href="http://osuuci.com/tournaments/ofl#prizing" class="noDecoration">
+          <div class="sideButton">
+            <img src="http://osuuci.com/tournaments/ofl/link5.png"/>
+            <p>Prizing</p>
+          </div>
+        </a>
+
+        <a href="http://osuuci.com/tournaments/ofl#rules" class="noDecoration">
+          <div class="sideButton">
+            <img src="http://osuuci.com/tournaments/ofl/link6.png"/>
+            <p>Rules</p>
+          </div>
+        </a>
+
+        <a href="http://osuuci.com/tournaments/ofl#brackets" class="noDecoration">
+          <div class="sideButton">
+            <img src="http://osuuci.com/tournaments/ofl/link7.png"/>
+            <p>Brackets</p>
+          </div>
+        </a>
+
+        <a href="http://osuuci.com/tournaments/ofl#schedule" class="noDecoration">
+          <div class="sideButton">
+            <img src="http://osuuci.com/tournaments/ofl/link8.png"/>
+            <p>Schedule</p>
+          </div>
+        </a>
+        
+        <a href="http://osuuci.com/tournaments/ofl#mappools" class="noDecoration">
+          <div class="sideButton">
+            <img src="http://osuuci.com/tournaments/ofl/link9.png"/>
+            <p>Map Pools</p>
+          </div>
+        </a>
+
+
+        <a href="http://osuuci.com/tournaments/ofl#contact" class="noDecoration">
+          <div class="sideButton">
+            <img src="http://osuuci.com/tournaments/ofl/link10.png"/>
+            <p>Contact</p>
+          </div>
+        </a>
+      </div>    
+    
+<!-- end buttons -->
+
       <img src="logo300.png"/>
       <h2 id="introduciton">osu! UCI Fall LAN</h2>
       <p>osu! UCI is excited to host its first osu! LAN at UCI this fall quarter. Anyone is welcome to participate so long as they can attend the event in person. We will be creating two divisions of players to separate players of different ranking. This is a live BYOC(Bring Your Own Computer) event, so make sure to bring all your necessary gadgets and accessories.</p>
@@ -34,22 +112,22 @@
       <h2 id="registration">Registration</h2>
       <p>Sign ups are now open. Please fill out the information below.</p>
       <div>
-	<iframe src="https://docs.google.com/forms/d/1fo726r0ZY7epfToDx5-xAQs0m4wNU6gy9HcY_ZYkZSo/viewform?embedded=true" width="650" height="1065" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+	<iframe src="https://docs.google.com/forms/d/1fo726r0ZY7epfToDx5-xAQs0m4wNU6gy9HcY_ZYkZSo/viewform?embedded=true" width="650" height="1120" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
       </div>
 
       <h2 id="format">Format</h2>
-      <p>Day 1 - Saturday</p>
+      <p>Phase 1</p>
       <ul>
 	<li>Swiss</li>
-	<li>6 rounds, one hour each</li>
+	<li>4 rounds, one hour each</li>
 	<li>First to 4 wins</li>
-	<li>Top 8 advance to day 2</li>
+	<li>Top 8 advance to phase 2</li>
       </ul>
 
-      <p>Day 2 - Sunday</p>
+      <p>Phase 2</p>
       <ul>
-	<li>Double elimination</li>
-	<li>6 rounds, one hour each</li>
+	<li>Single elimination</li>
+	<li>4 rounds, one hour each</li>
 	<li>Round of 8 is first to 5 wins</li>
 	<li>Semis, consolation, and finals are first to 6 wins</li>
       </ul>
