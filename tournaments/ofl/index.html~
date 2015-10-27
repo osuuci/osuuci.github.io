@@ -107,13 +107,13 @@
       <p>osu! UCI is excited to host its first osu! LAN at UCI this fall quarter. Over the event, we'll be hosting casual lobbies and streaming all day, in addition to managing tournaments for two divisions of players. This is a live BYOC(Bring Your Own Computer) event, so make sure to bring all your necessary gadgets and accessories.</p>
 
       <h2 id="location">Location</h2>
-      <p>The OFL will take place on Sunday November 22nd, 2015 from 11AM to 9PM PDT/GMT. We will be located in the Emerald Bay Meeeting Rooms in the UCI Student Center, full address: <a href="https://www.google.com/maps/place/UCI+Student+Center+%26+Event+Services/@33.6489599,-117.8444107,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x54a63a5775b1ff92">311 W Peltason Dr, Irvine, CA 92697</a>. Food will not be provided at the event, but there are plenty of chains and restaurants in walking distance around the area. All-day parking is available in the adjacent Student Center Parking Structure for $10.</p>
+      <p>The OFL takes place on Sunday November 22nd, 2015 from 11AM to 9PM PDT/GMT. We are located in the Emerald Bay Meeeting Rooms in the UCI Student Center, full address: <a href="https://www.google.com/maps/place/UCI+Student+Center+%26+Event+Services/@33.6489599,-117.8444107,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x54a63a5775b1ff92">311 W Peltason Dr, Irvine, CA 92697</a>. Food is not be provided at the event, but there are plenty of chains and restaurants in walking distance around the area. All-day parking is available in the adjacent Student Center Parking Structure for $10.</p>
 
       <img src="emeraldBay.png">
       <p class="caption">Emerald Bay Rooms in the Student Center</p>
       
       <h2 id="registration">Registration</h2>
-      <p>To help cover rental costs for the event, we will be charging a $5 entrance fee for tournament entrants. If you are here to simply spectate or to play in our casual lobbies, you do not need to pay. We accept payment through PayPal or in-person.</p>
+      <p>To help cover rental costs for the event, we are charging a $5 entrance fee for tournament entrants. If you are here to simply spectate or to play in our casual lobbies, you do not need to pay. We accept payment through PayPal or in-person.</p>
       <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 	<input type="hidden" name="cmd" value="_s-xclick">
 	<input type="hidden" name="hosted_button_id" value="T4SUEEPJT6NQ2">
