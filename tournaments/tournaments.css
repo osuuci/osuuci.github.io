@@ -4,7 +4,7 @@
   text-decoration: none;
   color: black;
 }
-.hoveroflbackground:hover {
+.hoveroflbackground:hover ~ html{
   background-image: url("http://osuuci.com/tournaments/zotcade/backgroundzotcade.png");
 }
 
@@ -12,20 +12,19 @@
   text-decoration: none;
   color: black;
 }
-.hoveroflbackground:hover {
+.hoveroflbackground:hover ~ html {
   background-image: url("http://osuuci.com/tournaments/zotcade/backgroundzotcade.png");
 }
 
 .hoverzotcadebackground2 {
   width: 40em;
 }
-.hoverzotcadebackground2:hover {
+.hoverzotcadebackground2:hover ~ html{
   background-image: url("http://osuuci.com/tournaments/zotcade/backgroundzorcade.png");
 }
 
 .hoveroflbackground2 {
-  width: 40em;
 }
-.hoveroflbackground2:hover {
+.hoveroflbackground2:hover ~ html{
   background-image: url("http://osuuci.com/tournaments/ofl/oflBackground.png");
 }
