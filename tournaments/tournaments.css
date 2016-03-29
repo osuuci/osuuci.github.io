@@ -12,6 +12,7 @@ body {
   display: block;
   top: 0; bottom: 0; left: 0; right: 0;
   z-index: -1;
+  background-image: url("http://osuuci.com/tournaments/zotcade/backgroundzotcade.png");
   
 }
 nth-of-type(1) .hoverbackground:hover:before {
