@@ -2,22 +2,22 @@
 <html>
   <head>
     <title>Mumble - osu! UCI</title>
-    <link rel="icon" href="http://osuuci.com/resources/favicon.ico">
-    <link rel="shortcut icon" href="http://osuuci.com/resources/favicon.ico">
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" media="screen and (orientation:landscape)" type="text/css" href="http://osuuci.com/resources/theme.css">
-    <link rel="stylesheet" media="screen and (orientation:portrait)" type="text/css" href="http://osuuci.com/resources/mobile.css">
+    <link rel="icon" href="https://osuuci.com/resources/favicon.ico">
+    <link rel="shortcut icon" href="https://osuuci.com/resources/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" media="screen and (orientation:landscape)" type="text/css" href="https://osuuci.com/resources/theme.css">
+    <link rel="stylesheet" media="screen and (orientation:portrait)" type="text/css" href="https://osuuci.com/resources/mobile.css">
   </head>
 
   <body>
     <div class="buttons">
       <table>
 	<tr>
-	  <td><a href="http://osuuci.com/home" class="button"><img alt="Home" title="Home" src="http://osuuci.com/resources/iconHome.png"/></a></td>
-	  <td><a href="http://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="http://osuuci.com/resources/iconOfficers.png"/></a></td>
-	  <td><a href="http://osuuci.com/about" class="button"><img alt="About" title="About" src="http://osuuci.com/resources/iconAbout.png"/></a></td>
-	  <td><a href="http://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="http://osuuci.com/resources/iconContact.png"/></a></td>
-	  <td><a href="http://osuuci.com/tournaments" class="button"><img alt="Tournaments" title="Tournaments" src="http://osuuci.com/resources/iconTournaments.png"/></a></td>
+	  <td><a href="https://osuuci.com/home" class="button"><img alt="Home" title="Home" src="https://osuuci.com/resources/iconHome.png"/></a></td>
+	  <td><a href="https://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="https://osuuci.com/resources/iconOfficers.png"/></a></td>
+	  <td><a href="https://osuuci.com/about" class="button"><img alt="About" title="About" src="https://osuuci.com/resources/iconAbout.png"/></a></td>
+	  <td><a href="https://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="https://osuuci.com/resources/iconContact.png"/></a></td>
+	  <td><a href="https://osuuci.com/tournaments" class="button"><img alt="Tournaments" title="Tournaments" src="https://osuuci.com/resources/iconTournaments.png"/></a></td>
 	</tr>
       </table>
     </div>
@@ -30,7 +30,7 @@
 	<li>Port: 64738</li>
       </ul>
       <h2>Connect Instructions</h2>
-      <p>To access our Mumble server (more properly known as Murmur), download and install the Mumble client and use that to connect with us. Up-to-date download links can be found on the <a href="http://wiki.mumble.info/wiki/Installing_Mumble#Getting_and_Installing_Mumble_and_Murmur">official Mumble site</a> for various operating systems.</p>
+      <p>To access our Mumble server (more properly known as Murmur), download and install the Mumble client and use that to connect with us. Up-to-date download links can be found on the <a href="https://wiki.mumble.info/wiki/Installing_Mumble#Getting_and_Installing_Mumble_and_Murmur">official Mumble site</a> for various operating systems.</p>
     </div>
   </body>
 </html>

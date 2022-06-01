@@ -3,22 +3,22 @@
 <html>
   <head>
     <title>Contact - osu! UCI</title>
-    <link rel="icon" href="http://osuuci.com/resources/favicon.ico">
-    <link rel="shortcut icon" href="http://osuuci.com/resources/favicon.ico">
+    <link rel="icon" href="https://osuuci.com/resources/favicon.ico">
+    <link rel="shortcut icon" href="https://osuuci.com/resources/favicon.ico">
 
-    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
-    <link href="http://osuuci.com/resources/theme.css" type="text/css" rel="stylesheet"/>
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
+    <link href="https://osuuci.com/resources/theme.css" type="text/css" rel="stylesheet"/>
   </head>
 
   <body>
     <div class="buttons">
       <table>
 	<tr>
-	  <td><a href="http://osuuci.com/home" class="button"><img alt="Home" title="Home" src="http://osuuci.com/resources/iconHome.png"/></a></td>
-	  <td><a href="http://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="http://osuuci.com/resources/iconOfficers.png"/></a></td>
-	  <td><a href="http://osuuci.com/about" class="button"><img alt="About" title="About" src="http://osuuci.com/resources/iconAbout.png"/></a></td>
-	  <td><a href="http://osuuci.com/contact" class="button selected"><img alt="Contact" title="Contact" src="http://osuuci.com/resources/iconContact.png"/></a></td>
-	  <td><a href="http://osuuci.com/tournaments" class="button"><img alt="Tournaments" title="Tournaments" src="http://osuuci.com/resources/iconTournaments.png"/></a></td>
+	  <td><a href="https://osuuci.com/home" class="button"><img alt="Home" title="Home" src="https://osuuci.com/resources/iconHome.png"/></a></td>
+	  <td><a href="https://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="https://osuuci.com/resources/iconOfficers.png"/></a></td>
+	  <td><a href="https://osuuci.com/about" class="button"><img alt="About" title="About" src="https://osuuci.com/resources/iconAbout.png"/></a></td>
+	  <td><a href="https://osuuci.com/contact" class="button selected"><img alt="Contact" title="Contact" src="https://osuuci.com/resources/iconContact.png"/></a></td>
+	  <td><a href="https://osuuci.com/tournaments" class="button"><img alt="Tournaments" title="Tournaments" src="https://osuuci.com/resources/iconTournaments.png"/></a></td>
 	</tr>
       </table>
     </div>
@@ -32,7 +32,7 @@
       <table>
 	<tr>
 	  <td>
-	    <a href="https://www.facebook.com/groups/osuuci/" class="button"><img src="http://osuuci.com/resources/iconFacebook.png" alt="Facebook" title="Facebook"/></a>
+	    <a href="https://www.facebook.com/groups/osuuci/" class="button"><img src="https://osuuci.com/resources/iconFacebook.png" alt="Facebook" title="Facebook"/></a>
 	  </td>
 	  <td>
 	    <p>Facebook</p>
@@ -41,7 +41,7 @@
 	</tr>
 	<tr>
 	  <td>
-	    <a href="https://twitter.com/osuUCI"><img src="http://osuuci.com/resources/iconTwitter.png" alt="Twitter" title="Twitter"/></a>
+	    <a href="https://twitter.com/osuUCI"><img src="https://osuuci.com/resources/iconTwitter.png" alt="Twitter" title="Twitter"/></a>
 	  </td>
 	  <td>
 	    <p>Twitter</p>
@@ -50,34 +50,34 @@
 	</tr>
 	<tr>
 	  <td>
-	    <a href="http://www.twitch.tv/osuuci"><img src="http://osuuci.com/resources/iconTwitch.png" alt="Twitch" title="Twitch"/></a>
+	    <a href="https://www.twitch.tv/osuuci"><img src="https://osuuci.com/resources/iconTwitch.png" alt="Twitch" title="Twitch"/></a>
 	  </td>
 	  <td>
 	    <p>Twitch</p>
-	    <p>Watch us on our <a href="http://www.twitch.tv/osuuci">Twitch stream</a>!</p>
+	    <p>Watch us on our <a href="https://www.twitch.tv/osuuci">Twitch stream</a>!</p>
 	  </td>
 	</tr>
 	<tr>
 	    <td>
-	      <a href="http://osuuci.com/mumble" class="button"><img alt="Mumble" title="Mumble" src="http://osuuci.com/resources/iconMumble.png"/></a>
+	      <a href="https://osuuci.com/mumble" class="button"><img alt="Mumble" title="Mumble" src="https://osuuci.com/resources/iconMumble.png"/></a>
 	    </td>
 	  <td>
 	    <p>Mumble</p>
-	    <p>Chat with us on <a href="http://osuuci.com/mumble" class="button">Mumble</a>!</p>
+	    <p>Chat with us on <a href="https://osuuci.com/mumble" class="button">Mumble</a>!</p>
 	  </td>
 	</tr>
 	<tr>
 	    <td>
-	      <a href="http://osuuci.com/donations" class="button"><img alt="PayPal" title="PayPal" src="http://osuuci.com/resources/iconPaypal.png"/></a>
+	      <a href="https://osuuci.com/donations" class="button"><img alt="PayPal" title="PayPal" src="https://osuuci.com/resources/iconPaypal.png"/></a>
 	    </td>
 	  <td>
 	    <p>Donations</p>
-	    <p>Support us with <a href="http://osuuci.com/donations" class="button">donations</a>!</p>
+	    <p>Support us with <a href="https://osuuci.com/donations" class="button">donations</a>!</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td>
-	     <a href="mailto:osuuci@gmail.com"><img src="http://osuuci.com/resources/iconGMail.png" alt="Email" title="Email"/></a>
+	     <a href="mailto:osuuci@gmail.com"><img src="https://osuuci.com/resources/iconGMail.png" alt="Email" title="Email"/></a>
 	  </td>
 	  <td>
 	    <p>Email</p>
@@ -86,7 +86,7 @@
 	</tr>
 	<tr>
 	  <td>
-	    <a href="https://drive.google.com/drive/u/0/#folders/0B9f8l7Lh8KmtUlB0S2RQZXowYlU" class="button"><img src="http://osuuci.com/resources/iconGoogleDrive.png" alt="Drive" title="Drive"/></a>
+	    <a href="https://drive.google.com/drive/u/0/#folders/0B9f8l7Lh8KmtUlB0S2RQZXowYlU" class="button"><img src="https://osuuci.com/resources/iconGoogleDrive.png" alt="Drive" title="Drive"/></a>
 	  </td>
 	  <td>
 	    <p>Drive</p>
@@ -95,7 +95,7 @@
 	</tr>
 		<tr>
 	  <td>
-	    <a href="https://osu.ppy.sh/u/osuuci%20dot%20com" class="button"><img src="http://osuuci.com/resources/iconOsu.png" alt="osu!" title="osu!"/></a>
+	    <a href="https://osu.ppy.sh/u/osuuci%20dot%20com" class="button"><img src="https://osuuci.com/resources/iconOsu.png" alt="osu!" title="osu!"/></a>
 	  </td>
 	  <td>
 	    <p>osu!</p>

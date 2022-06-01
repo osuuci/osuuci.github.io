@@ -3,41 +3,41 @@
   <head>
     <title>Tournaments - osu! UCI</title>
     <meta charset="UTF-8">
-    <link rel="icon" href="http://osuuci.com/resources/favicon.ico">
-    <link rel="shortcut icon" href="http://osuuci.com/resources/favicon.ico">
+    <link rel="icon" href="https://osuuci.com/resources/favicon.ico">
+    <link rel="shortcut icon" href="https://osuuci.com/resources/favicon.ico">
 
-    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
-    <link href="http://osuuci.com/resources/theme.css" type="text/css" rel="stylesheet"/>
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
+    <link href="https://osuuci.com/resources/theme.css" type="text/css" rel="stylesheet"/>
   </head>
 
   <body>
     <div class="buttons">
       <table>
 	<tr>
-	  <td><a href="http://osuuci.com/home" class="button"><img alt="Home" title="Home" src="http://osuuci.com/resources/iconHome.png"/></a></td>
-	  <td><a href="http://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="http://osuuci.com/resources/iconOfficers.png"/></a></td>
-	  <td><a href="http://osuuci.com/about" class="button"><img alt="About" title="About" src="http://osuuci.com/resources/iconAbout.png"/></a></td>
-	  <td><a href="http://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="http://osuuci.com/resources/iconContact.png"/></a></td>
-	  <td><a href="http://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="http://osuuci.com/resources/iconTournaments.png"/></a></td>
+	  <td><a href="https://osuuci.com/home" class="button"><img alt="Home" title="Home" src="https://osuuci.com/resources/iconHome.png"/></a></td>
+	  <td><a href="https://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="https://osuuci.com/resources/iconOfficers.png"/></a></td>
+	  <td><a href="https://osuuci.com/about" class="button"><img alt="About" title="About" src="https://osuuci.com/resources/iconAbout.png"/></a></td>
+	  <td><a href="https://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="https://osuuci.com/resources/iconContact.png"/></a></td>
+	  <td><a href="https://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="https://osuuci.com/resources/iconTournaments.png"/></a></td>
 	</tr>
       </table>
     </div>
 
     <div class="mid">
       <h2>Tournaments</h2>
-      <p>As part of our club activities, we're making an effort to hold regular osu! tournaments for our club members and for other osu! players. We're always looking for an opportunity to help host a tourney as part of local LANs or online events. Please contact the <a href="http://osuuci.com/officers">officers</a> if you'd like to organize a tournament with us!</p>
+      <p>As part of our club activities, we're making an effort to hold regular osu! tournaments for our club members and for other osu! players. We're always looking for an opportunity to help host a tourney as part of local LANs or online events. Please contact the <a href="https://osuuci.com/officers">officers</a> if you'd like to organize a tournament with us!</p>
 
-      <h2><a class="noDecoration" href="http://osuuci.com/tournaments/ofl">osu! UCI Fall LAN 2015 (Ongoing)</a></h2>
+      <h2><a class="noDecoration" href="https://osuuci.com/tournaments/ofl">osu! UCI Fall LAN 2015 (Ongoing)</a></h2>
       <p class="caption"></p>
       <a href="https://osuuci.com/tournaments/ofl"><img src="ofl/logo328.png"/></a>
 
-      <h2><a class="noDecoration" href="http://osuuci.com/tournaments/osl">osu! UCI Summer League 2015</a></h2>
+      <h2><a class="noDecoration" href="https://osuuci.com/tournaments/osl">osu! UCI Summer League 2015</a></h2>
       <p class="caption"></p>
-      <a href="http://osuuci.com/tournaments/osl"><img src="http://osuuci.com/tournaments/osl/logo.png"/></a>
+      <a href="https://osuuci.com/tournaments/osl"><img src="https://osuuci.com/tournaments/osl/logo.png"/></a>
       
-      <h2><a class="noDecoration" href="http://osuuci.com/tournaments/pressstart">Press Start: Irvine 2015</a></h2>
+      <h2><a class="noDecoration" href="https://osuuci.com/tournaments/pressstart">Press Start: Irvine 2015</a></h2>
       <p class="caption"></p>
-      <a href="http://osuuci.com/tournaments/pressstart"><img src="pressstart.jpg" class="widthConstrain"/></a>
+      <a href="https://osuuci.com/tournaments/pressstart"><img src="pressstart.jpg" class="widthConstrain"/></a>
      
     </div>
   </body>

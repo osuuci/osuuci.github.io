@@ -3,22 +3,22 @@
   <head>
     <title>Press Start - osu! UCI</title>
     <meta charset="UTF-8">
-    <link rel="icon" href="http://osuuci.com/resources/favicon.ico">
-    <link rel="shortcut icon" href="http://osuuci.com/resources/favicon.ico">
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" media="screen and (orientation:landscape)" type="text/css" href="http://osuuci.com/resources/theme.css">
-    <link rel="stylesheet" media="screen and (orientation:portrait)" type="text/css" href="http://osuuci.com/resources/mobile.css">
+    <link rel="icon" href="https://osuuci.com/resources/favicon.ico">
+    <link rel="shortcut icon" href="https://osuuci.com/resources/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" media="screen and (orientation:landscape)" type="text/css" href="https://osuuci.com/resources/theme.css">
+    <link rel="stylesheet" media="screen and (orientation:portrait)" type="text/css" href="https://osuuci.com/resources/mobile.css">
   </head>
 
   <body>
     <div class="buttons">
       <table>
 	<tr>
-	  <td><a href="http://osuuci.com/home" class="button"><img alt="Home" title="Home" src="http://osuuci.com/resources/iconHome.png"/></a></td>
-	  <td><a href="http://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="http://osuuci.com/resources/iconOfficers.png"/></a></td>
-	  <td><a href="http://osuuci.com/about" class="button"><img alt="About" title="About" src="http://osuuci.com/resources/iconAbout.png"/></a></td>
-	  <td><a href="http://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="http://osuuci.com/resources/iconContact.png"/></a></td>
-	  <td><a href="http://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="http://osuuci.com/resources/iconTournaments.png"/></a></td>
+	  <td><a href="https://osuuci.com/home" class="button"><img alt="Home" title="Home" src="https://osuuci.com/resources/iconHome.png"/></a></td>
+	  <td><a href="https://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="https://osuuci.com/resources/iconOfficers.png"/></a></td>
+	  <td><a href="https://osuuci.com/about" class="button"><img alt="About" title="About" src="https://osuuci.com/resources/iconAbout.png"/></a></td>
+	  <td><a href="https://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="https://osuuci.com/resources/iconContact.png"/></a></td>
+	  <td><a href="https://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="https://osuuci.com/resources/iconTournaments.png"/></a></td>
 	</tr>
       </table>
     </div>
@@ -27,16 +27,16 @@
       <h2>Old Links</h2>
       <p>
       <ul>
-	<li><a href="http://osuuci.com/tournaments/pressstart">Summary</a></li>
-	<li><a href="http://osuuci.com/tournaments/pressstart/registration">Registration and Housing</a></li>
-	<li><a href="http://osuuci.com/tournaments/pressstart/tournament">Tournament Rules and Info</a></li>
-	<li><a href="http://osuuci.com/tournaments/pressstart/brackets">Brackets and Schedule</a></li>
-	<li><a href="http://osuuci.com/tournaments/pressstart/mappool">Map Pool</a></li>
+	<li><a href="https://osuuci.com/tournaments/pressstart">Summary</a></li>
+	<li><a href="https://osuuci.com/tournaments/pressstart/registration">Registration and Housing</a></li>
+	<li><a href="https://osuuci.com/tournaments/pressstart/tournament">Tournament Rules and Info</a></li>
+	<li><a href="https://osuuci.com/tournaments/pressstart/brackets">Brackets and Schedule</a></li>
+	<li><a href="https://osuuci.com/tournaments/pressstart/mappool">Map Pool</a></li>
       </ul>
       <h2 id="pressstart">Press Start: Irvine 2015</h2>
-      <p>osu! UCI be hosting an osu! tournament at <a href="http://startlan.com/">Press Start: Irvine 2015</a>, a LAN that will be coming to Irvine next month. The LAN takes place May 9-10th in the Bren Event Center. There'll be a lot of games and tournaments with a lot of great prizes, so make sure to check out the entire event! The osu! tournament will play only on the 10th, so you can join other tournaments the day before. To register specifically for the osu! tournament, follow these two steps:</p>
+      <p>osu! UCI be hosting an osu! tournament at <a href="https://startlan.com/">Press Start: Irvine 2015</a>, a LAN that will be coming to Irvine next month. The LAN takes place May 9-10th in the Bren Event Center. There'll be a lot of games and tournaments with a lot of great prizes, so make sure to check out the entire event! The osu! tournament will play only on the 10th, so you can join other tournaments the day before. To register specifically for the osu! tournament, follow these two steps:</p>
       <ul>
-	<li><a href="http://www.lanreg.org/pressstart/irvine2015">Reserve a seat</a> for the LAN. Enter the promocode "MSIDRAGON" for a $10 discount. The tournaments are free to watch, but entering as a competitor requires a seat pass.</li>
+	<li><a href="https://www.lanreg.org/pressstart/irvine2015">Reserve a seat</a> for the LAN. Enter the promocode "MSIDRAGON" for a $10 discount. The tournaments are free to watch, but entering as a competitor requires a seat pass.</li>
       </ul>
       <img src="lanarea.png"/>
       <p class="caption">Unofficially, we've organized a good chunk of us at the bottom</p>

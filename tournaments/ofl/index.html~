@@ -3,22 +3,22 @@
   <head>
     <title>osu! UCI Fall LAN</title>
     <meta charset="UTF-8">
-    <link rel="icon" href="http://osuuci.com/resources/favicon.ico">
-    <link rel="shortcut icon" href="http://osuuci.com/resources/favicon.ico">
+    <link rel="icon" href="https://osuuci.com/resources/favicon.ico">
+    <link rel="shortcut icon" href="https://osuuci.com/resources/favicon.ico">
 
-    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
-    <link href="http://osuuci.com/tournaments/ofl/ofl.css" type="text/css" rel="stylesheet"/>
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
+    <link href="https://osuuci.com/tournaments/ofl/ofl.css" type="text/css" rel="stylesheet"/>
   </head>
 
   <body>
     <div class="buttons">
       <table>
 	<tr>
-	  <td><a href="http://osuuci.com/home" class="button"><img alt="Home" title="Home" src="oflHome.png"/></a></td>
-	  <td><a href="http://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="oflOfficers.png"/></a></td>
-	  <td><a href="http://osuuci.com/about" class="button"><img alt="About" title="About" src="oflAbout.png"/></a></td>
-	  <td><a href="http://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="oflContact.png"/></a></td>
-	  <td><a href="http://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="oflTournaments.png"/></a></td>
+	  <td><a href="https://osuuci.com/home" class="button"><img alt="Home" title="Home" src="oflHome.png"/></a></td>
+	  <td><a href="https://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="oflOfficers.png"/></a></td>
+	  <td><a href="https://osuuci.com/about" class="button"><img alt="About" title="About" src="oflAbout.png"/></a></td>
+	  <td><a href="https://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="oflContact.png"/></a></td>
+	  <td><a href="https://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="oflTournaments.png"/></a></td>
 	</tr>
       </table>
     </div>
@@ -28,73 +28,73 @@
       <!-- start buttons -->
       
       <div class="sideButtons">
-	<a href="http://osuuci.com/tournaments/ofl#introduction" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/ofl#introduction" class="noDecoration">
           <div class="sideButton">
-            <img src="http://osuuci.com/tournaments/ofl/link1.png"/>
+            <img src="https://osuuci.com/tournaments/ofl/link1.png"/>
             <p>Intro</p>
           </div>
 	</a>
 	
-	<a href="http://osuuci.com/tournaments/ofl#location" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/ofl#location" class="noDecoration">
           <div class="sideButton">
-            <img src="http://osuuci.com/tournaments/ofl/link2.png"/>
+            <img src="https://osuuci.com/tournaments/ofl/link2.png"/>
             <p>Location</p>
           </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/ofl#registration" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/ofl#registration" class="noDecoration">
           <div class="sideButton">
-            <img src="http://osuuci.com/tournaments/ofl/link3.png"/>
+            <img src="https://osuuci.com/tournaments/ofl/link3.png"/>
             <p>Registration</p>
           </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/ofl#format" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/ofl#format" class="noDecoration">
           <div class="sideButton">
-            <img src="http://osuuci.com/tournaments/ofl/link4.png"/>
+            <img src="https://osuuci.com/tournaments/ofl/link4.png"/>
             <p>Format</p>
           </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/ofl#prizing" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/ofl#prizing" class="noDecoration">
           <div class="sideButton">
-            <img src="http://osuuci.com/tournaments/ofl/link5.png"/>
+            <img src="https://osuuci.com/tournaments/ofl/link5.png"/>
             <p>Prizing</p>
           </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/ofl#rules" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/ofl#rules" class="noDecoration">
           <div class="sideButton">
-            <img src="http://osuuci.com/tournaments/ofl/link6.png"/>
+            <img src="https://osuuci.com/tournaments/ofl/link6.png"/>
             <p>Rules</p>
           </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/ofl#brackets" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/ofl#brackets" class="noDecoration">
           <div class="sideButton">
-            <img src="http://osuuci.com/tournaments/ofl/link7.png"/>
+            <img src="https://osuuci.com/tournaments/ofl/link7.png"/>
             <p>Brackets</p>
           </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/ofl#schedule" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/ofl#schedule" class="noDecoration">
           <div class="sideButton">
-            <img src="http://osuuci.com/tournaments/ofl/link8.png"/>
+            <img src="https://osuuci.com/tournaments/ofl/link8.png"/>
             <p>Schedule</p>
           </div>
 	</a>
 	
-	<a href="http://osuuci.com/tournaments/ofl#mappools" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/ofl#mappools" class="noDecoration">
           <div class="sideButton">
-            <img src="http://osuuci.com/tournaments/ofl/link9.png"/>
+            <img src="https://osuuci.com/tournaments/ofl/link9.png"/>
             <p>Map Pools</p>
           </div>
 	</a>
 
 
-	<a href="http://osuuci.com/tournaments/ofl#contact" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/ofl#contact" class="noDecoration">
           <div class="sideButton">
-            <img src="http://osuuci.com/tournaments/ofl/link10.png"/>
+            <img src="https://osuuci.com/tournaments/ofl/link10.png"/>
             <p>Contact</p>
           </div>
 	</a>
@@ -541,7 +541,7 @@
       
 
       <h2 id="contact">Contact</h2>
-      <p>If you have any questions, comments, or concerns, feel free to message any one of the <a href="http://osuuci.com/officers">osu! UCI officers</a>, send an email to <a href="mailto:osuuci@gmail.com">osuuci@gmail.com</a>, or <a href="https://twitter.com/osuUCI">Tweet</a> at us.</p>
+      <p>If you have any questions, comments, or concerns, feel free to message any one of the <a href="https://osuuci.com/officers">osu! UCI officers</a>, send an email to <a href="mailto:osuuci@gmail.com">osuuci@gmail.com</a>, or <a href="https://twitter.com/osuUCI">Tweet</a> at us.</p>
 
     </div>
   </body>

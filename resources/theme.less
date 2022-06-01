@@ -1,287 +1,286 @@
 ﻿html {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-weight: normal;
-    background-color: white;
-    width: 100%;
-    height: 100%;
-    overflow-y: scroll;
-    margin: 0;
-    background-image: url("http://osuuci.com/resources/background.jpg");
-    background-repeat: repeat;
-    background-position: center;
-    background-size: 67.5em 67.5em;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: normal;
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+  margin: 0;
+  background-image: url("https://osuuci.com/resources/background.jpg");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: 67.5em 67.5em;
 }
 
 body {
-    margin: auto;
-    padding: 0;
+  margin: auto;
+  padding: 0;
 }
 
 a {
-    position: relative;
-    z-index: 2;
-    
-    &:link {
-        color: #0000EE;
+  position: relative;
+  z-index: 2;
+
+  &:link {
+    color: #0000ee;
+  }
+
+  &:visited {
+    color: #0000ee;
+  }
+
+  &.noDecoration {
+    text-decoration: none;
+    color: black;
+  }
+
+  &.button {
+    display: block;
+    text-align: center;
+    width: 5em;
+    height: 5em;
+    margin: 0.25em;
+    border: 0.15em solid transparent;
+    border-radius: 100%;
+    border-color: transparent;
+
+    img {
+      width: 100%;
+      height: 100%;
+      margin: 0 auto;
     }
 
-    &:visited {
-        color: #0000EE;
+    &:hover {
+      border-color: #dfdbec;
     }
-
-    &.noDecoration {
-        text-decoration: none;
-        color: black;
-    }
-
-    &.button {
-        display: block;
-        text-align: center;
-        width: 5em;
-        height: 5em;
-        margin: 0.25em;
-        border: 0.15em solid transparent;
-        border-radius: 100%;
-        border-color: transparent;
-
-        img {
-            width: 100%;
-            height: 100%;
-            margin: 0 auto;
-        }
-
-        &:hover {
-            border-color: #dfdbec;
-        }
-    }
+  }
 }
 
-
 h2 {
-    font-size: 1.5em;
-    font-weight: bold;
-    margin-bottom: -1em;
-    color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: -1em;
+  color: black;
 }
 
 p {
-    font-size: 1.2em;
-    line-height: 1.5em;
-    padding-top: 0.25em;
-    padding-bottom: 0.25em;
-    color: black;
+  font-size: 1.2em;
+  line-height: 1.5em;
+  padding-top: 0.25em;
+  padding-bottom: 0.25em;
+  color: black;
 }
 
 img {
-    display: block;
-    text-align: center;
-    border-radius: 1em;
-    margin: 1.5em auto;
+  display: block;
+  text-align: center;
+  border-radius: 1em;
+  margin: 1.5em auto;
 
-    &.widthConstrain {
-        width: 40em;
-    }
+  &.widthConstrain {
+    width: 40em;
+  }
 
-    &.heightConstrain {
-        height: 40em;
-    }
+  &.heightConstrain {
+    height: 40em;
+  }
 
+  &.banner {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
+
+  @media all and (orientation: portrait) {
     &.banner {
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        margin: auto;
+      width: 85%;
     }
+  }
 
-    @media all and (orientation:portrait) {
-        &.banner {
-            width: 85%;
-        }
+  @media all and (orientation: landscape) {
+    &.banner {
+      height: 85%;
     }
-
-    @media all and (orientation:landscape) {
-        &.banner {
-            height: 85%;
-        }
-    }
+  }
 }
 
 ul {
-    font-size: 1.2em;
-    line-height: 1.5em;
-    margin-top: -1em;
+  font-size: 1.2em;
+  line-height: 1.5em;
+  margin-top: -1em;
 }
 
 iframe {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
 div.buttons {
-    height: 100%;
-    width: 100%;
+  height: 100%;
+  width: 100%;
 
-    > table {
-        border-collapse: collapse;
-        margin: 0 auto;
-    }
+  > table {
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
 
-    a.selected {
-        border-color: #dfdbec;
-    }
+  a.selected {
+    border-color: #dfdbec;
+  }
 }
 
 div.links {
-    position: absolute;
-    margin-left: auto;
-    margin-right: auto;
-    bottom: 0;
-    text-align: center;
-    width: 100%;
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
 
-    tr {
-        display: inline-block;
-    }
+  tr {
+    display: inline-block;
+  }
 }
 
 .mid {
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 1.5em;
-    width: 40em;
-    position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1.5em;
+  width: 40em;
+  position: relative;
 
-    p.caption {
-        margin-top: -1.5em;
-        text-align: center;
-    }
+  p.caption {
+    margin-top: -1.5em;
+    text-align: center;
+  }
 
-    p.signature {
-        margin-top: -1.5em;
-        text-align: right;
-    }
+  p.signature {
+    margin-top: -1.5em;
+    text-align: right;
+  }
 }
 
 .showcase {
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em;
+
+  > table {
+    margin: -1.5em auto -2.5em;
     width: 40em;
+    border-collapse: collapse;
+  }
 
-    > table {
-        margin: -1.5em auto -2.5em;
-        width: 40em;
-        border-collapse: collapse;
-    }
+  tr > td:first-child {
+    width: 12em;
+    height: 15em;
+  }
 
-    tr > td:first-child {
-        width: 12em;
-        height: 15em;
-    }
+  tr > td:nth-child(2) {
+    width: 28em;
+    height: 15em;
+  }
 
-    tr > td:nth-child(2) {
-        width: 28em;
-        height: 15em;
-    }
+  tr > td:first-child img {
+    display: block;
+    width: 12em;
+    height: 12em;
+  }
 
-    tr > td:first-child img {
-        display: block;
-        width: 12em;
-        height: 12em;
-    }
+  p {
+    padding: 0 10% 0 10%;
+    line-height: 0.5em;
+  }
 
-    p {
-        padding: 0 10% 0 10%;
-        line-height: 0.5em;
-    }
+  tr > td:nth-child(2) > p:first-child {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 0;
+  }
 
-    tr > td:nth-child(2) > p:first-child {
-        font-weight: bold;
-        font-size: 1.5em;
-        margin-bottom: 0;
-    }
+  a:first-child {
+    background-color: red;
+  }
 
-    a:first-child {
-        background-color: red;
-    }
+  tr > td:nth-child(2) a {
+    display: inline-block;
+  }
 
-    tr > td:nth-child(2) a {
-        display: inline-block;
-    }
-
-    a:nth-child(4) {
-        margin-left: 2em;
-    }
+  a:nth-child(4) {
+    margin-left: 2em;
+  }
 }
 
 .archive {
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em;
+  > table {
+    margin: -1.5em auto -2.5em;
     width: 40em;
-    > table {
-        margin: -1.5em auto -2.5em;
-        width: 40em;
-        border-collapse: collapse;
-    }
+    border-collapse: collapse;
+  }
 
-    tr > td:first-child {
-        width: 20em;
-        height: 5em;
-    }
+  tr > td:first-child {
+    width: 20em;
+    height: 5em;
+  }
 
-    tr > td:nth-child(2) {
-        width: 20em;
-        height: 5em;
-    }
+  tr > td:nth-child(2) {
+    width: 20em;
+    height: 5em;
+  }
 
-    tr > td:first-child img {
-        text-align: right;
-        display: block;
-        width: 5em;
-        height: 5em;
-        border: 0.15em solid transparent;
-        border-radius: 100%;
-    }
+  tr > td:first-child img {
+    text-align: right;
+    display: block;
+    width: 5em;
+    height: 5em;
+    border: 0.15em solid transparent;
+    border-radius: 100%;
+  }
 
-    p {
-        padding: 0 10% 0 10%;
-        line-height: 0.5em;
-    }
+  p {
+    padding: 0 10% 0 10%;
+    line-height: 0.5em;
+  }
 
-    tr > td:nth-child(2) > p:first-child {
-        font-weight: bold;
-        font-size: 1.5em;
-        margin-bottom: 0;
-    }
+  tr > td:nth-child(2) > p:first-child {
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-bottom: 0;
+  }
 
-    tr > td:first-child img:hover {
-        border-color: #d7eff5;
-    }
+  tr > td:first-child img:hover {
+    border-color: #d7eff5;
+  }
 }
 
 .schedule {
-    > table {
-        margin-left: auto;
-        margin-right: auto;
-        border-collapse: collapse;
-        border: 2px solid black;
-    }
+  > table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border: 2px solid black;
+  }
 
-    td {
-        border: 1px solid black;
-        padding: 0;
-        margin: 0;
-    }
+  td {
+    border: 1px solid black;
+    padding: 0;
+    margin: 0;
+  }
 
-    p {
-        padding: 0.5em;
-        margin: 0;
-    }
+  p {
+    padding: 0.5em;
+    margin: 0;
+  }
 
-    tr:first-child td p {
-        font-weight: bold;
-    }
+  tr:first-child td p {
+    font-weight: bold;
+  }
 }

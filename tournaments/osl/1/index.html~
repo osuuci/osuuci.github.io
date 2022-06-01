@@ -5,9 +5,9 @@
     <meta charset="utf-8" />
     <title>OSL Week 1 - osu! UCI</title>
 
-    <link rel="icon" href="http://osuuci.com/resources/favicon.ico">
-    <link rel="shortcut icon" href="http://osuuci.com/resources/favicon.ico">
-    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
+    <link rel="icon" href="https://osuuci.com/resources/favicon.ico">
+    <link rel="shortcut icon" href="https://osuuci.com/resources/favicon.ico">
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700' rel='stylesheet' type='text/css'>
     <link href="../theme.css" type="text/css" rel="stylesheet"/>
 
   </head>
@@ -16,120 +16,120 @@
     <div class="buttons">
       <table>
         <tr>
-          <td><a href="http://osuuci.com/home" class="button"><img alt="Home" title="Home" src="http://osuuci.com/resources/orangeIconHome.png" /></a></td>
-          <td><a href="http://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="http://osuuci.com/resources/orangeIconOfficers.png" /></a></td>
-          <td><a href="http://osuuci.com/about" class="button"><img alt="About" title="About" src="http://osuuci.com/resources/orangeIconAbout.png" /></a></td>
-          <td><a href="http://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="http://osuuci.com/resources/orangeIconContact.png" /></a></td>
-          <td><a href="http://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="http://osuuci.com/resources/orangeIconTournament.png" /></a></td>
+          <td><a href="https://osuuci.com/home" class="button"><img alt="Home" title="Home" src="https://osuuci.com/resources/orangeIconHome.png" /></a></td>
+          <td><a href="https://osuuci.com/officers" class="button"><img alt="Officers" title="Officers" src="https://osuuci.com/resources/orangeIconOfficers.png" /></a></td>
+          <td><a href="https://osuuci.com/about" class="button"><img alt="About" title="About" src="https://osuuci.com/resources/orangeIconAbout.png" /></a></td>
+          <td><a href="https://osuuci.com/contact" class="button"><img alt="Contact" title="Contact" src="https://osuuci.com/resources/orangeIconContact.png" /></a></td>
+          <td><a href="https://osuuci.com/tournaments" class="button selected"><img alt="Tournaments" title="Tournaments" src="https://osuuci.com/resources/orangeIconTournament.png" /></a></td>
         </tr>
       </table>
     </div>
 
     <div class="mid">
       <div class="weekButtons">
-	<a href="http://osuuci.com/tournaments/osl" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl" class="noDecoration">
 	  <div class="sideButton weekButton">
 	    <p>Home</p>
-	    <img src="http://osuuci.com/tournaments/osl/weekHome.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/weekHome.png"/>
 	  </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/osl/1" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl/1" class="noDecoration">
 	  <div class="sideButton weekButton">
 	    <p>Week 1</p>
-	    <img src="http://osuuci.com/tournaments/osl/week1.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/week1.png"/>
 	  </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/osl/2" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl/2" class="noDecoration">
 	  <div class="sideButton weekButton">
 	    <p>Week 2</p>
-	    <img src="http://osuuci.com/tournaments/osl/week2.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/week2.png"/>
 	  </div>
 	</a>
 	
-	<a href="http://osuuci.com/tournaments/osl/3" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl/3" class="noDecoration">
 	  <div class="sideButton weekButton">
 	    <p>Week 3</p>
-	    <img src="http://osuuci.com/tournaments/osl/week3.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/week3.png"/>
 	  </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/osl/4" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl/4" class="noDecoration">
 	  <div class="sideButton weekButton">
 	    <p>Week 4</p>
-	    <img src="http://osuuci.com/tournaments/osl/week4.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/week4.png"/>
 	  </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/osl/5" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl/5" class="noDecoration">
 	  <div class="sideButton weekButton">
 	    <p>Week 5</p>
-	    <img src="http://osuuci.com/tournaments/osl/week5.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/week5.png"/>
 	  </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/osl/6" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl/6" class="noDecoration">
 	  <div class="sideButton weekButton">
 	    <p>Week 6</p>
-	    <img src="http://osuuci.com/tournaments/osl/week6.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/week6.png"/>
 	  </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/osl/7" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl/7" class="noDecoration">
 	  <div class="sideButton weekButton">
 	    <p>Week 7</p>
-	    <img src="http://osuuci.com/tournaments/osl/week7.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/week7.png"/>
 	  </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/osl/8" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl/8" class="noDecoration">
 	  <div class="sideButton weekButton">
 	    <p>Week 8</p>
-	    <img src="http://osuuci.com/tournaments/osl/week8.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/week8.png"/>
 	  </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/osl/9" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl/9" class="noDecoration">
 	  <div class="sideButton weekButton">
 	    <p>Week 9</p>
-	    <img src="http://osuuci.com/tournaments/osl/week9.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/week9.png"/>
 	  </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/osl/10" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl/10" class="noDecoration">
 	  <div class="sideButton weekButton">
 	    <p>Week 10</p>
-	    <img src="http://osuuci.com/tournaments/osl/week10.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/week10.png"/>
 	  </div>
 	</a>
       </div>
 
       <div class="sideButtons">
-	<a href="http://osuuci.com/tournaments/osl/1#summary" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl/1#summary" class="noDecoration">
 	  <div class="sideButton">
-	    <img src="http://osuuci.com/tournaments/osl/1.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/1.png"/>
 	    <p>Summary</p>
 	  </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/osl/1#schedule" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl/1#schedule" class="noDecoration">
 	  <div class="sideButton">
-	    <img src="http://osuuci.com/tournaments/osl/2.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/2.png"/>
 	    <p>Schedule</p>
 	  </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/osl/1#mappool" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl/1#mappool" class="noDecoration">
 	  <div class="sideButton">
-	    <img src="http://osuuci.com/tournaments/osl/3.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/3.png"/>
 	    <p>Map Pool</p>
 	  </div>
 	</a>
 
-	<a href="http://osuuci.com/tournaments/osl/1#vods" class="noDecoration">
+	<a href="https://osuuci.com/tournaments/osl/1#vods" class="noDecoration">
 	  <div class="sideButton">
-	    <img src="http://osuuci.com/tournaments/osl/4.png"/>
+	    <img src="https://osuuci.com/tournaments/osl/4.png"/>
 	    <p>VoDs</p>
 	  </div>
 	</a>
@@ -1032,7 +1032,7 @@
 	    <a href="https://osu.ppy.sh/u/leluffy">leluffy</a>
 	  </td>
 	  <td>2-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17395929'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17395929'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
 	  </td>
@@ -1051,7 +1051,7 @@
 	    <a href="https://osu.ppy.sh/u/tyronetoblerone">tyronetoblerone</a>
 	  </td>
 	  <td>2-1</td>
-	  <td><a href='https://osu.ppy.sh/mp/17419730'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17419730'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/1472763">osuuci dot com</a>
 	  </td>
@@ -1070,7 +1070,7 @@
 	    <a href="https://osu.ppy.sh/u/Rhylent">Rhylent</a>
 	  </td>
 	  <td>2-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17419893'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17419893'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/mauler68">mauler68</a>
 	  </td>
@@ -1089,7 +1089,7 @@
 	    <a href="https://osu.ppy.sh/u/YunoWhoItIs">YunoWhoItIs</a>
 	  </td>
 	  <td>0-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17420330'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17420330'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
 	  </td>
@@ -1108,7 +1108,7 @@
 	    <a href="https://osu.ppy.sh/u/-%20Nakano%20Azusa-">- Nakano Azusa-</a>
 	  </td>
 	  <td>0-2</td>
-	  <td><a href='https://osu.ppy.sh/mp/17420323'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17420323'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/1472763">osuuci dot com</a>
 	  </td>
@@ -1127,7 +1127,7 @@
 	    <a href="https://osu.ppy.sh/u/plaatinum">plaatinum</a>
 	  </td>
 	  <td>0-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17420426'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17420426'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
 	  </td>
@@ -1146,7 +1146,7 @@
 	    <a href="https://osu.ppy.sh/u/shivo">shivo</a>
 	  </td>
 	  <td>0-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17420621'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17420621'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/mauler68">mauler68</a>
 	  </td>
@@ -1165,7 +1165,7 @@
 	    <a href="https://osu.ppy.sh/u/Bastia">Bastia</a>
 	  </td>
 	  <td>0-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17420465'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17420465'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
 	  </td>
@@ -1184,7 +1184,7 @@
 	    <a href="https://osu.ppy.sh/u/Kyoko">Kyoko</a>
 	  </td>
 	  <td>0-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17420825'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17420825'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/1472763">osuuci dot com</a>
 	  </td>
@@ -1203,7 +1203,7 @@
 	    <a href="https://osu.ppy.sh/u/bananamilk">bananamilk</a>
 	  </td>
 	  <td>0-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17420871'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17420871'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
 	  </td>
@@ -1222,7 +1222,7 @@
 	    <a href="https://osu.ppy.sh/u/Keanu">Keanu</a>
 	  </td>
 	  <td>2-1</td>
-	  <td><a href='https://osu.ppy.sh/mp/17420877'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17420877'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
 	  </td>
@@ -1241,7 +1241,7 @@
 	    <a href="https://osu.ppy.sh/u/Comett">Comett</a>
 	  </td>
 	  <td>0-2</td>
-	  <td><a href='https://osu.ppy.sh/mp/17421067'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17421067'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/1472763">osuuci dot com</a>
 	  </td>
@@ -1260,7 +1260,7 @@
 	    <a href="https://osu.ppy.sh/u/Andrew">Andrew</a>
 	  </td>
 	  <td>0-2</td>
-	  <td><a href='https://osu.ppy.sh/mp/17421324'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17421324'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/mauler68">mauler68</a>
 	  </td>
@@ -1279,7 +1279,7 @@
 	    <a href="https://osu.ppy.sh/u/Demitoo">Demitoo</a>
 	  </td>
 	  <td>0-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17421082'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17421082'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
 	  </td>
@@ -1298,7 +1298,7 @@
 	    <a href="https://osu.ppy.sh/u/jaskier2">jaskier2</a>
 	  </td>
 	  <td>2-1</td>
-	  <td><a href='http://osu.ppy.sh/mp/17442753'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17442753'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
 	  </td>
@@ -1317,7 +1317,7 @@
 	    <a href="https://osu.ppy.sh/u/BradXYZ">BradXYZ</a>
 	  </td>
 	  <td>2-1</td>
-	  <td><a href='https://osu.ppy.sh/mp/17442771'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a><a href='https://osu.ppy.sh/mp/17443367'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17442771'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a><a href='https://osu.ppy.sh/mp/17443367'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/mauler68">mauler68</a>
 	  </td>
@@ -1336,7 +1336,7 @@
 	    <a href="https://osu.ppy.sh/u/Endyron">Endyron</a>
 	  </td>
 	  <td>0-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17442767'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17442767'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
 	  </td>
@@ -1355,7 +1355,7 @@
 	    <a href="https://osu.ppy.sh/u/Karuta-">Karuta-</a>
 	  </td>
 	  <td>1-2</td>
-	  <td><a href='https://osu.ppy.sh/mp/17443152'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17443152'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/1472763">osuuci dot com</a>
 	  </td>
@@ -1374,7 +1374,7 @@
 	    <a href="https://osu.ppy.sh/u/ScrYpt">ScrYpt</a>
 	  </td>
 	  <td>0-0</td>
-	  <td><a href='http://osu.ppy.sh/mp/17443386'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17443386'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
 	  </td>
@@ -1393,7 +1393,7 @@
 	    <a href="https://osu.ppy.sh/u/kymotsujason">kymotsujason</a>
 	  </td>
 	  <td>2-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17443256'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17443256'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/mauler68">mauler68</a>
 	  </td>
@@ -1412,7 +1412,7 @@
 	    <a href="https://osu.ppy.sh/u/Raddy">Raddy</a>
 	  </td>
 	  <td>0-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17443233'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17443233'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
 	  </td>
@@ -1431,7 +1431,7 @@
 	    <a href="https://osu.ppy.sh/u/Zafkiel">Zafkiel</a>
 	  </td>
 	  <td>2-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17443624'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17443624'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/1472763">osuuci dot com</a>
 	  </td>
@@ -1450,7 +1450,7 @@
 	    <a href="https://osu.ppy.sh/u/captin1">captin1</a>
 	  </td>
 	  <td>2-0</td>
-	  <td><a href='http://osu.ppy.sh/mp/17443570'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17443570'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
 	  </td>
@@ -1469,7 +1469,7 @@
 	    <a href="https://osu.ppy.sh/u/Dunois">Dunois</a>
 	  </td>
 	  <td>0-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17443663'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17443663'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/mauler68">mauler68</a>
 	  </td>
@@ -1488,7 +1488,7 @@
 	    <a href="https://osu.ppy.sh/u/Keepu">Keepu</a>
 	  </td>
 	  <td>2-1</td>
-	  <td><a href='https://osu.ppy.sh/mp/17443604'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17443604'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
 	  </td>
@@ -1507,7 +1507,7 @@
 	    <a href="https://osu.ppy.sh/u/Xbox">Xbox</a>
 	  </td>
 	  <td>0-0</td>
-	  <td><a href='https://osu.ppy.sh/mp/17443840'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17443840'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/1472763">osuuci dot com</a>
 	  </td>
@@ -1526,7 +1526,7 @@
 	    <a href="https://osu.ppy.sh/u/Ultraplex1337">Ultraplex1337</a>
 	  </td>
 	  <td>0-0</td>
-	  <td><a href='http://osu.ppy.sh/mp/17443892'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17443892'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/shintomo">Shintomo</a>
 	  </td>
@@ -1545,7 +1545,7 @@
 	    <a href="https://osu.ppy.sh/u/Kaifin">Kaifin</a>
 	  </td>
 	  <td>1-2</td>
-	  <td><a href='https://osu.ppy.sh/mp/17444033'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17444033'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/mauler68">mauler68</a>
 	  </td>
@@ -1564,7 +1564,7 @@
 	    <a href="https://osu.ppy.sh/u/kutora">kutora</a>
 	  </td>
 	  <td>2-1</td>
-	  <td><a href='https://osu.ppy.sh/mp/17443792'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17443792'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
 	  </td>
@@ -1583,7 +1583,7 @@
 	    <a href="https://osu.ppy.sh/u/kennyyam">kennyyam</a>
 	  </td>
 	  <td>1-2</td>
-	  <td><a href='http://osu.ppy.sh/mp/17443964'><img src='http://osuuci.com/tournaments/osl/arrow.png' /></a></td>
+	  <td><a href='https://osu.ppy.sh/mp/17443964'><img src='https://osuuci.com/tournaments/osl/arrow.png' /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/shintomo">Xenocidel</a>
 	  </td>
@@ -1602,7 +1602,7 @@
 	    <a href="https://osu.ppy.sh/u/Antares-">Antares-</a>
 	  </td>
 	  <td>1-2</td>
-	  <td><a href="https://osu.ppy.sh/mp/17468540"><img src="http://osuuci.com/tournaments/osl/arrow.png" /></a></td>
+	  <td><a href="https://osu.ppy.sh/mp/17468540"><img src="https://osuuci.com/tournaments/osl/arrow.png" /></a></td>
 	  <td>
 	    <a href="https://osu.ppy.sh/u/lalipo">lalipo</a>
 	  </td>
@@ -1622,7 +1622,7 @@
     <div class="mid">
       <div id="mappool">
 	<h2>Map Pool</h2>
-	<p>We have compiled a <a href="http://osuuci.com/tournaments/osl/1/week1.rar">collection</a> of the week's maps together for download. Inside the .rar is a copy of the <a href="https://osu.ppy.sh/forum/t/131103">osu!Collections Editor</a> to interact with our .osdb collection. More indepth instructions are available in the Editor link, but for basic functionality:</p>
+	<p>We have compiled a <a href="https://osuuci.com/tournaments/osl/1/week1.rar">collection</a> of the week's maps together for download. Inside the .rar is a copy of the <a href="https://osu.ppy.sh/forum/t/131103">osu!Collections Editor</a> to interact with our .osdb collection. More indepth instructions are available in the Editor link, but for basic functionality:</p>
 	<ul>
 	  <li>Load your current beatmaps by pointing to your root osu! folder</li>
 	  <li>Open our collection file</li>
